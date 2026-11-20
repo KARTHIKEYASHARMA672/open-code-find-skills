@@ -1,1002 +1,2002 @@
-# Skills index (1000 skills, v2 - hard, agent-ready)
+# Skills index (2000 skills - v2 + v3)
 
-- [Automate a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./automate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — automation
-- [Automate a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./automate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — automation
-- [Automate a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./automate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — automation
-- [Automate a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./automate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — automation
-- [Automate a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./automate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — automation
-- [Automate a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./automate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — automation
-- [Automate a static site on GitHub Pages that lists all your projects with descriptions](./automate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — automation
-- [Automate an MCP server that exposes your docs to OpenCode](./automate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — automation
-- [Automate a cron job that runs a Python script every hour and appends results to a CSV](./automate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — automation
-- [Automate a Chrome extension that summarizes the current article via a free-tier AI](./automate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — automation
-- [Automate a PostgreSQL migration tool that validates data before applying changes](./automate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — automation
-- [Automate a Sentry-style error logger that captures and emails runtime errors](./automate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — automation
-- [Automate a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./automate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — automation
-- [Automate a monitoring dashboard with alerts for a Vercel production app](./automate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — automation
-- [Automate a backup job that copies your repo to a GitHub mirror daily](./automate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — automation
-- [Automate a test generator that creates unit tests from an existing module](./automate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — automation
-- [Automate a search indexer that makes your docs searchable](./automate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — automation
-- [Automate a dockerized Fastify API with health endpoints and graceful shutdown](./automate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — automation
-- [Automate a PDF changelog generator from commit messages](./automate-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — automation
-- [Automate a Vercel log analyzer that finds errors in deployment logs](./automate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — automation
-- [Automate a GitHub-to-Notion sync for issues and PRs](./automate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — automation
-- [Automate a long-tail video render script using ffmpeg for your project videos](./automate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — automation
-- [Automate a spreadsheet (TSV) export pipeline for data analysis](./automate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — automation
-- [Automate a background job queue (Redis-based) for slow tasks](./automate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — automation
-- [Automate a unit-test coverage dashboard for your CI](./automate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — automation
-- [Automate an alerting pipeline that pings you on Slack/Telegram on monitor failures](./automate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — automation
-- [Automate a TypeScript utility for parsing and validating complex configs](./automate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — automation
-- [Automate a performance profiler for Node/Python endpoints](./automate-a-performance-profiler-for-node-python-endpoints/SKILL.md) — automation
-- [Automate a weekly research digest script using a search API](./automate-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — automation
-- [Automate a website Uptime/status page with page-specific checks](./automate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — automation
-- [Automate a GitHub Pages skill that renders your OpenAPI spec into docs](./automate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — automation
-- [Automate a desktop app wrapper for a web dashboard (Electron)](./automate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — automation
-- [Automate a robust API error handler that retries with exponential backoff](./automate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — automation
-- [Automate a PDF merger/splitter utility for contract docs](./automate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — automation
-- [Automate a TypeScript CLI that uploads files to your Vercel Blob store](./automate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — automation
-- [Automate a GitHub-to-Zod validation generator for your API schemas](./automate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — automation
-- [Automate a private n8n workflow module for the workflow you build often](./automate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — automation
-- [Automate a PR description generator that fills descriptions from the diff](./automate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — automation
-- [Automate a GitHub Actions runner script that caches npm/pip installs](./automate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — automation
-- [Automate a time-tracking CLI that logs task durations in a local JSONL](./automate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — automation
-- [Automate a log rotation + compaction script for your app logs](./automate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — automation
-- [Automate an accessibility checker script that audits pages for issues](./automate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — automation
-- [Automate a data model migrator with rollback + verification checks](./automate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — automation
-- [Automate a CLI that generates test fixtures for your API from an OpenAPI spec](./automate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — automation
-- [Automate a CLI help/README generator for your project](./automate-a-cli-help-readme-generator-for-your-project/SKILL.md) — automation
-- [Automate a Vercel speed-test script that compares deploy URLs](./automate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — automation
-- [Automate an API rate-limiter and circuit-breaker wrapper](./automate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — automation
-- [Automate a Notion database that tracks your tasks + AI summarization skill](./automate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — automation
-- [Automate a GitHub Actions monthly spend analyzer](./automate-a-github-actions-monthly-spend-analyzer/SKILL.md) — automation
-- [Automate a CI cache warmer for your monorepo](./automate-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — automation
-- [Automate a PDF password remover/re-encryptor](./automate-a-pdf-password-remover-re-encryptor/SKILL.md) — automation
-- [Automate a broken-link checker that scans your docs](./automate-a-broken-link-checker-that-scans-your-docs/SKILL.md) — automation
-- [Automate a bug-triage assistant that summarizes issues by severity](./automate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — automation
-- [Automate a changelog summarizer that turns weekly commits into release notes](./automate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — automation
-- [Automate a cost-tracker CLI that logs spend per service to a spreadsheet](./automate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — automation
-- [Automate a data-quality checker for your raw datasets](./automate-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — automation
-- [Automate a migration verifier that compares pre/post data snapshots](./automate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — automation
-- [Automate an OpenAPI spec validator + docs sanity checker](./automate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — automation
-- [Automate a Vercel preview URL health checker + comment poster](./automate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — automation
-- [Automate a release drafter that creates release notes from merged PRs](./automate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — automation
-- [Automate a GitHub issue auto-labeler skill (AI-based) that works on PRs](./automate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — automation
-- [Automate a retry + circuit-breaker pattern for resilient background jobs](./automate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — automation
-- [Automate a self-updating docs generator that syncs README from code](./automate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — automation
-- [Build a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./build-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Build a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./build-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Build a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./build-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Build a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./build-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Build a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./build-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Build a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./build-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Build a static site on GitHub Pages that lists all your projects with descriptions](./build-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Build an MCP server that exposes your docs to OpenCode](./build-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Build a cron job that runs a Python script every hour and appends results to a CSV](./build-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Build a Chrome extension that summarizes the current article via a free-tier AI](./build-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Build a PostgreSQL migration tool that validates data before applying changes](./build-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Build a Sentry-style error logger that captures and emails runtime errors](./build-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Build a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./build-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Build a monitoring dashboard with alerts for a Vercel production app](./build-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Build a backup job that copies your repo to a GitHub mirror daily](./build-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Build a test generator that creates unit tests from an existing module](./build-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Build a search indexer that makes your docs searchable](./build-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Build a dockerized Fastify API with health endpoints and graceful shutdown](./build-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Build a PDF changelog generator from commit messages](./build-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Build a Vercel log analyzer that finds errors in deployment logs](./build-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Build a GitHub-to-Notion sync for issues and PRs](./build-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Build a long-tail video render script using ffmpeg for your project videos](./build-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Build a spreadsheet (TSV) export pipeline for data analysis](./build-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Build a background job queue (Redis-based) for slow tasks](./build-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Build a unit-test coverage dashboard for your CI](./build-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Build an alerting pipeline that pings you on Slack/Telegram on monitor failures](./build-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Build a TypeScript utility for parsing and validating complex configs](./build-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Build a performance profiler for Node/Python endpoints](./build-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Build a weekly research digest script using a search API](./build-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Build a website Uptime/status page with page-specific checks](./build-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Build a GitHub Pages skill that renders your OpenAPI spec into docs](./build-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Build a desktop app wrapper for a web dashboard (Electron)](./build-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Build a robust API error handler that retries with exponential backoff](./build-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Build a PDF merger/splitter utility for contract docs](./build-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Build a TypeScript CLI that uploads files to your Vercel Blob store](./build-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Build a GitHub-to-Zod validation generator for your API schemas](./build-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Build a private n8n workflow module for the workflow you build often](./build-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Build a PR description generator that fills descriptions from the diff](./build-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Build a GitHub Actions runner script that caches npm/pip installs](./build-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Build a time-tracking CLI that logs task durations in a local JSONL](./build-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Build a log rotation + compaction script for your app logs](./build-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Build an accessibility checker script that audits pages for issues](./build-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Build a data model migrator with rollback + verification checks](./build-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Build a CLI that generates test fixtures for your API from an OpenAPI spec](./build-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Build a CLI help/README generator for your project](./build-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Build a Vercel speed-test script that compares deploy URLs](./build-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Build an API rate-limiter and circuit-breaker wrapper](./build-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Build a Notion database that tracks your tasks + AI summarization skill](./build-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Build a GitHub Actions monthly spend analyzer](./build-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Build a CI cache warmer for your monorepo](./build-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Build a PDF password remover/re-encryptor](./build-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Build a broken-link checker that scans your docs](./build-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Build a bug-triage assistant that summarizes issues by severity](./build-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Build a changelog summarizer that turns weekly commits into release notes](./build-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Build a cost-tracker CLI that logs spend per service to a spreadsheet](./build-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
-- [Build a data-quality checker for your raw datasets](./build-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — coding
-- [Build a migration verifier that compares pre/post data snapshots](./build-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — coding
-- [Build an OpenAPI spec validator + docs sanity checker](./build-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — coding
-- [Build a Vercel preview URL health checker + comment poster](./build-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — coding
-- [Build a release drafter that creates release notes from merged PRs](./build-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — coding
-- [Build a GitHub issue auto-labeler skill (AI-based) that works on PRs](./build-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — coding
-- [Build a retry + circuit-breaker pattern for resilient background jobs](./build-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — coding
-- [Build a self-updating docs generator that syncs README from code](./build-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — coding
-- [Deploy a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./deploy-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Deploy a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./deploy-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Deploy a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./deploy-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Deploy a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./deploy-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Deploy a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./deploy-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Deploy a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./deploy-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Deploy a static site on GitHub Pages that lists all your projects with descriptions](./deploy-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Deploy an MCP server that exposes your docs to OpenCode](./deploy-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Deploy a cron job that runs a Python script every hour and appends results to a CSV](./deploy-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Deploy a Chrome extension that summarizes the current article via a free-tier AI](./deploy-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Deploy a PostgreSQL migration tool that validates data before applying changes](./deploy-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Deploy a Sentry-style error logger that captures and emails runtime errors](./deploy-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Deploy a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./deploy-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Deploy a monitoring dashboard with alerts for a Vercel production app](./deploy-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Deploy a backup job that copies your repo to a GitHub mirror daily](./deploy-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Deploy a test generator that creates unit tests from an existing module](./deploy-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Deploy a search indexer that makes your docs searchable](./deploy-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Deploy a dockerized Fastify API with health endpoints and graceful shutdown](./deploy-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Deploy a PDF changelog generator from commit messages](./deploy-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Deploy a Vercel log analyzer that finds errors in deployment logs](./deploy-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Deploy a GitHub-to-Notion sync for issues and PRs](./deploy-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Deploy a long-tail video render script using ffmpeg for your project videos](./deploy-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Deploy a spreadsheet (TSV) export pipeline for data analysis](./deploy-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Deploy a background job queue (Redis-based) for slow tasks](./deploy-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Deploy a unit-test coverage dashboard for your CI](./deploy-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Deploy an alerting pipeline that pings you on Slack/Telegram on monitor failures](./deploy-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Deploy a TypeScript utility for parsing and validating complex configs](./deploy-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Deploy a performance profiler for Node/Python endpoints](./deploy-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Deploy a weekly research digest script using a search API](./deploy-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Deploy a website Uptime/status page with page-specific checks](./deploy-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Deploy a GitHub Pages skill that renders your OpenAPI spec into docs](./deploy-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Deploy a desktop app wrapper for a web dashboard (Electron)](./deploy-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Deploy a robust API error handler that retries with exponential backoff](./deploy-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Deploy a PDF merger/splitter utility for contract docs](./deploy-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Deploy a TypeScript CLI that uploads files to your Vercel Blob store](./deploy-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Deploy a GitHub-to-Zod validation generator for your API schemas](./deploy-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Deploy a private n8n workflow module for the workflow you build often](./deploy-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Deploy a PR description generator that fills descriptions from the diff](./deploy-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Deploy a GitHub Actions runner script that caches npm/pip installs](./deploy-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Deploy a time-tracking CLI that logs task durations in a local JSONL](./deploy-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Deploy a log rotation + compaction script for your app logs](./deploy-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Deploy an accessibility checker script that audits pages for issues](./deploy-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Deploy a data model migrator with rollback + verification checks](./deploy-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Deploy a CLI that generates test fixtures for your API from an OpenAPI spec](./deploy-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Deploy a CLI help/README generator for your project](./deploy-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Deploy a Vercel speed-test script that compares deploy URLs](./deploy-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Deploy an API rate-limiter and circuit-breaker wrapper](./deploy-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Deploy a Notion database that tracks your tasks + AI summarization skill](./deploy-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Deploy a GitHub Actions monthly spend analyzer](./deploy-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Deploy a CI cache warmer for your monorepo](./deploy-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Deploy a PDF password remover/re-encryptor](./deploy-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Deploy a broken-link checker that scans your docs](./deploy-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Deploy a bug-triage assistant that summarizes issues by severity](./deploy-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Deploy a changelog summarizer that turns weekly commits into release notes](./deploy-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Deploy a cost-tracker CLI that logs spend per service to a spreadsheet](./deploy-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Deploy a data-quality checker for your raw datasets](./deploy-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Deploy a migration verifier that compares pre/post data snapshots](./deploy-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Deploy an OpenAPI spec validator + docs sanity checker](./deploy-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Deploy a Vercel preview URL health checker + comment poster](./deploy-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Deploy a release drafter that creates release notes from merged PRs](./deploy-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Deploy a GitHub issue auto-labeler skill (AI-based) that works on PRs](./deploy-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Deploy a retry + circuit-breaker pattern for resilient background jobs](./deploy-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Deploy a self-updating docs generator that syncs README from code](./deploy-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Set up a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./set-up-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Set up a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./set-up-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Set up a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./set-up-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Set up a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./set-up-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Set up a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./set-up-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Set up a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./set-up-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Set up a static site on GitHub Pages that lists all your projects with descriptions](./set-up-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Set up an MCP server that exposes your docs to OpenCode](./set-up-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Set up a cron job that runs a Python script every hour and appends results to a CSV](./set-up-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Set up a Chrome extension that summarizes the current article via a free-tier AI](./set-up-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Set up a PostgreSQL migration tool that validates data before applying changes](./set-up-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Set up a Sentry-style error logger that captures and emails runtime errors](./set-up-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Set up a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./set-up-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Set up a monitoring dashboard with alerts for a Vercel production app](./set-up-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Set up a backup job that copies your repo to a GitHub mirror daily](./set-up-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Set up a test generator that creates unit tests from an existing module](./set-up-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Set up a search indexer that makes your docs searchable](./set-up-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Set up a dockerized Fastify API with health endpoints and graceful shutdown](./set-up-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Set up a PDF changelog generator from commit messages](./set-up-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Set up a Vercel log analyzer that finds errors in deployment logs](./set-up-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Set up a GitHub-to-Notion sync for issues and PRs](./set-up-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Set up a long-tail video render script using ffmpeg for your project videos](./set-up-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Set up a spreadsheet (TSV) export pipeline for data analysis](./set-up-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Set up a background job queue (Redis-based) for slow tasks](./set-up-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Set up a unit-test coverage dashboard for your CI](./set-up-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Set up an alerting pipeline that pings you on Slack/Telegram on monitor failures](./set-up-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Set up a TypeScript utility for parsing and validating complex configs](./set-up-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Set up a performance profiler for Node/Python endpoints](./set-up-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Set up a weekly research digest script using a search API](./set-up-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Set up a website Uptime/status page with page-specific checks](./set-up-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Set up a GitHub Pages skill that renders your OpenAPI spec into docs](./set-up-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Set up a desktop app wrapper for a web dashboard (Electron)](./set-up-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Set up a robust API error handler that retries with exponential backoff](./set-up-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Set up a PDF merger/splitter utility for contract docs](./set-up-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Set up a TypeScript CLI that uploads files to your Vercel Blob store](./set-up-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Set up a GitHub-to-Zod validation generator for your API schemas](./set-up-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Set up a private n8n workflow module for the workflow you build often](./set-up-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Set up a PR description generator that fills descriptions from the diff](./set-up-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Set up a GitHub Actions runner script that caches npm/pip installs](./set-up-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Set up a time-tracking CLI that logs task durations in a local JSONL](./set-up-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Set up a log rotation + compaction script for your app logs](./set-up-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Set up an accessibility checker script that audits pages for issues](./set-up-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Set up a data model migrator with rollback + verification checks](./set-up-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Set up a CLI that generates test fixtures for your API from an OpenAPI spec](./set-up-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Set up a CLI help/README generator for your project](./set-up-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Set up a Vercel speed-test script that compares deploy URLs](./set-up-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Set up an API rate-limiter and circuit-breaker wrapper](./set-up-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Set up a Notion database that tracks your tasks + AI summarization skill](./set-up-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Set up a GitHub Actions monthly spend analyzer](./set-up-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Set up a CI cache warmer for your monorepo](./set-up-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Set up a PDF password remover/re-encryptor](./set-up-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Set up a broken-link checker that scans your docs](./set-up-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Set up a bug-triage assistant that summarizes issues by severity](./set-up-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Set up a changelog summarizer that turns weekly commits into release notes](./set-up-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Set up a cost-tracker CLI that logs spend per service to a spreadsheet](./set-up-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Set up a data-quality checker for your raw datasets](./set-up-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Set up a migration verifier that compares pre/post data snapshots](./set-up-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Set up an OpenAPI spec validator + docs sanity checker](./set-up-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Set up a Vercel preview URL health checker + comment poster](./set-up-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Set up a release drafter that creates release notes from merged PRs](./set-up-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Set up a GitHub issue auto-labeler skill (AI-based) that works on PRs](./set-up-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Set up a retry + circuit-breaker pattern for resilient background jobs](./set-up-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Set up a self-updating docs generator that syncs README from code](./set-up-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Configure a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./configure-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Configure a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./configure-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Configure a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./configure-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Configure a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./configure-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Configure a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./configure-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Configure a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./configure-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Configure a static site on GitHub Pages that lists all your projects with descriptions](./configure-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Configure an MCP server that exposes your docs to OpenCode](./configure-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Configure a cron job that runs a Python script every hour and appends results to a CSV](./configure-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Configure a Chrome extension that summarizes the current article via a free-tier AI](./configure-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Configure a PostgreSQL migration tool that validates data before applying changes](./configure-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Configure a Sentry-style error logger that captures and emails runtime errors](./configure-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Configure a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./configure-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Configure a monitoring dashboard with alerts for a Vercel production app](./configure-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Configure a backup job that copies your repo to a GitHub mirror daily](./configure-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Configure a test generator that creates unit tests from an existing module](./configure-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Configure a search indexer that makes your docs searchable](./configure-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Configure a dockerized Fastify API with health endpoints and graceful shutdown](./configure-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Configure a PDF changelog generator from commit messages](./configure-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Configure a Vercel log analyzer that finds errors in deployment logs](./configure-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Configure a GitHub-to-Notion sync for issues and PRs](./configure-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Configure a long-tail video render script using ffmpeg for your project videos](./configure-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Configure a spreadsheet (TSV) export pipeline for data analysis](./configure-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Configure a background job queue (Redis-based) for slow tasks](./configure-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Configure a unit-test coverage dashboard for your CI](./configure-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Configure an alerting pipeline that pings you on Slack/Telegram on monitor failures](./configure-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Configure a TypeScript utility for parsing and validating complex configs](./configure-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Configure a performance profiler for Node/Python endpoints](./configure-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Configure a weekly research digest script using a search API](./configure-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Configure a website Uptime/status page with page-specific checks](./configure-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Configure a GitHub Pages skill that renders your OpenAPI spec into docs](./configure-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Configure a desktop app wrapper for a web dashboard (Electron)](./configure-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Configure a robust API error handler that retries with exponential backoff](./configure-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Configure a PDF merger/splitter utility for contract docs](./configure-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Configure a TypeScript CLI that uploads files to your Vercel Blob store](./configure-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Configure a GitHub-to-Zod validation generator for your API schemas](./configure-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Configure a private n8n workflow module for the workflow you build often](./configure-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Configure a PR description generator that fills descriptions from the diff](./configure-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Configure a GitHub Actions runner script that caches npm/pip installs](./configure-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Configure a time-tracking CLI that logs task durations in a local JSONL](./configure-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Configure a log rotation + compaction script for your app logs](./configure-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Configure an accessibility checker script that audits pages for issues](./configure-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Configure a data model migrator with rollback + verification checks](./configure-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Configure a CLI that generates test fixtures for your API from an OpenAPI spec](./configure-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Configure a CLI help/README generator for your project](./configure-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Configure a Vercel speed-test script that compares deploy URLs](./configure-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Configure an API rate-limiter and circuit-breaker wrapper](./configure-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Configure a Notion database that tracks your tasks + AI summarization skill](./configure-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Configure a GitHub Actions monthly spend analyzer](./configure-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Configure a CI cache warmer for your monorepo](./configure-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Configure a PDF password remover/re-encryptor](./configure-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Configure a broken-link checker that scans your docs](./configure-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Configure a bug-triage assistant that summarizes issues by severity](./configure-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Configure a changelog summarizer that turns weekly commits into release notes](./configure-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Configure a cost-tracker CLI that logs spend per service to a spreadsheet](./configure-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Configure a data-quality checker for your raw datasets](./configure-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Configure a migration verifier that compares pre/post data snapshots](./configure-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Configure an OpenAPI spec validator + docs sanity checker](./configure-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Configure a Vercel preview URL health checker + comment poster](./configure-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Configure a release drafter that creates release notes from merged PRs](./configure-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Configure a GitHub issue auto-labeler skill (AI-based) that works on PRs](./configure-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Configure a retry + circuit-breaker pattern for resilient background jobs](./configure-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Configure a self-updating docs generator that syncs README from code](./configure-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Create a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./create-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Create a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./create-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Create a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./create-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Create a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./create-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Create a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./create-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Create a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./create-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Create a static site on GitHub Pages that lists all your projects with descriptions](./create-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Create an MCP server that exposes your docs to OpenCode](./create-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Create a cron job that runs a Python script every hour and appends results to a CSV](./create-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Create a Chrome extension that summarizes the current article via a free-tier AI](./create-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Create a PostgreSQL migration tool that validates data before applying changes](./create-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Create a Sentry-style error logger that captures and emails runtime errors](./create-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Create a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./create-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Create a monitoring dashboard with alerts for a Vercel production app](./create-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Create a backup job that copies your repo to a GitHub mirror daily](./create-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Create a test generator that creates unit tests from an existing module](./create-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Create a search indexer that makes your docs searchable](./create-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Create a dockerized Fastify API with health endpoints and graceful shutdown](./create-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Create a PDF changelog generator from commit messages](./create-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Create a Vercel log analyzer that finds errors in deployment logs](./create-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Create a GitHub-to-Notion sync for issues and PRs](./create-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Create a long-tail video render script using ffmpeg for your project videos](./create-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Create a spreadsheet (TSV) export pipeline for data analysis](./create-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Create a background job queue (Redis-based) for slow tasks](./create-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Create a unit-test coverage dashboard for your CI](./create-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Create an alerting pipeline that pings you on Slack/Telegram on monitor failures](./create-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Create a TypeScript utility for parsing and validating complex configs](./create-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Create a performance profiler for Node/Python endpoints](./create-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Create a weekly research digest script using a search API](./create-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Create a website Uptime/status page with page-specific checks](./create-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Create a GitHub Pages skill that renders your OpenAPI spec into docs](./create-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Create a desktop app wrapper for a web dashboard (Electron)](./create-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Create a robust API error handler that retries with exponential backoff](./create-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Create a PDF merger/splitter utility for contract docs](./create-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Create a TypeScript CLI that uploads files to your Vercel Blob store](./create-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Create a GitHub-to-Zod validation generator for your API schemas](./create-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Create a private n8n workflow module for the workflow you build often](./create-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Create a PR description generator that fills descriptions from the diff](./create-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Create a GitHub Actions runner script that caches npm/pip installs](./create-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Create a time-tracking CLI that logs task durations in a local JSONL](./create-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Create a log rotation + compaction script for your app logs](./create-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Create an accessibility checker script that audits pages for issues](./create-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Create a data model migrator with rollback + verification checks](./create-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Create a CLI that generates test fixtures for your API from an OpenAPI spec](./create-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Create a CLI help/README generator for your project](./create-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Create a Vercel speed-test script that compares deploy URLs](./create-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Create an API rate-limiter and circuit-breaker wrapper](./create-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Create a Notion database that tracks your tasks + AI summarization skill](./create-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Create a GitHub Actions monthly spend analyzer](./create-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Create a CI cache warmer for your monorepo](./create-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Create a PDF password remover/re-encryptor](./create-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Create a broken-link checker that scans your docs](./create-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Create a bug-triage assistant that summarizes issues by severity](./create-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Create a changelog summarizer that turns weekly commits into release notes](./create-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Create a cost-tracker CLI that logs spend per service to a spreadsheet](./create-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
-- [Create a data-quality checker for your raw datasets](./create-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — coding
-- [Create a migration verifier that compares pre/post data snapshots](./create-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — coding
-- [Create an OpenAPI spec validator + docs sanity checker](./create-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — coding
-- [Create a Vercel preview URL health checker + comment poster](./create-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — coding
-- [Create a release drafter that creates release notes from merged PRs](./create-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — coding
-- [Create a GitHub issue auto-labeler skill (AI-based) that works on PRs](./create-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — coding
-- [Create a retry + circuit-breaker pattern for resilient background jobs](./create-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — coding
-- [Create a self-updating docs generator that syncs README from code](./create-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — coding
-- [Fix a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./fix-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Fix a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./fix-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Fix a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./fix-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Fix a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./fix-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Fix a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./fix-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Fix a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./fix-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Fix a static site on GitHub Pages that lists all your projects with descriptions](./fix-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Fix an MCP server that exposes your docs to OpenCode](./fix-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Fix a cron job that runs a Python script every hour and appends results to a CSV](./fix-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Fix a Chrome extension that summarizes the current article via a free-tier AI](./fix-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Fix a PostgreSQL migration tool that validates data before applying changes](./fix-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Fix a Sentry-style error logger that captures and emails runtime errors](./fix-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Fix a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./fix-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Fix a monitoring dashboard with alerts for a Vercel production app](./fix-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Fix a backup job that copies your repo to a GitHub mirror daily](./fix-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Fix a test generator that creates unit tests from an existing module](./fix-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Fix a search indexer that makes your docs searchable](./fix-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Fix a dockerized Fastify API with health endpoints and graceful shutdown](./fix-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Fix a PDF changelog generator from commit messages](./fix-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Fix a Vercel log analyzer that finds errors in deployment logs](./fix-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Fix a GitHub-to-Notion sync for issues and PRs](./fix-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Fix a long-tail video render script using ffmpeg for your project videos](./fix-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Fix a spreadsheet (TSV) export pipeline for data analysis](./fix-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Fix a background job queue (Redis-based) for slow tasks](./fix-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Fix a unit-test coverage dashboard for your CI](./fix-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Fix an alerting pipeline that pings you on Slack/Telegram on monitor failures](./fix-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Fix a TypeScript utility for parsing and validating complex configs](./fix-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Fix a performance profiler for Node/Python endpoints](./fix-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Fix a weekly research digest script using a search API](./fix-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Fix a website Uptime/status page with page-specific checks](./fix-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Fix a GitHub Pages skill that renders your OpenAPI spec into docs](./fix-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Fix a desktop app wrapper for a web dashboard (Electron)](./fix-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Fix a robust API error handler that retries with exponential backoff](./fix-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Fix a PDF merger/splitter utility for contract docs](./fix-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Fix a TypeScript CLI that uploads files to your Vercel Blob store](./fix-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Fix a GitHub-to-Zod validation generator for your API schemas](./fix-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Fix a private n8n workflow module for the workflow you build often](./fix-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Fix a PR description generator that fills descriptions from the diff](./fix-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Fix a GitHub Actions runner script that caches npm/pip installs](./fix-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Fix a time-tracking CLI that logs task durations in a local JSONL](./fix-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Fix a log rotation + compaction script for your app logs](./fix-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Fix an accessibility checker script that audits pages for issues](./fix-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Fix a data model migrator with rollback + verification checks](./fix-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Fix a CLI that generates test fixtures for your API from an OpenAPI spec](./fix-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Fix a CLI help/README generator for your project](./fix-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Fix a Vercel speed-test script that compares deploy URLs](./fix-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Fix an API rate-limiter and circuit-breaker wrapper](./fix-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Fix a Notion database that tracks your tasks + AI summarization skill](./fix-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Fix a GitHub Actions monthly spend analyzer](./fix-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Fix a CI cache warmer for your monorepo](./fix-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Fix a PDF password remover/re-encryptor](./fix-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Fix a broken-link checker that scans your docs](./fix-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Fix a bug-triage assistant that summarizes issues by severity](./fix-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Fix a changelog summarizer that turns weekly commits into release notes](./fix-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Fix a cost-tracker CLI that logs spend per service to a spreadsheet](./fix-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Fix a data-quality checker for your raw datasets](./fix-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Fix a migration verifier that compares pre/post data snapshots](./fix-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Fix an OpenAPI spec validator + docs sanity checker](./fix-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Fix a Vercel preview URL health checker + comment poster](./fix-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Fix a release drafter that creates release notes from merged PRs](./fix-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Fix a GitHub issue auto-labeler skill (AI-based) that works on PRs](./fix-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Fix a retry + circuit-breaker pattern for resilient background jobs](./fix-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Fix a self-updating docs generator that syncs README from code](./fix-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Refactor a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./refactor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Refactor a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./refactor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Refactor a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./refactor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Refactor a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./refactor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Refactor a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./refactor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Refactor a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./refactor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Refactor a static site on GitHub Pages that lists all your projects with descriptions](./refactor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Refactor an MCP server that exposes your docs to OpenCode](./refactor-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Refactor a cron job that runs a Python script every hour and appends results to a CSV](./refactor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Refactor a Chrome extension that summarizes the current article via a free-tier AI](./refactor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Refactor a PostgreSQL migration tool that validates data before applying changes](./refactor-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Refactor a Sentry-style error logger that captures and emails runtime errors](./refactor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Refactor a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./refactor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Refactor a monitoring dashboard with alerts for a Vercel production app](./refactor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Refactor a backup job that copies your repo to a GitHub mirror daily](./refactor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Refactor a test generator that creates unit tests from an existing module](./refactor-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Refactor a search indexer that makes your docs searchable](./refactor-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Refactor a dockerized Fastify API with health endpoints and graceful shutdown](./refactor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Refactor a PDF changelog generator from commit messages](./refactor-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Refactor a Vercel log analyzer that finds errors in deployment logs](./refactor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Refactor a GitHub-to-Notion sync for issues and PRs](./refactor-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Refactor a long-tail video render script using ffmpeg for your project videos](./refactor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Refactor a spreadsheet (TSV) export pipeline for data analysis](./refactor-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Refactor a background job queue (Redis-based) for slow tasks](./refactor-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Refactor a unit-test coverage dashboard for your CI](./refactor-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Refactor an alerting pipeline that pings you on Slack/Telegram on monitor failures](./refactor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Refactor a TypeScript utility for parsing and validating complex configs](./refactor-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Refactor a performance profiler for Node/Python endpoints](./refactor-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Refactor a weekly research digest script using a search API](./refactor-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Refactor a website Uptime/status page with page-specific checks](./refactor-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Refactor a GitHub Pages skill that renders your OpenAPI spec into docs](./refactor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Refactor a desktop app wrapper for a web dashboard (Electron)](./refactor-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Refactor a robust API error handler that retries with exponential backoff](./refactor-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Refactor a PDF merger/splitter utility for contract docs](./refactor-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Refactor a TypeScript CLI that uploads files to your Vercel Blob store](./refactor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Refactor a GitHub-to-Zod validation generator for your API schemas](./refactor-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Refactor a private n8n workflow module for the workflow you build often](./refactor-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Refactor a PR description generator that fills descriptions from the diff](./refactor-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Refactor a GitHub Actions runner script that caches npm/pip installs](./refactor-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Refactor a time-tracking CLI that logs task durations in a local JSONL](./refactor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Refactor a log rotation + compaction script for your app logs](./refactor-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Refactor an accessibility checker script that audits pages for issues](./refactor-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Refactor a data model migrator with rollback + verification checks](./refactor-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Refactor a CLI that generates test fixtures for your API from an OpenAPI spec](./refactor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Refactor a CLI help/README generator for your project](./refactor-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Refactor a Vercel speed-test script that compares deploy URLs](./refactor-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Refactor an API rate-limiter and circuit-breaker wrapper](./refactor-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Refactor a Notion database that tracks your tasks + AI summarization skill](./refactor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Refactor a GitHub Actions monthly spend analyzer](./refactor-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Refactor a CI cache warmer for your monorepo](./refactor-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Refactor a PDF password remover/re-encryptor](./refactor-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Refactor a broken-link checker that scans your docs](./refactor-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Refactor a bug-triage assistant that summarizes issues by severity](./refactor-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Refactor a changelog summarizer that turns weekly commits into release notes](./refactor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Refactor a cost-tracker CLI that logs spend per service to a spreadsheet](./refactor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
-- [Refactor a data-quality checker for your raw datasets](./refactor-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — coding
-- [Refactor a migration verifier that compares pre/post data snapshots](./refactor-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — coding
-- [Refactor an OpenAPI spec validator + docs sanity checker](./refactor-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — coding
-- [Refactor a Vercel preview URL health checker + comment poster](./refactor-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — coding
-- [Refactor a release drafter that creates release notes from merged PRs](./refactor-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — coding
-- [Refactor a GitHub issue auto-labeler skill (AI-based) that works on PRs](./refactor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — coding
-- [Refactor a retry + circuit-breaker pattern for resilient background jobs](./refactor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — coding
-- [Refactor a self-updating docs generator that syncs README from code](./refactor-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — coding
-- [Optimize a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./optimize-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Optimize a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./optimize-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Optimize a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./optimize-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Optimize a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./optimize-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Optimize a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./optimize-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Optimize a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./optimize-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Optimize a static site on GitHub Pages that lists all your projects with descriptions](./optimize-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Optimize an MCP server that exposes your docs to OpenCode](./optimize-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Optimize a cron job that runs a Python script every hour and appends results to a CSV](./optimize-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Optimize a Chrome extension that summarizes the current article via a free-tier AI](./optimize-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Optimize a PostgreSQL migration tool that validates data before applying changes](./optimize-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Optimize a Sentry-style error logger that captures and emails runtime errors](./optimize-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Optimize a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./optimize-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Optimize a monitoring dashboard with alerts for a Vercel production app](./optimize-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Optimize a backup job that copies your repo to a GitHub mirror daily](./optimize-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Optimize a test generator that creates unit tests from an existing module](./optimize-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Optimize a search indexer that makes your docs searchable](./optimize-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Optimize a dockerized Fastify API with health endpoints and graceful shutdown](./optimize-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Optimize a PDF changelog generator from commit messages](./optimize-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Optimize a Vercel log analyzer that finds errors in deployment logs](./optimize-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Optimize a GitHub-to-Notion sync for issues and PRs](./optimize-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Optimize a long-tail video render script using ffmpeg for your project videos](./optimize-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Optimize a spreadsheet (TSV) export pipeline for data analysis](./optimize-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Optimize a background job queue (Redis-based) for slow tasks](./optimize-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Optimize a unit-test coverage dashboard for your CI](./optimize-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Optimize an alerting pipeline that pings you on Slack/Telegram on monitor failures](./optimize-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Optimize a TypeScript utility for parsing and validating complex configs](./optimize-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Optimize a performance profiler for Node/Python endpoints](./optimize-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Optimize a weekly research digest script using a search API](./optimize-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Optimize a website Uptime/status page with page-specific checks](./optimize-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Optimize a GitHub Pages skill that renders your OpenAPI spec into docs](./optimize-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Optimize a desktop app wrapper for a web dashboard (Electron)](./optimize-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Optimize a robust API error handler that retries with exponential backoff](./optimize-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Optimize a PDF merger/splitter utility for contract docs](./optimize-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Optimize a TypeScript CLI that uploads files to your Vercel Blob store](./optimize-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Optimize a GitHub-to-Zod validation generator for your API schemas](./optimize-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Optimize a private n8n workflow module for the workflow you build often](./optimize-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Optimize a PR description generator that fills descriptions from the diff](./optimize-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Optimize a GitHub Actions runner script that caches npm/pip installs](./optimize-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Optimize a time-tracking CLI that logs task durations in a local JSONL](./optimize-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Optimize a log rotation + compaction script for your app logs](./optimize-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Optimize an accessibility checker script that audits pages for issues](./optimize-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Optimize a data model migrator with rollback + verification checks](./optimize-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Optimize a CLI that generates test fixtures for your API from an OpenAPI spec](./optimize-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Optimize a CLI help/README generator for your project](./optimize-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Optimize a Vercel speed-test script that compares deploy URLs](./optimize-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Optimize an API rate-limiter and circuit-breaker wrapper](./optimize-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Optimize a Notion database that tracks your tasks + AI summarization skill](./optimize-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Optimize a GitHub Actions monthly spend analyzer](./optimize-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Optimize a CI cache warmer for your monorepo](./optimize-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Optimize a PDF password remover/re-encryptor](./optimize-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Optimize a broken-link checker that scans your docs](./optimize-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Optimize a bug-triage assistant that summarizes issues by severity](./optimize-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Optimize a changelog summarizer that turns weekly commits into release notes](./optimize-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Optimize a cost-tracker CLI that logs spend per service to a spreadsheet](./optimize-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
-- [Optimize a data-quality checker for your raw datasets](./optimize-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — coding
-- [Optimize a migration verifier that compares pre/post data snapshots](./optimize-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — coding
-- [Optimize an OpenAPI spec validator + docs sanity checker](./optimize-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — coding
-- [Optimize a Vercel preview URL health checker + comment poster](./optimize-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — coding
-- [Optimize a release drafter that creates release notes from merged PRs](./optimize-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — coding
-- [Optimize a GitHub issue auto-labeler skill (AI-based) that works on PRs](./optimize-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — coding
-- [Optimize a retry + circuit-breaker pattern for resilient background jobs](./optimize-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — coding
-- [Optimize a self-updating docs generator that syncs README from code](./optimize-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — coding
-- [Integrate a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./integrate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Integrate a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./integrate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Integrate a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./integrate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Integrate a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./integrate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Integrate a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./integrate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Integrate a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./integrate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Integrate a static site on GitHub Pages that lists all your projects with descriptions](./integrate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Integrate an MCP server that exposes your docs to OpenCode](./integrate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Integrate a cron job that runs a Python script every hour and appends results to a CSV](./integrate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Integrate a Chrome extension that summarizes the current article via a free-tier AI](./integrate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Integrate a PostgreSQL migration tool that validates data before applying changes](./integrate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Integrate a Sentry-style error logger that captures and emails runtime errors](./integrate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Integrate a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./integrate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Integrate a monitoring dashboard with alerts for a Vercel production app](./integrate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Integrate a backup job that copies your repo to a GitHub mirror daily](./integrate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Integrate a test generator that creates unit tests from an existing module](./integrate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Integrate a search indexer that makes your docs searchable](./integrate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Integrate a dockerized Fastify API with health endpoints and graceful shutdown](./integrate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Integrate a PDF changelog generator from commit messages](./integrate-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Integrate a Vercel log analyzer that finds errors in deployment logs](./integrate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Integrate a GitHub-to-Notion sync for issues and PRs](./integrate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Integrate a long-tail video render script using ffmpeg for your project videos](./integrate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Integrate a spreadsheet (TSV) export pipeline for data analysis](./integrate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Integrate a background job queue (Redis-based) for slow tasks](./integrate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Integrate a unit-test coverage dashboard for your CI](./integrate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Integrate an alerting pipeline that pings you on Slack/Telegram on monitor failures](./integrate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Integrate a TypeScript utility for parsing and validating complex configs](./integrate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Integrate a performance profiler for Node/Python endpoints](./integrate-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Integrate a weekly research digest script using a search API](./integrate-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Integrate a website Uptime/status page with page-specific checks](./integrate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Integrate a GitHub Pages skill that renders your OpenAPI spec into docs](./integrate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Integrate a desktop app wrapper for a web dashboard (Electron)](./integrate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Integrate a robust API error handler that retries with exponential backoff](./integrate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Integrate a PDF merger/splitter utility for contract docs](./integrate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Integrate a TypeScript CLI that uploads files to your Vercel Blob store](./integrate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Integrate a GitHub-to-Zod validation generator for your API schemas](./integrate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Integrate a private n8n workflow module for the workflow you build often](./integrate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Integrate a PR description generator that fills descriptions from the diff](./integrate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Integrate a GitHub Actions runner script that caches npm/pip installs](./integrate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Integrate a time-tracking CLI that logs task durations in a local JSONL](./integrate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Integrate a log rotation + compaction script for your app logs](./integrate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Integrate an accessibility checker script that audits pages for issues](./integrate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Integrate a data model migrator with rollback + verification checks](./integrate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Integrate a CLI that generates test fixtures for your API from an OpenAPI spec](./integrate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Integrate a CLI help/README generator for your project](./integrate-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Integrate a Vercel speed-test script that compares deploy URLs](./integrate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Integrate an API rate-limiter and circuit-breaker wrapper](./integrate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Integrate a Notion database that tracks your tasks + AI summarization skill](./integrate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Integrate a GitHub Actions monthly spend analyzer](./integrate-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Integrate a CI cache warmer for your monorepo](./integrate-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Integrate a PDF password remover/re-encryptor](./integrate-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Integrate a broken-link checker that scans your docs](./integrate-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Integrate a bug-triage assistant that summarizes issues by severity](./integrate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Integrate a changelog summarizer that turns weekly commits into release notes](./integrate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Integrate a cost-tracker CLI that logs spend per service to a spreadsheet](./integrate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
-- [Integrate a data-quality checker for your raw datasets](./integrate-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — coding
-- [Integrate a migration verifier that compares pre/post data snapshots](./integrate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — coding
-- [Integrate an OpenAPI spec validator + docs sanity checker](./integrate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — coding
-- [Integrate a Vercel preview URL health checker + comment poster](./integrate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — coding
-- [Integrate a release drafter that creates release notes from merged PRs](./integrate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — coding
-- [Integrate a GitHub issue auto-labeler skill (AI-based) that works on PRs](./integrate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — coding
-- [Integrate a retry + circuit-breaker pattern for resilient background jobs](./integrate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — coding
-- [Integrate a self-updating docs generator that syncs README from code](./integrate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — coding
-- [Extract a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./extract-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — automation
-- [Extract a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./extract-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — automation
-- [Extract a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./extract-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — automation
-- [Extract a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./extract-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — automation
-- [Extract a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./extract-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — automation
-- [Extract a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./extract-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — automation
-- [Extract a static site on GitHub Pages that lists all your projects with descriptions](./extract-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — automation
-- [Extract an MCP server that exposes your docs to OpenCode](./extract-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — automation
-- [Extract a cron job that runs a Python script every hour and appends results to a CSV](./extract-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — automation
-- [Extract a Chrome extension that summarizes the current article via a free-tier AI](./extract-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — automation
-- [Extract a PostgreSQL migration tool that validates data before applying changes](./extract-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — automation
-- [Extract a Sentry-style error logger that captures and emails runtime errors](./extract-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — automation
-- [Extract a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./extract-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — automation
-- [Extract a monitoring dashboard with alerts for a Vercel production app](./extract-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — automation
-- [Extract a backup job that copies your repo to a GitHub mirror daily](./extract-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — automation
-- [Extract a test generator that creates unit tests from an existing module](./extract-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — automation
-- [Extract a search indexer that makes your docs searchable](./extract-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — automation
-- [Extract a dockerized Fastify API with health endpoints and graceful shutdown](./extract-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — automation
-- [Extract a PDF changelog generator from commit messages](./extract-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — automation
-- [Extract a Vercel log analyzer that finds errors in deployment logs](./extract-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — automation
-- [Extract a GitHub-to-Notion sync for issues and PRs](./extract-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — automation
-- [Extract a long-tail video render script using ffmpeg for your project videos](./extract-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — automation
-- [Extract a spreadsheet (TSV) export pipeline for data analysis](./extract-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — automation
-- [Extract a background job queue (Redis-based) for slow tasks](./extract-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — automation
-- [Extract a unit-test coverage dashboard for your CI](./extract-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — automation
-- [Extract an alerting pipeline that pings you on Slack/Telegram on monitor failures](./extract-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — automation
-- [Extract a TypeScript utility for parsing and validating complex configs](./extract-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — automation
-- [Extract a performance profiler for Node/Python endpoints](./extract-a-performance-profiler-for-node-python-endpoints/SKILL.md) — automation
-- [Extract a weekly research digest script using a search API](./extract-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — automation
-- [Extract a website Uptime/status page with page-specific checks](./extract-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — automation
-- [Extract a GitHub Pages skill that renders your OpenAPI spec into docs](./extract-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — automation
-- [Extract a desktop app wrapper for a web dashboard (Electron)](./extract-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — automation
-- [Extract a robust API error handler that retries with exponential backoff](./extract-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — automation
-- [Extract a PDF merger/splitter utility for contract docs](./extract-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — automation
-- [Extract a TypeScript CLI that uploads files to your Vercel Blob store](./extract-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — automation
-- [Extract a GitHub-to-Zod validation generator for your API schemas](./extract-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — automation
-- [Extract a private n8n workflow module for the workflow you build often](./extract-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — automation
-- [Extract a PR description generator that fills descriptions from the diff](./extract-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — automation
-- [Extract a GitHub Actions runner script that caches npm/pip installs](./extract-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — automation
-- [Extract a time-tracking CLI that logs task durations in a local JSONL](./extract-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — automation
-- [Extract a log rotation + compaction script for your app logs](./extract-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — automation
-- [Extract an accessibility checker script that audits pages for issues](./extract-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — automation
-- [Extract a data model migrator with rollback + verification checks](./extract-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — automation
-- [Extract a CLI that generates test fixtures for your API from an OpenAPI spec](./extract-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — automation
-- [Extract a CLI help/README generator for your project](./extract-a-cli-help-readme-generator-for-your-project/SKILL.md) — automation
-- [Extract a Vercel speed-test script that compares deploy URLs](./extract-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — automation
-- [Extract an API rate-limiter and circuit-breaker wrapper](./extract-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — automation
-- [Extract a Notion database that tracks your tasks + AI summarization skill](./extract-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — automation
-- [Extract a GitHub Actions monthly spend analyzer](./extract-a-github-actions-monthly-spend-analyzer/SKILL.md) — automation
-- [Extract a CI cache warmer for your monorepo](./extract-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — automation
-- [Extract a PDF password remover/re-encryptor](./extract-a-pdf-password-remover-re-encryptor/SKILL.md) — automation
-- [Extract a broken-link checker that scans your docs](./extract-a-broken-link-checker-that-scans-your-docs/SKILL.md) — automation
-- [Extract a bug-triage assistant that summarizes issues by severity](./extract-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — automation
-- [Extract a changelog summarizer that turns weekly commits into release notes](./extract-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — automation
-- [Extract a cost-tracker CLI that logs spend per service to a spreadsheet](./extract-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — automation
-- [Extract a data-quality checker for your raw datasets](./extract-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — automation
-- [Extract a migration verifier that compares pre/post data snapshots](./extract-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — automation
-- [Extract an OpenAPI spec validator + docs sanity checker](./extract-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — automation
-- [Extract a Vercel preview URL health checker + comment poster](./extract-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — automation
-- [Extract a release drafter that creates release notes from merged PRs](./extract-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — automation
-- [Extract a GitHub issue auto-labeler skill (AI-based) that works on PRs](./extract-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — automation
-- [Extract a retry + circuit-breaker pattern for resilient background jobs](./extract-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — automation
-- [Extract a self-updating docs generator that syncs README from code](./extract-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — automation
-- [Generate a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./generate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ai
-- [Generate a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./generate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ai
-- [Generate a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./generate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ai
-- [Generate a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./generate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ai
-- [Generate a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./generate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ai
-- [Generate a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./generate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ai
-- [Generate a static site on GitHub Pages that lists all your projects with descriptions](./generate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ai
-- [Generate an MCP server that exposes your docs to OpenCode](./generate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ai
-- [Generate a cron job that runs a Python script every hour and appends results to a CSV](./generate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ai
-- [Generate a Chrome extension that summarizes the current article via a free-tier AI](./generate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ai
-- [Generate a PostgreSQL migration tool that validates data before applying changes](./generate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ai
-- [Generate a Sentry-style error logger that captures and emails runtime errors](./generate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ai
-- [Generate a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./generate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ai
-- [Generate a monitoring dashboard with alerts for a Vercel production app](./generate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ai
-- [Generate a backup job that copies your repo to a GitHub mirror daily](./generate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ai
-- [Generate a test generator that creates unit tests from an existing module](./generate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ai
-- [Generate a search indexer that makes your docs searchable](./generate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ai
-- [Generate a dockerized Fastify API with health endpoints and graceful shutdown](./generate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ai
-- [Generate a PDF changelog generator from commit messages](./generate-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ai
-- [Generate a Vercel log analyzer that finds errors in deployment logs](./generate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ai
-- [Generate a GitHub-to-Notion sync for issues and PRs](./generate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ai
-- [Generate a long-tail video render script using ffmpeg for your project videos](./generate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ai
-- [Generate a spreadsheet (TSV) export pipeline for data analysis](./generate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ai
-- [Generate a background job queue (Redis-based) for slow tasks](./generate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ai
-- [Generate a unit-test coverage dashboard for your CI](./generate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ai
-- [Generate an alerting pipeline that pings you on Slack/Telegram on monitor failures](./generate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ai
-- [Generate a TypeScript utility for parsing and validating complex configs](./generate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ai
-- [Generate a performance profiler for Node/Python endpoints](./generate-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ai
-- [Generate a weekly research digest script using a search API](./generate-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ai
-- [Generate a website Uptime/status page with page-specific checks](./generate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ai
-- [Generate a GitHub Pages skill that renders your OpenAPI spec into docs](./generate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ai
-- [Generate a desktop app wrapper for a web dashboard (Electron)](./generate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ai
-- [Generate a robust API error handler that retries with exponential backoff](./generate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ai
-- [Generate a PDF merger/splitter utility for contract docs](./generate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ai
-- [Generate a TypeScript CLI that uploads files to your Vercel Blob store](./generate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ai
-- [Generate a GitHub-to-Zod validation generator for your API schemas](./generate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ai
-- [Generate a private n8n workflow module for the workflow you build often](./generate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ai
-- [Generate a PR description generator that fills descriptions from the diff](./generate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ai
-- [Generate a GitHub Actions runner script that caches npm/pip installs](./generate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ai
-- [Generate a time-tracking CLI that logs task durations in a local JSONL](./generate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ai
-- [Generate a log rotation + compaction script for your app logs](./generate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ai
-- [Generate an accessibility checker script that audits pages for issues](./generate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ai
-- [Generate a data model migrator with rollback + verification checks](./generate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ai
-- [Generate a CLI that generates test fixtures for your API from an OpenAPI spec](./generate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ai
-- [Generate a CLI help/README generator for your project](./generate-a-cli-help-readme-generator-for-your-project/SKILL.md) — ai
-- [Generate a Vercel speed-test script that compares deploy URLs](./generate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ai
-- [Generate an API rate-limiter and circuit-breaker wrapper](./generate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ai
-- [Generate a Notion database that tracks your tasks + AI summarization skill](./generate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ai
-- [Generate a GitHub Actions monthly spend analyzer](./generate-a-github-actions-monthly-spend-analyzer/SKILL.md) — ai
-- [Generate a CI cache warmer for your monorepo](./generate-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ai
-- [Generate a PDF password remover/re-encryptor](./generate-a-pdf-password-remover-re-encryptor/SKILL.md) — ai
-- [Generate a broken-link checker that scans your docs](./generate-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ai
-- [Generate a bug-triage assistant that summarizes issues by severity](./generate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ai
-- [Generate a changelog summarizer that turns weekly commits into release notes](./generate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ai
-- [Generate a cost-tracker CLI that logs spend per service to a spreadsheet](./generate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ai
-- [Generate a data-quality checker for your raw datasets](./generate-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ai
-- [Generate a migration verifier that compares pre/post data snapshots](./generate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ai
-- [Generate an OpenAPI spec validator + docs sanity checker](./generate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ai
-- [Generate a Vercel preview URL health checker + comment poster](./generate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ai
-- [Generate a release drafter that creates release notes from merged PRs](./generate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ai
-- [Generate a GitHub issue auto-labeler skill (AI-based) that works on PRs](./generate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ai
-- [Generate a retry + circuit-breaker pattern for resilient background jobs](./generate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ai
-- [Generate a self-updating docs generator that syncs README from code](./generate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ai
-- [Monitor a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./monitor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Monitor a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./monitor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Monitor a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./monitor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Monitor a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./monitor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Monitor a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./monitor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Monitor a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./monitor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Monitor a static site on GitHub Pages that lists all your projects with descriptions](./monitor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Monitor an MCP server that exposes your docs to OpenCode](./monitor-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Monitor a cron job that runs a Python script every hour and appends results to a CSV](./monitor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Monitor a Chrome extension that summarizes the current article via a free-tier AI](./monitor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Monitor a PostgreSQL migration tool that validates data before applying changes](./monitor-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Monitor a Sentry-style error logger that captures and emails runtime errors](./monitor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Monitor a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./monitor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Monitor a monitoring dashboard with alerts for a Vercel production app](./monitor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Monitor a backup job that copies your repo to a GitHub mirror daily](./monitor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Monitor a test generator that creates unit tests from an existing module](./monitor-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Monitor a search indexer that makes your docs searchable](./monitor-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Monitor a dockerized Fastify API with health endpoints and graceful shutdown](./monitor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Monitor a PDF changelog generator from commit messages](./monitor-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Monitor a Vercel log analyzer that finds errors in deployment logs](./monitor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Monitor a GitHub-to-Notion sync for issues and PRs](./monitor-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Monitor a long-tail video render script using ffmpeg for your project videos](./monitor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Monitor a spreadsheet (TSV) export pipeline for data analysis](./monitor-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Monitor a background job queue (Redis-based) for slow tasks](./monitor-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Monitor a unit-test coverage dashboard for your CI](./monitor-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Monitor an alerting pipeline that pings you on Slack/Telegram on monitor failures](./monitor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Monitor a TypeScript utility for parsing and validating complex configs](./monitor-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Monitor a performance profiler for Node/Python endpoints](./monitor-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Monitor a weekly research digest script using a search API](./monitor-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Monitor a website Uptime/status page with page-specific checks](./monitor-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Monitor a GitHub Pages skill that renders your OpenAPI spec into docs](./monitor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Monitor a desktop app wrapper for a web dashboard (Electron)](./monitor-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Monitor a robust API error handler that retries with exponential backoff](./monitor-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Monitor a PDF merger/splitter utility for contract docs](./monitor-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Monitor a TypeScript CLI that uploads files to your Vercel Blob store](./monitor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Monitor a GitHub-to-Zod validation generator for your API schemas](./monitor-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Monitor a private n8n workflow module for the workflow you build often](./monitor-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Monitor a PR description generator that fills descriptions from the diff](./monitor-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Monitor a GitHub Actions runner script that caches npm/pip installs](./monitor-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Monitor a time-tracking CLI that logs task durations in a local JSONL](./monitor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Monitor a log rotation + compaction script for your app logs](./monitor-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Monitor an accessibility checker script that audits pages for issues](./monitor-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Monitor a data model migrator with rollback + verification checks](./monitor-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Monitor a CLI that generates test fixtures for your API from an OpenAPI spec](./monitor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Monitor a CLI help/README generator for your project](./monitor-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Monitor a Vercel speed-test script that compares deploy URLs](./monitor-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Monitor an API rate-limiter and circuit-breaker wrapper](./monitor-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Monitor a Notion database that tracks your tasks + AI summarization skill](./monitor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Monitor a GitHub Actions monthly spend analyzer](./monitor-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Monitor a CI cache warmer for your monorepo](./monitor-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Monitor a PDF password remover/re-encryptor](./monitor-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Monitor a broken-link checker that scans your docs](./monitor-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Monitor a bug-triage assistant that summarizes issues by severity](./monitor-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Monitor a changelog summarizer that turns weekly commits into release notes](./monitor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Monitor a cost-tracker CLI that logs spend per service to a spreadsheet](./monitor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Monitor a data-quality checker for your raw datasets](./monitor-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Monitor a migration verifier that compares pre/post data snapshots](./monitor-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Monitor an OpenAPI spec validator + docs sanity checker](./monitor-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Monitor a Vercel preview URL health checker + comment poster](./monitor-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Monitor a release drafter that creates release notes from merged PRs](./monitor-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Monitor a GitHub issue auto-labeler skill (AI-based) that works on PRs](./monitor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Monitor a retry + circuit-breaker pattern for resilient background jobs](./monitor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Monitor a self-updating docs generator that syncs README from code](./monitor-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Alert a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./alert-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Alert a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./alert-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Alert a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./alert-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Alert a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./alert-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Alert a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./alert-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Alert a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./alert-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Alert a static site on GitHub Pages that lists all your projects with descriptions](./alert-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Alert an MCP server that exposes your docs to OpenCode](./alert-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Alert a cron job that runs a Python script every hour and appends results to a CSV](./alert-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Alert a Chrome extension that summarizes the current article via a free-tier AI](./alert-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Alert a PostgreSQL migration tool that validates data before applying changes](./alert-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Alert a Sentry-style error logger that captures and emails runtime errors](./alert-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Alert a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./alert-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Alert a monitoring dashboard with alerts for a Vercel production app](./alert-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Alert a backup job that copies your repo to a GitHub mirror daily](./alert-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Alert a test generator that creates unit tests from an existing module](./alert-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Alert a search indexer that makes your docs searchable](./alert-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Alert a dockerized Fastify API with health endpoints and graceful shutdown](./alert-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Alert a PDF changelog generator from commit messages](./alert-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Alert a Vercel log analyzer that finds errors in deployment logs](./alert-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Alert a GitHub-to-Notion sync for issues and PRs](./alert-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Alert a long-tail video render script using ffmpeg for your project videos](./alert-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Alert a spreadsheet (TSV) export pipeline for data analysis](./alert-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Alert a background job queue (Redis-based) for slow tasks](./alert-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Alert a unit-test coverage dashboard for your CI](./alert-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Alert an alerting pipeline that pings you on Slack/Telegram on monitor failures](./alert-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Alert a TypeScript utility for parsing and validating complex configs](./alert-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Alert a performance profiler for Node/Python endpoints](./alert-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Alert a weekly research digest script using a search API](./alert-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Alert a website Uptime/status page with page-specific checks](./alert-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Alert a GitHub Pages skill that renders your OpenAPI spec into docs](./alert-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Alert a desktop app wrapper for a web dashboard (Electron)](./alert-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Alert a robust API error handler that retries with exponential backoff](./alert-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Alert a PDF merger/splitter utility for contract docs](./alert-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Alert a TypeScript CLI that uploads files to your Vercel Blob store](./alert-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Alert a GitHub-to-Zod validation generator for your API schemas](./alert-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Alert a private n8n workflow module for the workflow you build often](./alert-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Alert a PR description generator that fills descriptions from the diff](./alert-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Alert a GitHub Actions runner script that caches npm/pip installs](./alert-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Alert a time-tracking CLI that logs task durations in a local JSONL](./alert-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Alert a log rotation + compaction script for your app logs](./alert-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Alert an accessibility checker script that audits pages for issues](./alert-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Alert a data model migrator with rollback + verification checks](./alert-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Alert a CLI that generates test fixtures for your API from an OpenAPI spec](./alert-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Alert a CLI help/README generator for your project](./alert-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Alert a Vercel speed-test script that compares deploy URLs](./alert-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Alert an API rate-limiter and circuit-breaker wrapper](./alert-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Alert a Notion database that tracks your tasks + AI summarization skill](./alert-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Alert a GitHub Actions monthly spend analyzer](./alert-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Alert a CI cache warmer for your monorepo](./alert-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Alert a PDF password remover/re-encryptor](./alert-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Alert a broken-link checker that scans your docs](./alert-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Alert a bug-triage assistant that summarizes issues by severity](./alert-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Alert a changelog summarizer that turns weekly commits into release notes](./alert-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Alert a cost-tracker CLI that logs spend per service to a spreadsheet](./alert-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Alert a data-quality checker for your raw datasets](./alert-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Alert a migration verifier that compares pre/post data snapshots](./alert-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Alert an OpenAPI spec validator + docs sanity checker](./alert-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Alert a Vercel preview URL health checker + comment poster](./alert-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Alert a release drafter that creates release notes from merged PRs](./alert-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Alert a GitHub issue auto-labeler skill (AI-based) that works on PRs](./alert-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Alert a retry + circuit-breaker pattern for resilient background jobs](./alert-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Alert a self-updating docs generator that syncs README from code](./alert-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Backup a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./backup-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — ops
-- [Backup a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./backup-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — ops
-- [Backup a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./backup-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — ops
-- [Backup a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./backup-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — ops
-- [Backup a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./backup-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — ops
-- [Backup a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./backup-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — ops
-- [Backup a static site on GitHub Pages that lists all your projects with descriptions](./backup-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — ops
-- [Backup an MCP server that exposes your docs to OpenCode](./backup-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — ops
-- [Backup a cron job that runs a Python script every hour and appends results to a CSV](./backup-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — ops
-- [Backup a Chrome extension that summarizes the current article via a free-tier AI](./backup-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — ops
-- [Backup a PostgreSQL migration tool that validates data before applying changes](./backup-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — ops
-- [Backup a Sentry-style error logger that captures and emails runtime errors](./backup-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — ops
-- [Backup a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./backup-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — ops
-- [Backup a monitoring dashboard with alerts for a Vercel production app](./backup-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — ops
-- [Backup a backup job that copies your repo to a GitHub mirror daily](./backup-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — ops
-- [Backup a test generator that creates unit tests from an existing module](./backup-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — ops
-- [Backup a search indexer that makes your docs searchable](./backup-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — ops
-- [Backup a dockerized Fastify API with health endpoints and graceful shutdown](./backup-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — ops
-- [Backup a PDF changelog generator from commit messages](./backup-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — ops
-- [Backup a Vercel log analyzer that finds errors in deployment logs](./backup-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — ops
-- [Backup a GitHub-to-Notion sync for issues and PRs](./backup-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — ops
-- [Backup a long-tail video render script using ffmpeg for your project videos](./backup-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — ops
-- [Backup a spreadsheet (TSV) export pipeline for data analysis](./backup-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — ops
-- [Backup a background job queue (Redis-based) for slow tasks](./backup-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — ops
-- [Backup a unit-test coverage dashboard for your CI](./backup-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — ops
-- [Backup an alerting pipeline that pings you on Slack/Telegram on monitor failures](./backup-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — ops
-- [Backup a TypeScript utility for parsing and validating complex configs](./backup-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — ops
-- [Backup a performance profiler for Node/Python endpoints](./backup-a-performance-profiler-for-node-python-endpoints/SKILL.md) — ops
-- [Backup a weekly research digest script using a search API](./backup-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — ops
-- [Backup a website Uptime/status page with page-specific checks](./backup-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — ops
-- [Backup a GitHub Pages skill that renders your OpenAPI spec into docs](./backup-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — ops
-- [Backup a desktop app wrapper for a web dashboard (Electron)](./backup-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — ops
-- [Backup a robust API error handler that retries with exponential backoff](./backup-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — ops
-- [Backup a PDF merger/splitter utility for contract docs](./backup-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — ops
-- [Backup a TypeScript CLI that uploads files to your Vercel Blob store](./backup-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — ops
-- [Backup a GitHub-to-Zod validation generator for your API schemas](./backup-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — ops
-- [Backup a private n8n workflow module for the workflow you build often](./backup-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — ops
-- [Backup a PR description generator that fills descriptions from the diff](./backup-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — ops
-- [Backup a GitHub Actions runner script that caches npm/pip installs](./backup-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — ops
-- [Backup a time-tracking CLI that logs task durations in a local JSONL](./backup-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — ops
-- [Backup a log rotation + compaction script for your app logs](./backup-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — ops
-- [Backup an accessibility checker script that audits pages for issues](./backup-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — ops
-- [Backup a data model migrator with rollback + verification checks](./backup-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — ops
-- [Backup a CLI that generates test fixtures for your API from an OpenAPI spec](./backup-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — ops
-- [Backup a CLI help/README generator for your project](./backup-a-cli-help-readme-generator-for-your-project/SKILL.md) — ops
-- [Backup a Vercel speed-test script that compares deploy URLs](./backup-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — ops
-- [Backup an API rate-limiter and circuit-breaker wrapper](./backup-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — ops
-- [Backup a Notion database that tracks your tasks + AI summarization skill](./backup-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — ops
-- [Backup a GitHub Actions monthly spend analyzer](./backup-a-github-actions-monthly-spend-analyzer/SKILL.md) — ops
-- [Backup a CI cache warmer for your monorepo](./backup-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — ops
-- [Backup a PDF password remover/re-encryptor](./backup-a-pdf-password-remover-re-encryptor/SKILL.md) — ops
-- [Backup a broken-link checker that scans your docs](./backup-a-broken-link-checker-that-scans-your-docs/SKILL.md) — ops
-- [Backup a bug-triage assistant that summarizes issues by severity](./backup-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — ops
-- [Backup a changelog summarizer that turns weekly commits into release notes](./backup-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — ops
-- [Backup a cost-tracker CLI that logs spend per service to a spreadsheet](./backup-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — ops
-- [Backup a data-quality checker for your raw datasets](./backup-a-data-quality-checker-for-your-raw-datasets/SKILL.md) — ops
-- [Backup a migration verifier that compares pre/post data snapshots](./backup-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md) — ops
-- [Backup an OpenAPI spec validator + docs sanity checker](./backup-an-openapi-spec-validator-docs-sanity-checker/SKILL.md) — ops
-- [Backup a Vercel preview URL health checker + comment poster](./backup-a-vercel-preview-url-health-checker-comment-poster/SKILL.md) — ops
-- [Backup a release drafter that creates release notes from merged PRs](./backup-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md) — ops
-- [Backup a GitHub issue auto-labeler skill (AI-based) that works on PRs](./backup-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md) — ops
-- [Backup a retry + circuit-breaker pattern for resilient background jobs](./backup-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md) — ops
-- [Backup a self-updating docs generator that syncs README from code](./backup-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md) — ops
-- [Test a Vercel CI/CD pipeline that auto-deploys the Next.js app on every push, runs build + tests, and posts preview URLs](./test-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md) — coding
-- [Test a GitHub Actions workflow that lints and runs unit tests on every PR and blocks merge on failure](./test-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md) — coding
-- [Test a Slack/Telegram webhook bot that forwards GitHub issues and PRs to chat with AI summaries](./test-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md) — coding
-- [Test a Python script that parses a folder of PDFs and writes clean summaries to a Notion page](./test-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md) — coding
-- [Test a Node CLI tool that reads a JSON file and outputs formatted tables or CSV](./test-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md) — coding
-- [Test a FastAPI endpoint that exposes a SQLite database over HTTP with auth](./test-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md) — coding
-- [Test a static site on GitHub Pages that lists all your projects with descriptions](./test-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md) — coding
-- [Test an MCP server that exposes your docs to OpenCode](./test-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md) — coding
-- [Test a cron job that runs a Python script every hour and appends results to a CSV](./test-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md) — coding
-- [Test a Chrome extension that summarizes the current article via a free-tier AI](./test-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md) — coding
-- [Test a PostgreSQL migration tool that validates data before applying changes](./test-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md) — coding
-- [Test a Sentry-style error logger that captures and emails runtime errors](./test-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md) — coding
-- [Test a data pipeline (Python/pandas) that reads a raw file, cleans it, and writes the final CSV](./test-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md) — coding
-- [Test a monitoring dashboard with alerts for a Vercel production app](./test-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md) — coding
-- [Test a backup job that copies your repo to a GitHub mirror daily](./test-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md) — coding
-- [Test a test generator that creates unit tests from an existing module](./test-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md) — coding
-- [Test a search indexer that makes your docs searchable](./test-a-search-indexer-that-makes-your-docs-searchable/SKILL.md) — coding
-- [Test a dockerized Fastify API with health endpoints and graceful shutdown](./test-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md) — coding
-- [Test a PDF changelog generator from commit messages](./test-a-pdf-changelog-generator-from-commit-messages/SKILL.md) — coding
-- [Test a Vercel log analyzer that finds errors in deployment logs](./test-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md) — coding
-- [Test a GitHub-to-Notion sync for issues and PRs](./test-a-github-to-notion-sync-for-issues-and-prs/SKILL.md) — coding
-- [Test a long-tail video render script using ffmpeg for your project videos](./test-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md) — coding
-- [Test a spreadsheet (TSV) export pipeline for data analysis](./test-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md) — coding
-- [Test a background job queue (Redis-based) for slow tasks](./test-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md) — coding
-- [Test a unit-test coverage dashboard for your CI](./test-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md) — coding
-- [Test an alerting pipeline that pings you on Slack/Telegram on monitor failures](./test-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md) — coding
-- [Test a TypeScript utility for parsing and validating complex configs](./test-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md) — coding
-- [Test a performance profiler for Node/Python endpoints](./test-a-performance-profiler-for-node-python-endpoints/SKILL.md) — coding
-- [Test a weekly research digest script using a search API](./test-a-weekly-research-digest-script-using-a-search-api/SKILL.md) — coding
-- [Test a website Uptime/status page with page-specific checks](./test-a-website-uptime-status-page-with-page-specific-checks/SKILL.md) — coding
-- [Test a GitHub Pages skill that renders your OpenAPI spec into docs](./test-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md) — coding
-- [Test a desktop app wrapper for a web dashboard (Electron)](./test-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md) — coding
-- [Test a robust API error handler that retries with exponential backoff](./test-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md) — coding
-- [Test a PDF merger/splitter utility for contract docs](./test-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md) — coding
-- [Test a TypeScript CLI that uploads files to your Vercel Blob store](./test-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md) — coding
-- [Test a GitHub-to-Zod validation generator for your API schemas](./test-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md) — coding
-- [Test a private n8n workflow module for the workflow you build often](./test-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md) — coding
-- [Test a PR description generator that fills descriptions from the diff](./test-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md) — coding
-- [Test a GitHub Actions runner script that caches npm/pip installs](./test-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md) — coding
-- [Test a time-tracking CLI that logs task durations in a local JSONL](./test-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md) — coding
-- [Test a log rotation + compaction script for your app logs](./test-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md) — coding
-- [Test an accessibility checker script that audits pages for issues](./test-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md) — coding
-- [Test a data model migrator with rollback + verification checks](./test-a-data-model-migrator-with-rollback-verification-checks/SKILL.md) — coding
-- [Test a CLI that generates test fixtures for your API from an OpenAPI spec](./test-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md) — coding
-- [Test a CLI help/README generator for your project](./test-a-cli-help-readme-generator-for-your-project/SKILL.md) — coding
-- [Test a Vercel speed-test script that compares deploy URLs](./test-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md) — coding
-- [Test an API rate-limiter and circuit-breaker wrapper](./test-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md) — coding
-- [Test a Notion database that tracks your tasks + AI summarization skill](./test-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md) — coding
-- [Test a GitHub Actions monthly spend analyzer](./test-a-github-actions-monthly-spend-analyzer/SKILL.md) — coding
-- [Test a CI cache warmer for your monorepo](./test-a-ci-cache-warmer-for-your-monorepo/SKILL.md) — coding
-- [Test a PDF password remover/re-encryptor](./test-a-pdf-password-remover-re-encryptor/SKILL.md) — coding
-- [Test a broken-link checker that scans your docs](./test-a-broken-link-checker-that-scans-your-docs/SKILL.md) — coding
-- [Test a bug-triage assistant that summarizes issues by severity](./test-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md) — coding
-- [Test a changelog summarizer that turns weekly commits into release notes](./test-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md) — coding
-- [Test a cost-tracker CLI that logs spend per service to a spreadsheet](./test-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md) — coding
+- [alert-a-background-job-queue-redis-based-for-slow-tasks](./alert-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [alert-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./alert-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [alert-a-broken-link-checker-that-scans-your-docs](./alert-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [alert-a-bug-triage-assistant-that-summarizes-issues-by-severity](./alert-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [alert-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./alert-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [alert-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./alert-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [alert-a-ci-cache-warmer-for-your-monorepo](./alert-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [alert-a-cli-help-readme-generator-for-your-project](./alert-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [alert-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./alert-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [alert-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./alert-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [alert-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./alert-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [alert-a-data-model-migrator-with-rollback-verification-checks](./alert-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [alert-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./alert-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [alert-a-data-quality-checker-for-your-raw-datasets](./alert-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [alert-a-desktop-app-wrapper-for-a-web-dashboard-electron](./alert-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [alert-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./alert-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [alert-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./alert-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [alert-a-github-actions-monthly-spend-analyzer](./alert-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [alert-a-github-actions-runner-script-that-caches-npm-pip-installs](./alert-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [alert-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./alert-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [alert-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./alert-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [alert-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./alert-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [alert-a-github-to-notion-sync-for-issues-and-prs](./alert-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [alert-a-github-to-zod-validation-generator-for-your-api-schemas](./alert-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [alert-a-log-rotation-compaction-script-for-your-app-logs](./alert-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [alert-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./alert-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [alert-a-migration-verifier-that-compares-pre-post-data-snapshots](./alert-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [alert-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./alert-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [alert-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./alert-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [alert-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./alert-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [alert-a-pdf-changelog-generator-from-commit-messages](./alert-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [alert-a-pdf-merger-splitter-utility-for-contract-docs](./alert-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [alert-a-pdf-password-remover-re-encryptor](./alert-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [alert-a-performance-profiler-for-node-python-endpoints](./alert-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [alert-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./alert-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [alert-a-pr-description-generator-that-fills-descriptions-from-the-diff](./alert-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [alert-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./alert-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [alert-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./alert-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [alert-a-release-drafter-that-creates-release-notes-from-merged-prs](./alert-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [alert-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./alert-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [alert-a-robust-api-error-handler-that-retries-with-exponential-backoff](./alert-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [alert-a-search-indexer-that-makes-your-docs-searchable](./alert-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [alert-a-self-updating-docs-generator-that-syncs-readme-from-code](./alert-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [alert-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./alert-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [alert-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./alert-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [alert-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./alert-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [alert-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./alert-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [alert-a-test-generator-that-creates-unit-tests-from-an-existing-module](./alert-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [alert-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./alert-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [alert-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./alert-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [alert-a-typescript-utility-for-parsing-and-validating-complex-configs](./alert-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [alert-a-unit-test-coverage-dashboard-for-your-ci](./alert-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [alert-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./alert-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [alert-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./alert-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [alert-a-vercel-preview-url-health-checker-comment-poster](./alert-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [alert-a-vercel-speed-test-script-that-compares-deploy-urls](./alert-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [alert-a-website-uptime-status-page-with-page-specific-checks](./alert-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [alert-a-weekly-research-digest-script-using-a-search-api](./alert-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [alert-an-accessibility-checker-script-that-audits-pages-for-issues](./alert-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [alert-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./alert-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [alert-an-api-rate-limiter-and-circuit-breaker-wrapper](./alert-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [alert-an-mcp-server-that-exposes-your-docs-to-opencode](./alert-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [alert-an-openapi-spec-validator-docs-sanity-checker](./alert-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [automate-a-background-job-queue-redis-based-for-slow-tasks](./automate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [automate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./automate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [automate-a-broken-link-checker-that-scans-your-docs](./automate-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [automate-a-bug-triage-assistant-that-summarizes-issues-by-severity](./automate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [automate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./automate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [automate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./automate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [automate-a-ci-cache-warmer-for-your-monorepo](./automate-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [automate-a-cli-help-readme-generator-for-your-project](./automate-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [automate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./automate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [automate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./automate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [automate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./automate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [automate-a-data-model-migrator-with-rollback-verification-checks](./automate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [automate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./automate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [automate-a-data-quality-checker-for-your-raw-datasets](./automate-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [automate-a-desktop-app-wrapper-for-a-web-dashboard-electron](./automate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [automate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./automate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [automate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./automate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [automate-a-github-actions-monthly-spend-analyzer](./automate-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [automate-a-github-actions-runner-script-that-caches-npm-pip-installs](./automate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [automate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./automate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [automate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./automate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [automate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./automate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [automate-a-github-to-notion-sync-for-issues-and-prs](./automate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [automate-a-github-to-zod-validation-generator-for-your-api-schemas](./automate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [automate-a-log-rotation-compaction-script-for-your-app-logs](./automate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [automate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./automate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [automate-a-migration-verifier-that-compares-pre-post-data-snapshots](./automate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [automate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./automate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [automate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./automate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [automate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./automate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [automate-a-pdf-changelog-generator-from-commit-messages](./automate-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [automate-a-pdf-merger-splitter-utility-for-contract-docs](./automate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [automate-a-pdf-password-remover-re-encryptor](./automate-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [automate-a-performance-profiler-for-node-python-endpoints](./automate-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [automate-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./automate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [automate-a-pr-description-generator-that-fills-descriptions-from-the-diff](./automate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [automate-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./automate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [automate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./automate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [automate-a-release-drafter-that-creates-release-notes-from-merged-prs](./automate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [automate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./automate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [automate-a-robust-api-error-handler-that-retries-with-exponential-backoff](./automate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [automate-a-search-indexer-that-makes-your-docs-searchable](./automate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [automate-a-self-updating-docs-generator-that-syncs-readme-from-code](./automate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [automate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./automate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [automate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./automate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [automate-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./automate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [automate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./automate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [automate-a-test-generator-that-creates-unit-tests-from-an-existing-module](./automate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [automate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./automate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [automate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./automate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [automate-a-typescript-utility-for-parsing-and-validating-complex-configs](./automate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [automate-a-unit-test-coverage-dashboard-for-your-ci](./automate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [automate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./automate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [automate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./automate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [automate-a-vercel-preview-url-health-checker-comment-poster](./automate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [automate-a-vercel-speed-test-script-that-compares-deploy-urls](./automate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [automate-a-website-uptime-status-page-with-page-specific-checks](./automate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [automate-a-weekly-research-digest-script-using-a-search-api](./automate-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [automate-an-accessibility-checker-script-that-audits-pages-for-issues](./automate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [automate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./automate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [automate-an-api-rate-limiter-and-circuit-breaker-wrapper](./automate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [automate-an-mcp-server-that-exposes-your-docs-to-opencode](./automate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [automate-an-openapi-spec-validator-docs-sanity-checker](./automate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [backup-a-background-job-queue-redis-based-for-slow-tasks](./backup-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [backup-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./backup-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [backup-a-broken-link-checker-that-scans-your-docs](./backup-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [backup-a-bug-triage-assistant-that-summarizes-issues-by-severity](./backup-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [backup-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./backup-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [backup-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./backup-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [backup-a-ci-cache-warmer-for-your-monorepo](./backup-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [backup-a-cli-help-readme-generator-for-your-project](./backup-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [backup-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./backup-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [backup-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./backup-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [backup-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./backup-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [backup-a-data-model-migrator-with-rollback-verification-checks](./backup-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [backup-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./backup-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [backup-a-data-quality-checker-for-your-raw-datasets](./backup-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [backup-a-desktop-app-wrapper-for-a-web-dashboard-electron](./backup-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [backup-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./backup-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [backup-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./backup-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [backup-a-github-actions-monthly-spend-analyzer](./backup-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [backup-a-github-actions-runner-script-that-caches-npm-pip-installs](./backup-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [backup-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./backup-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [backup-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./backup-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [backup-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./backup-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [backup-a-github-to-notion-sync-for-issues-and-prs](./backup-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [backup-a-github-to-zod-validation-generator-for-your-api-schemas](./backup-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [backup-a-log-rotation-compaction-script-for-your-app-logs](./backup-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [backup-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./backup-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [backup-a-migration-verifier-that-compares-pre-post-data-snapshots](./backup-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [backup-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./backup-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [backup-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./backup-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [backup-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./backup-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [backup-a-pdf-changelog-generator-from-commit-messages](./backup-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [backup-a-pdf-merger-splitter-utility-for-contract-docs](./backup-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [backup-a-pdf-password-remover-re-encryptor](./backup-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [backup-a-performance-profiler-for-node-python-endpoints](./backup-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [backup-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./backup-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [backup-a-pr-description-generator-that-fills-descriptions-from-the-diff](./backup-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [backup-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./backup-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [backup-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./backup-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [backup-a-release-drafter-that-creates-release-notes-from-merged-prs](./backup-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [backup-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./backup-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [backup-a-robust-api-error-handler-that-retries-with-exponential-backoff](./backup-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [backup-a-search-indexer-that-makes-your-docs-searchable](./backup-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [backup-a-self-updating-docs-generator-that-syncs-readme-from-code](./backup-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [backup-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./backup-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [backup-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./backup-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [backup-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./backup-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [backup-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./backup-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [backup-a-test-generator-that-creates-unit-tests-from-an-existing-module](./backup-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [backup-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./backup-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [backup-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./backup-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [backup-a-typescript-utility-for-parsing-and-validating-complex-configs](./backup-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [backup-a-unit-test-coverage-dashboard-for-your-ci](./backup-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [backup-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./backup-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [backup-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./backup-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [backup-a-vercel-preview-url-health-checker-comment-poster](./backup-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [backup-a-vercel-speed-test-script-that-compares-deploy-urls](./backup-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [backup-a-website-uptime-status-page-with-page-specific-checks](./backup-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [backup-a-weekly-research-digest-script-using-a-search-api](./backup-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [backup-an-accessibility-checker-script-that-audits-pages-for-issues](./backup-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [backup-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./backup-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [backup-an-api-rate-limiter-and-circuit-breaker-wrapper](./backup-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [backup-an-mcp-server-that-exposes-your-docs-to-opencode](./backup-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [backup-an-openapi-spec-validator-docs-sanity-checker](./backup-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [benchmark-a-background-job-queue-redis-based-for-slow-tasks](./benchmark-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [benchmark-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./benchmark-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [benchmark-a-broken-link-checker-that-scans-your-docs](./benchmark-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [benchmark-a-bug-triage-assistant-that-summarizes-issues-by-severity](./benchmark-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [benchmark-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./benchmark-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [benchmark-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./benchmark-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [benchmark-a-ci-cache-warmer-for-your-monorepo](./benchmark-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [benchmark-a-cli-help-readme-generator-for-your-project](./benchmark-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [benchmark-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./benchmark-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [benchmark-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./benchmark-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [benchmark-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./benchmark-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [benchmark-a-data-model-migrator-with-rollback-verification-checks](./benchmark-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [benchmark-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./benchmark-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [benchmark-a-data-quality-checker-for-your-raw-datasets](./benchmark-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [benchmark-a-desktop-app-wrapper-for-a-web-dashboard-electron](./benchmark-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [benchmark-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./benchmark-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [benchmark-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./benchmark-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [benchmark-a-github-actions-monthly-spend-analyzer](./benchmark-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [benchmark-a-github-actions-runner-script-that-caches-npm-pip-installs](./benchmark-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [benchmark-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./benchmark-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [benchmark-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./benchmark-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [benchmark-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./benchmark-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [benchmark-a-github-to-notion-sync-for-issues-and-prs](./benchmark-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [benchmark-a-github-to-zod-validation-generator-for-your-api-schemas](./benchmark-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [benchmark-a-log-rotation-compaction-script-for-your-app-logs](./benchmark-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [benchmark-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./benchmark-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [benchmark-a-migration-verifier-that-compares-pre-post-data-snapshots](./benchmark-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [benchmark-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./benchmark-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [benchmark-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./benchmark-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [benchmark-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./benchmark-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [benchmark-a-pdf-changelog-generator-from-commit-messages](./benchmark-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [benchmark-a-pdf-merger-splitter-utility-for-contract-docs](./benchmark-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [benchmark-a-pdf-password-remover-re-encryptor](./benchmark-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [benchmark-a-performance-profiler-for-node-python-endpoints](./benchmark-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [benchmark-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./benchmark-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [benchmark-a-pr-description-generator-that-fills-descriptions-from-the-diff](./benchmark-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [benchmark-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./benchmark-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [benchmark-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./benchmark-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [benchmark-a-release-drafter-that-creates-release-notes-from-merged-prs](./benchmark-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [benchmark-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./benchmark-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [benchmark-a-robust-api-error-handler-that-retries-with-exponential-backoff](./benchmark-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [benchmark-a-search-indexer-that-makes-your-docs-searchable](./benchmark-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [benchmark-a-self-updating-docs-generator-that-syncs-readme-from-code](./benchmark-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [benchmark-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./benchmark-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [benchmark-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./benchmark-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [benchmark-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./benchmark-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [benchmark-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./benchmark-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [benchmark-a-test-generator-that-creates-unit-tests-from-an-existing-module](./benchmark-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [benchmark-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./benchmark-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [benchmark-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./benchmark-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [benchmark-a-typescript-utility-for-parsing-and-validating-complex-configs](./benchmark-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [benchmark-a-unit-test-coverage-dashboard-for-your-ci](./benchmark-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [benchmark-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./benchmark-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [benchmark-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./benchmark-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [benchmark-a-vercel-preview-url-health-checker-comment-poster](./benchmark-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [benchmark-a-vercel-speed-test-script-that-compares-deploy-urls](./benchmark-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [benchmark-a-website-uptime-status-page-with-page-specific-checks](./benchmark-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [benchmark-a-weekly-research-digest-script-using-a-search-api](./benchmark-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [benchmark-an-accessibility-checker-script-that-audits-pages-for-issues](./benchmark-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [benchmark-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./benchmark-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [benchmark-an-api-rate-limiter-and-circuit-breaker-wrapper](./benchmark-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [benchmark-an-mcp-server-that-exposes-your-docs-to-opencode](./benchmark-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [benchmark-an-openapi-spec-validator-docs-sanity-checker](./benchmark-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [build-a-background-job-queue-redis-based-for-slow-tasks](./build-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [build-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./build-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [build-a-broken-link-checker-that-scans-your-docs](./build-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [build-a-bug-triage-assistant-that-summarizes-issues-by-severity](./build-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [build-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./build-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [build-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./build-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [build-a-ci-cache-warmer-for-your-monorepo](./build-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [build-a-cli-help-readme-generator-for-your-project](./build-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [build-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./build-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [build-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./build-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [build-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./build-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [build-a-data-model-migrator-with-rollback-verification-checks](./build-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [build-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./build-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [build-a-data-quality-checker-for-your-raw-datasets](./build-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [build-a-desktop-app-wrapper-for-a-web-dashboard-electron](./build-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [build-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./build-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [build-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./build-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [build-a-github-actions-monthly-spend-analyzer](./build-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [build-a-github-actions-runner-script-that-caches-npm-pip-installs](./build-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [build-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./build-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [build-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./build-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [build-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./build-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [build-a-github-to-notion-sync-for-issues-and-prs](./build-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [build-a-github-to-zod-validation-generator-for-your-api-schemas](./build-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [build-a-log-rotation-compaction-script-for-your-app-logs](./build-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [build-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./build-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [build-a-migration-verifier-that-compares-pre-post-data-snapshots](./build-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [build-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./build-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [build-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./build-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [build-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./build-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [build-a-pdf-changelog-generator-from-commit-messages](./build-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [build-a-pdf-merger-splitter-utility-for-contract-docs](./build-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [build-a-pdf-password-remover-re-encryptor](./build-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [build-a-performance-profiler-for-node-python-endpoints](./build-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [build-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./build-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [build-a-pr-description-generator-that-fills-descriptions-from-the-diff](./build-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [build-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./build-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [build-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./build-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [build-a-release-drafter-that-creates-release-notes-from-merged-prs](./build-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [build-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./build-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [build-a-robust-api-error-handler-that-retries-with-exponential-backoff](./build-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [build-a-search-indexer-that-makes-your-docs-searchable](./build-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [build-a-self-updating-docs-generator-that-syncs-readme-from-code](./build-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [build-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./build-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [build-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./build-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [build-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./build-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [build-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./build-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [build-a-test-generator-that-creates-unit-tests-from-an-existing-module](./build-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [build-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./build-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [build-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./build-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [build-a-typescript-utility-for-parsing-and-validating-complex-configs](./build-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [build-a-unit-test-coverage-dashboard-for-your-ci](./build-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [build-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./build-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [build-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./build-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [build-a-vercel-preview-url-health-checker-comment-poster](./build-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [build-a-vercel-speed-test-script-that-compares-deploy-urls](./build-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [build-a-website-uptime-status-page-with-page-specific-checks](./build-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [build-a-weekly-research-digest-script-using-a-search-api](./build-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [build-an-accessibility-checker-script-that-audits-pages-for-issues](./build-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [build-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./build-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [build-an-api-rate-limiter-and-circuit-breaker-wrapper](./build-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [build-an-mcp-server-that-exposes-your-docs-to-opencode](./build-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [build-an-openapi-spec-validator-docs-sanity-checker](./build-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [configure-a-background-job-queue-redis-based-for-slow-tasks](./configure-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [configure-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./configure-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [configure-a-broken-link-checker-that-scans-your-docs](./configure-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [configure-a-bug-triage-assistant-that-summarizes-issues-by-severity](./configure-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [configure-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./configure-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [configure-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./configure-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [configure-a-ci-cache-warmer-for-your-monorepo](./configure-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [configure-a-cli-help-readme-generator-for-your-project](./configure-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [configure-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./configure-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [configure-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./configure-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [configure-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./configure-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [configure-a-data-model-migrator-with-rollback-verification-checks](./configure-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [configure-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./configure-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [configure-a-data-quality-checker-for-your-raw-datasets](./configure-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [configure-a-desktop-app-wrapper-for-a-web-dashboard-electron](./configure-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [configure-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./configure-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [configure-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./configure-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [configure-a-github-actions-monthly-spend-analyzer](./configure-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [configure-a-github-actions-runner-script-that-caches-npm-pip-installs](./configure-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [configure-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./configure-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [configure-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./configure-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [configure-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./configure-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [configure-a-github-to-notion-sync-for-issues-and-prs](./configure-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [configure-a-github-to-zod-validation-generator-for-your-api-schemas](./configure-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [configure-a-log-rotation-compaction-script-for-your-app-logs](./configure-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [configure-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./configure-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [configure-a-migration-verifier-that-compares-pre-post-data-snapshots](./configure-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [configure-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./configure-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [configure-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./configure-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [configure-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./configure-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [configure-a-pdf-changelog-generator-from-commit-messages](./configure-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [configure-a-pdf-merger-splitter-utility-for-contract-docs](./configure-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [configure-a-pdf-password-remover-re-encryptor](./configure-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [configure-a-performance-profiler-for-node-python-endpoints](./configure-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [configure-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./configure-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [configure-a-pr-description-generator-that-fills-descriptions-from-the-diff](./configure-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [configure-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./configure-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [configure-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./configure-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [configure-a-release-drafter-that-creates-release-notes-from-merged-prs](./configure-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [configure-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./configure-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [configure-a-robust-api-error-handler-that-retries-with-exponential-backoff](./configure-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [configure-a-search-indexer-that-makes-your-docs-searchable](./configure-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [configure-a-self-updating-docs-generator-that-syncs-readme-from-code](./configure-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [configure-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./configure-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [configure-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./configure-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [configure-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./configure-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [configure-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./configure-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [configure-a-test-generator-that-creates-unit-tests-from-an-existing-module](./configure-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [configure-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./configure-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [configure-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./configure-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [configure-a-typescript-utility-for-parsing-and-validating-complex-configs](./configure-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [configure-a-unit-test-coverage-dashboard-for-your-ci](./configure-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [configure-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./configure-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [configure-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./configure-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [configure-a-vercel-preview-url-health-checker-comment-poster](./configure-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [configure-a-vercel-speed-test-script-that-compares-deploy-urls](./configure-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [configure-a-website-uptime-status-page-with-page-specific-checks](./configure-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [configure-a-weekly-research-digest-script-using-a-search-api](./configure-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [configure-an-accessibility-checker-script-that-audits-pages-for-issues](./configure-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [configure-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./configure-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [configure-an-api-rate-limiter-and-circuit-breaker-wrapper](./configure-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [configure-an-mcp-server-that-exposes-your-docs-to-opencode](./configure-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [configure-an-openapi-spec-validator-docs-sanity-checker](./configure-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [create-a-background-job-queue-redis-based-for-slow-tasks](./create-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [create-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./create-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [create-a-broken-link-checker-that-scans-your-docs](./create-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [create-a-bug-triage-assistant-that-summarizes-issues-by-severity](./create-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [create-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./create-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [create-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./create-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [create-a-ci-cache-warmer-for-your-monorepo](./create-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [create-a-cli-help-readme-generator-for-your-project](./create-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [create-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./create-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [create-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./create-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [create-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./create-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [create-a-data-model-migrator-with-rollback-verification-checks](./create-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [create-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./create-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [create-a-data-quality-checker-for-your-raw-datasets](./create-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [create-a-desktop-app-wrapper-for-a-web-dashboard-electron](./create-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [create-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./create-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [create-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./create-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [create-a-github-actions-monthly-spend-analyzer](./create-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [create-a-github-actions-runner-script-that-caches-npm-pip-installs](./create-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [create-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./create-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [create-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./create-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [create-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./create-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [create-a-github-to-notion-sync-for-issues-and-prs](./create-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [create-a-github-to-zod-validation-generator-for-your-api-schemas](./create-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [create-a-log-rotation-compaction-script-for-your-app-logs](./create-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [create-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./create-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [create-a-migration-verifier-that-compares-pre-post-data-snapshots](./create-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [create-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./create-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [create-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./create-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [create-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./create-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [create-a-pdf-changelog-generator-from-commit-messages](./create-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [create-a-pdf-merger-splitter-utility-for-contract-docs](./create-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [create-a-pdf-password-remover-re-encryptor](./create-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [create-a-performance-profiler-for-node-python-endpoints](./create-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [create-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./create-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [create-a-pr-description-generator-that-fills-descriptions-from-the-diff](./create-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [create-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./create-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [create-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./create-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [create-a-release-drafter-that-creates-release-notes-from-merged-prs](./create-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [create-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./create-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [create-a-robust-api-error-handler-that-retries-with-exponential-backoff](./create-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [create-a-search-indexer-that-makes-your-docs-searchable](./create-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [create-a-self-updating-docs-generator-that-syncs-readme-from-code](./create-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [create-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./create-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [create-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./create-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [create-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./create-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [create-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./create-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [create-a-test-generator-that-creates-unit-tests-from-an-existing-module](./create-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [create-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./create-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [create-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./create-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [create-a-typescript-utility-for-parsing-and-validating-complex-configs](./create-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [create-a-unit-test-coverage-dashboard-for-your-ci](./create-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [create-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./create-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [create-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./create-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [create-a-vercel-preview-url-health-checker-comment-poster](./create-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [create-a-vercel-speed-test-script-that-compares-deploy-urls](./create-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [create-a-website-uptime-status-page-with-page-specific-checks](./create-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [create-a-weekly-research-digest-script-using-a-search-api](./create-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [create-an-accessibility-checker-script-that-audits-pages-for-issues](./create-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [create-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./create-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [create-an-api-rate-limiter-and-circuit-breaker-wrapper](./create-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [create-an-mcp-server-that-exposes-your-docs-to-opencode](./create-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [create-an-openapi-spec-validator-docs-sanity-checker](./create-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [deploy-a-background-job-queue-redis-based-for-slow-tasks](./deploy-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [deploy-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./deploy-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [deploy-a-broken-link-checker-that-scans-your-docs](./deploy-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [deploy-a-bug-triage-assistant-that-summarizes-issues-by-severity](./deploy-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [deploy-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./deploy-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [deploy-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./deploy-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [deploy-a-ci-cache-warmer-for-your-monorepo](./deploy-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [deploy-a-cli-help-readme-generator-for-your-project](./deploy-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [deploy-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./deploy-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [deploy-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./deploy-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [deploy-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./deploy-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [deploy-a-data-model-migrator-with-rollback-verification-checks](./deploy-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [deploy-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./deploy-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [deploy-a-data-quality-checker-for-your-raw-datasets](./deploy-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [deploy-a-desktop-app-wrapper-for-a-web-dashboard-electron](./deploy-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [deploy-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./deploy-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [deploy-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./deploy-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [deploy-a-github-actions-monthly-spend-analyzer](./deploy-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [deploy-a-github-actions-runner-script-that-caches-npm-pip-installs](./deploy-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [deploy-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./deploy-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [deploy-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./deploy-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [deploy-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./deploy-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [deploy-a-github-to-notion-sync-for-issues-and-prs](./deploy-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [deploy-a-github-to-zod-validation-generator-for-your-api-schemas](./deploy-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [deploy-a-log-rotation-compaction-script-for-your-app-logs](./deploy-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [deploy-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./deploy-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [deploy-a-migration-verifier-that-compares-pre-post-data-snapshots](./deploy-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [deploy-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./deploy-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [deploy-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./deploy-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [deploy-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./deploy-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [deploy-a-pdf-changelog-generator-from-commit-messages](./deploy-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [deploy-a-pdf-merger-splitter-utility-for-contract-docs](./deploy-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [deploy-a-pdf-password-remover-re-encryptor](./deploy-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [deploy-a-performance-profiler-for-node-python-endpoints](./deploy-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [deploy-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./deploy-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [deploy-a-pr-description-generator-that-fills-descriptions-from-the-diff](./deploy-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [deploy-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./deploy-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [deploy-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./deploy-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [deploy-a-release-drafter-that-creates-release-notes-from-merged-prs](./deploy-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [deploy-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./deploy-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [deploy-a-robust-api-error-handler-that-retries-with-exponential-backoff](./deploy-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [deploy-a-search-indexer-that-makes-your-docs-searchable](./deploy-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [deploy-a-self-updating-docs-generator-that-syncs-readme-from-code](./deploy-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [deploy-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./deploy-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [deploy-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./deploy-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [deploy-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./deploy-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [deploy-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./deploy-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [deploy-a-test-generator-that-creates-unit-tests-from-an-existing-module](./deploy-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [deploy-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./deploy-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [deploy-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./deploy-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [deploy-a-typescript-utility-for-parsing-and-validating-complex-configs](./deploy-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [deploy-a-unit-test-coverage-dashboard-for-your-ci](./deploy-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [deploy-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./deploy-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [deploy-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./deploy-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [deploy-a-vercel-preview-url-health-checker-comment-poster](./deploy-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [deploy-a-vercel-speed-test-script-that-compares-deploy-urls](./deploy-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [deploy-a-website-uptime-status-page-with-page-specific-checks](./deploy-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [deploy-a-weekly-research-digest-script-using-a-search-api](./deploy-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [deploy-an-accessibility-checker-script-that-audits-pages-for-issues](./deploy-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [deploy-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./deploy-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [deploy-an-api-rate-limiter-and-circuit-breaker-wrapper](./deploy-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [deploy-an-mcp-server-that-exposes-your-docs-to-opencode](./deploy-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [deploy-an-openapi-spec-validator-docs-sanity-checker](./deploy-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [extract-a-background-job-queue-redis-based-for-slow-tasks](./extract-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [extract-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./extract-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [extract-a-broken-link-checker-that-scans-your-docs](./extract-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [extract-a-bug-triage-assistant-that-summarizes-issues-by-severity](./extract-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [extract-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./extract-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [extract-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./extract-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [extract-a-ci-cache-warmer-for-your-monorepo](./extract-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [extract-a-cli-help-readme-generator-for-your-project](./extract-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [extract-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./extract-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [extract-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./extract-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [extract-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./extract-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [extract-a-data-model-migrator-with-rollback-verification-checks](./extract-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [extract-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./extract-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [extract-a-data-quality-checker-for-your-raw-datasets](./extract-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [extract-a-desktop-app-wrapper-for-a-web-dashboard-electron](./extract-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [extract-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./extract-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [extract-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./extract-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [extract-a-github-actions-monthly-spend-analyzer](./extract-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [extract-a-github-actions-runner-script-that-caches-npm-pip-installs](./extract-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [extract-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./extract-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [extract-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./extract-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [extract-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./extract-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [extract-a-github-to-notion-sync-for-issues-and-prs](./extract-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [extract-a-github-to-zod-validation-generator-for-your-api-schemas](./extract-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [extract-a-log-rotation-compaction-script-for-your-app-logs](./extract-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [extract-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./extract-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [extract-a-migration-verifier-that-compares-pre-post-data-snapshots](./extract-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [extract-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./extract-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [extract-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./extract-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [extract-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./extract-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [extract-a-pdf-changelog-generator-from-commit-messages](./extract-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [extract-a-pdf-merger-splitter-utility-for-contract-docs](./extract-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [extract-a-pdf-password-remover-re-encryptor](./extract-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [extract-a-performance-profiler-for-node-python-endpoints](./extract-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [extract-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./extract-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [extract-a-pr-description-generator-that-fills-descriptions-from-the-diff](./extract-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [extract-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./extract-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [extract-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./extract-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [extract-a-release-drafter-that-creates-release-notes-from-merged-prs](./extract-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [extract-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./extract-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [extract-a-robust-api-error-handler-that-retries-with-exponential-backoff](./extract-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [extract-a-search-indexer-that-makes-your-docs-searchable](./extract-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [extract-a-self-updating-docs-generator-that-syncs-readme-from-code](./extract-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [extract-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./extract-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [extract-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./extract-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [extract-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./extract-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [extract-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./extract-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [extract-a-test-generator-that-creates-unit-tests-from-an-existing-module](./extract-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [extract-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./extract-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [extract-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./extract-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [extract-a-typescript-utility-for-parsing-and-validating-complex-configs](./extract-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [extract-a-unit-test-coverage-dashboard-for-your-ci](./extract-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [extract-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./extract-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [extract-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./extract-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [extract-a-vercel-preview-url-health-checker-comment-poster](./extract-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [extract-a-vercel-speed-test-script-that-compares-deploy-urls](./extract-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [extract-a-website-uptime-status-page-with-page-specific-checks](./extract-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [extract-a-weekly-research-digest-script-using-a-search-api](./extract-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [extract-an-accessibility-checker-script-that-audits-pages-for-issues](./extract-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [extract-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./extract-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [extract-an-api-rate-limiter-and-circuit-breaker-wrapper](./extract-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [extract-an-mcp-server-that-exposes-your-docs-to-opencode](./extract-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [extract-an-openapi-spec-validator-docs-sanity-checker](./extract-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [fix-a-background-job-queue-redis-based-for-slow-tasks](./fix-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [fix-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./fix-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [fix-a-broken-link-checker-that-scans-your-docs](./fix-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [fix-a-bug-triage-assistant-that-summarizes-issues-by-severity](./fix-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [fix-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./fix-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [fix-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./fix-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [fix-a-ci-cache-warmer-for-your-monorepo](./fix-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [fix-a-cli-help-readme-generator-for-your-project](./fix-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [fix-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./fix-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [fix-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./fix-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [fix-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./fix-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [fix-a-data-model-migrator-with-rollback-verification-checks](./fix-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [fix-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./fix-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [fix-a-data-quality-checker-for-your-raw-datasets](./fix-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [fix-a-desktop-app-wrapper-for-a-web-dashboard-electron](./fix-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [fix-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./fix-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [fix-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./fix-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [fix-a-github-actions-monthly-spend-analyzer](./fix-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [fix-a-github-actions-runner-script-that-caches-npm-pip-installs](./fix-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [fix-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./fix-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [fix-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./fix-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [fix-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./fix-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [fix-a-github-to-notion-sync-for-issues-and-prs](./fix-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [fix-a-github-to-zod-validation-generator-for-your-api-schemas](./fix-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [fix-a-log-rotation-compaction-script-for-your-app-logs](./fix-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [fix-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./fix-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [fix-a-migration-verifier-that-compares-pre-post-data-snapshots](./fix-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [fix-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./fix-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [fix-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./fix-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [fix-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./fix-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [fix-a-pdf-changelog-generator-from-commit-messages](./fix-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [fix-a-pdf-merger-splitter-utility-for-contract-docs](./fix-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [fix-a-pdf-password-remover-re-encryptor](./fix-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [fix-a-performance-profiler-for-node-python-endpoints](./fix-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [fix-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./fix-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [fix-a-pr-description-generator-that-fills-descriptions-from-the-diff](./fix-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [fix-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./fix-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [fix-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./fix-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [fix-a-release-drafter-that-creates-release-notes-from-merged-prs](./fix-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [fix-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./fix-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [fix-a-robust-api-error-handler-that-retries-with-exponential-backoff](./fix-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [fix-a-search-indexer-that-makes-your-docs-searchable](./fix-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [fix-a-self-updating-docs-generator-that-syncs-readme-from-code](./fix-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [fix-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./fix-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [fix-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./fix-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [fix-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./fix-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [fix-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./fix-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [fix-a-test-generator-that-creates-unit-tests-from-an-existing-module](./fix-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [fix-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./fix-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [fix-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./fix-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [fix-a-typescript-utility-for-parsing-and-validating-complex-configs](./fix-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [fix-a-unit-test-coverage-dashboard-for-your-ci](./fix-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [fix-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./fix-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [fix-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./fix-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [fix-a-vercel-preview-url-health-checker-comment-poster](./fix-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [fix-a-vercel-speed-test-script-that-compares-deploy-urls](./fix-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [fix-a-website-uptime-status-page-with-page-specific-checks](./fix-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [fix-a-weekly-research-digest-script-using-a-search-api](./fix-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [fix-an-accessibility-checker-script-that-audits-pages-for-issues](./fix-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [fix-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./fix-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [fix-an-api-rate-limiter-and-circuit-breaker-wrapper](./fix-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [fix-an-mcp-server-that-exposes-your-docs-to-opencode](./fix-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [fix-an-openapi-spec-validator-docs-sanity-checker](./fix-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [generate-a-background-job-queue-redis-based-for-slow-tasks](./generate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [generate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./generate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [generate-a-broken-link-checker-that-scans-your-docs](./generate-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [generate-a-bug-triage-assistant-that-summarizes-issues-by-severity](./generate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [generate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./generate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [generate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./generate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [generate-a-ci-cache-warmer-for-your-monorepo](./generate-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [generate-a-cli-help-readme-generator-for-your-project](./generate-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [generate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./generate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [generate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./generate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [generate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./generate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [generate-a-data-model-migrator-with-rollback-verification-checks](./generate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [generate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./generate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [generate-a-data-quality-checker-for-your-raw-datasets](./generate-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [generate-a-desktop-app-wrapper-for-a-web-dashboard-electron](./generate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [generate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./generate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [generate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./generate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [generate-a-github-actions-monthly-spend-analyzer](./generate-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [generate-a-github-actions-runner-script-that-caches-npm-pip-installs](./generate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [generate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./generate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [generate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./generate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [generate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./generate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [generate-a-github-to-notion-sync-for-issues-and-prs](./generate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [generate-a-github-to-zod-validation-generator-for-your-api-schemas](./generate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [generate-a-log-rotation-compaction-script-for-your-app-logs](./generate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [generate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./generate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [generate-a-migration-verifier-that-compares-pre-post-data-snapshots](./generate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [generate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./generate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [generate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./generate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [generate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./generate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [generate-a-pdf-changelog-generator-from-commit-messages](./generate-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [generate-a-pdf-merger-splitter-utility-for-contract-docs](./generate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [generate-a-pdf-password-remover-re-encryptor](./generate-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [generate-a-performance-profiler-for-node-python-endpoints](./generate-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [generate-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./generate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [generate-a-pr-description-generator-that-fills-descriptions-from-the-diff](./generate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [generate-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./generate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [generate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./generate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [generate-a-release-drafter-that-creates-release-notes-from-merged-prs](./generate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [generate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./generate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [generate-a-robust-api-error-handler-that-retries-with-exponential-backoff](./generate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [generate-a-search-indexer-that-makes-your-docs-searchable](./generate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [generate-a-self-updating-docs-generator-that-syncs-readme-from-code](./generate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [generate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./generate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [generate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./generate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [generate-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./generate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [generate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./generate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [generate-a-test-generator-that-creates-unit-tests-from-an-existing-module](./generate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [generate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./generate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [generate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./generate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [generate-a-typescript-utility-for-parsing-and-validating-complex-configs](./generate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [generate-a-unit-test-coverage-dashboard-for-your-ci](./generate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [generate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./generate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [generate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./generate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [generate-a-vercel-preview-url-health-checker-comment-poster](./generate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [generate-a-vercel-speed-test-script-that-compares-deploy-urls](./generate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [generate-a-website-uptime-status-page-with-page-specific-checks](./generate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [generate-a-weekly-research-digest-script-using-a-search-api](./generate-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [generate-an-accessibility-checker-script-that-audits-pages-for-issues](./generate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [generate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./generate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [generate-an-api-rate-limiter-and-circuit-breaker-wrapper](./generate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [generate-an-mcp-server-that-exposes-your-docs-to-opencode](./generate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [generate-an-openapi-spec-validator-docs-sanity-checker](./generate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [guard-a-background-job-queue-redis-based-for-slow-tasks](./guard-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [guard-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./guard-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [guard-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./guard-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [guard-a-cli-help-readme-generator-for-your-project](./guard-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [guard-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./guard-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [guard-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./guard-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [guard-a-data-model-migrator-with-rollback-verification-checks](./guard-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [guard-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./guard-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [guard-a-desktop-app-wrapper-for-a-web-dashboard-electron](./guard-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [guard-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./guard-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [guard-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./guard-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [guard-a-github-actions-runner-script-that-caches-npm-pip-installs](./guard-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [guard-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./guard-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [guard-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./guard-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [guard-a-github-to-notion-sync-for-issues-and-prs](./guard-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [guard-a-github-to-zod-validation-generator-for-your-api-schemas](./guard-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [guard-a-log-rotation-compaction-script-for-your-app-logs](./guard-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [guard-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./guard-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [guard-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./guard-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [guard-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./guard-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [guard-a-pdf-changelog-generator-from-commit-messages](./guard-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [guard-a-pdf-merger-splitter-utility-for-contract-docs](./guard-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [guard-a-performance-profiler-for-node-python-endpoints](./guard-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [guard-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./guard-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [guard-a-pr-description-generator-that-fills-descriptions-from-the-diff](./guard-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [guard-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./guard-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [guard-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./guard-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [guard-a-robust-api-error-handler-that-retries-with-exponential-backoff](./guard-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [guard-a-search-indexer-that-makes-your-docs-searchable](./guard-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [guard-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./guard-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [guard-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./guard-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [guard-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./guard-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [guard-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./guard-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [guard-a-test-generator-that-creates-unit-tests-from-an-existing-module](./guard-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [guard-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./guard-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [guard-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./guard-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [guard-a-typescript-utility-for-parsing-and-validating-complex-configs](./guard-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [guard-a-unit-test-coverage-dashboard-for-your-ci](./guard-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [guard-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./guard-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [guard-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./guard-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [guard-a-vercel-speed-test-script-that-compares-deploy-urls](./guard-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [guard-a-website-uptime-status-page-with-page-specific-checks](./guard-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [guard-a-weekly-research-digest-script-using-a-search-api](./guard-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [guard-an-accessibility-checker-script-that-audits-pages-for-issues](./guard-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [guard-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./guard-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [guard-an-api-rate-limiter-and-circuit-breaker-wrapper](./guard-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [guard-an-mcp-server-that-exposes-your-docs-to-opencode](./guard-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [harden-a-background-job-queue-redis-based-for-slow-tasks](./harden-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [harden-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./harden-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [harden-a-broken-link-checker-that-scans-your-docs](./harden-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [harden-a-bug-triage-assistant-that-summarizes-issues-by-severity](./harden-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [harden-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./harden-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [harden-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./harden-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [harden-a-ci-cache-warmer-for-your-monorepo](./harden-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [harden-a-cli-help-readme-generator-for-your-project](./harden-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [harden-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./harden-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [harden-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./harden-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [harden-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./harden-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [harden-a-data-model-migrator-with-rollback-verification-checks](./harden-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [harden-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./harden-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [harden-a-data-quality-checker-for-your-raw-datasets](./harden-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [harden-a-desktop-app-wrapper-for-a-web-dashboard-electron](./harden-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [harden-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./harden-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [harden-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./harden-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [harden-a-github-actions-monthly-spend-analyzer](./harden-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [harden-a-github-actions-runner-script-that-caches-npm-pip-installs](./harden-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [harden-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./harden-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [harden-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./harden-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [harden-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./harden-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [harden-a-github-to-notion-sync-for-issues-and-prs](./harden-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [harden-a-github-to-zod-validation-generator-for-your-api-schemas](./harden-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [harden-a-log-rotation-compaction-script-for-your-app-logs](./harden-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [harden-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./harden-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [harden-a-migration-verifier-that-compares-pre-post-data-snapshots](./harden-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [harden-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./harden-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [harden-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./harden-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [harden-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./harden-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [harden-a-pdf-changelog-generator-from-commit-messages](./harden-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [harden-a-pdf-merger-splitter-utility-for-contract-docs](./harden-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [harden-a-pdf-password-remover-re-encryptor](./harden-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [harden-a-performance-profiler-for-node-python-endpoints](./harden-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [harden-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./harden-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [harden-a-pr-description-generator-that-fills-descriptions-from-the-diff](./harden-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [harden-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./harden-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [harden-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./harden-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [harden-a-release-drafter-that-creates-release-notes-from-merged-prs](./harden-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [harden-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./harden-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [harden-a-robust-api-error-handler-that-retries-with-exponential-backoff](./harden-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [harden-a-search-indexer-that-makes-your-docs-searchable](./harden-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [harden-a-self-updating-docs-generator-that-syncs-readme-from-code](./harden-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [harden-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./harden-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [harden-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./harden-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [harden-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./harden-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [harden-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./harden-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [harden-a-test-generator-that-creates-unit-tests-from-an-existing-module](./harden-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [harden-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./harden-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [harden-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./harden-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [harden-a-typescript-utility-for-parsing-and-validating-complex-configs](./harden-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [harden-a-unit-test-coverage-dashboard-for-your-ci](./harden-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [harden-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./harden-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [harden-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./harden-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [harden-a-vercel-preview-url-health-checker-comment-poster](./harden-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [harden-a-vercel-speed-test-script-that-compares-deploy-urls](./harden-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [harden-a-website-uptime-status-page-with-page-specific-checks](./harden-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [harden-a-weekly-research-digest-script-using-a-search-api](./harden-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [harden-an-accessibility-checker-script-that-audits-pages-for-issues](./harden-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [harden-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./harden-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [harden-an-api-rate-limiter-and-circuit-breaker-wrapper](./harden-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [harden-an-mcp-server-that-exposes-your-docs-to-opencode](./harden-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [harden-an-openapi-spec-validator-docs-sanity-checker](./harden-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [index-a-background-job-queue-redis-based-for-slow-tasks](./index-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [index-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./index-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [index-a-broken-link-checker-that-scans-your-docs](./index-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [index-a-bug-triage-assistant-that-summarizes-issues-by-severity](./index-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [index-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./index-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [index-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./index-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [index-a-ci-cache-warmer-for-your-monorepo](./index-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [index-a-cli-help-readme-generator-for-your-project](./index-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [index-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./index-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [index-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./index-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [index-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./index-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [index-a-data-model-migrator-with-rollback-verification-checks](./index-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [index-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./index-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [index-a-data-quality-checker-for-your-raw-datasets](./index-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [index-a-desktop-app-wrapper-for-a-web-dashboard-electron](./index-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [index-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./index-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [index-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./index-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [index-a-github-actions-monthly-spend-analyzer](./index-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [index-a-github-actions-runner-script-that-caches-npm-pip-installs](./index-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [index-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./index-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [index-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./index-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [index-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./index-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [index-a-github-to-notion-sync-for-issues-and-prs](./index-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [index-a-github-to-zod-validation-generator-for-your-api-schemas](./index-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [index-a-log-rotation-compaction-script-for-your-app-logs](./index-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [index-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./index-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [index-a-migration-verifier-that-compares-pre-post-data-snapshots](./index-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [index-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./index-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [index-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./index-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [index-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./index-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [index-a-pdf-changelog-generator-from-commit-messages](./index-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [index-a-pdf-merger-splitter-utility-for-contract-docs](./index-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [index-a-pdf-password-remover-re-encryptor](./index-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [index-a-performance-profiler-for-node-python-endpoints](./index-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [index-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./index-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [index-a-pr-description-generator-that-fills-descriptions-from-the-diff](./index-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [index-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./index-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [index-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./index-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [index-a-release-drafter-that-creates-release-notes-from-merged-prs](./index-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [index-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./index-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [index-a-robust-api-error-handler-that-retries-with-exponential-backoff](./index-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [index-a-search-indexer-that-makes-your-docs-searchable](./index-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [index-a-self-updating-docs-generator-that-syncs-readme-from-code](./index-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [index-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./index-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [index-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./index-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [index-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./index-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [index-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./index-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [index-a-test-generator-that-creates-unit-tests-from-an-existing-module](./index-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [index-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./index-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [index-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./index-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [index-a-typescript-utility-for-parsing-and-validating-complex-configs](./index-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [index-a-unit-test-coverage-dashboard-for-your-ci](./index-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [index-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./index-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [index-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./index-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [index-a-vercel-preview-url-health-checker-comment-poster](./index-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [index-a-vercel-speed-test-script-that-compares-deploy-urls](./index-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [index-a-website-uptime-status-page-with-page-specific-checks](./index-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [index-a-weekly-research-digest-script-using-a-search-api](./index-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [index-an-accessibility-checker-script-that-audits-pages-for-issues](./index-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [index-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./index-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [index-an-api-rate-limiter-and-circuit-breaker-wrapper](./index-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [index-an-mcp-server-that-exposes-your-docs-to-opencode](./index-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [index-an-openapi-spec-validator-docs-sanity-checker](./index-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [install-a-background-job-queue-redis-based-for-slow-tasks](./install-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [install-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./install-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [install-a-broken-link-checker-that-scans-your-docs](./install-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [install-a-bug-triage-assistant-that-summarizes-issues-by-severity](./install-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [install-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./install-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [install-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./install-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [install-a-ci-cache-warmer-for-your-monorepo](./install-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [install-a-cli-help-readme-generator-for-your-project](./install-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [install-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./install-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [install-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./install-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [install-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./install-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [install-a-data-model-migrator-with-rollback-verification-checks](./install-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [install-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./install-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [install-a-data-quality-checker-for-your-raw-datasets](./install-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [install-a-desktop-app-wrapper-for-a-web-dashboard-electron](./install-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [install-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./install-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [install-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./install-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [install-a-github-actions-monthly-spend-analyzer](./install-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [install-a-github-actions-runner-script-that-caches-npm-pip-installs](./install-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [install-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./install-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [install-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./install-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [install-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./install-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [install-a-github-to-notion-sync-for-issues-and-prs](./install-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [install-a-github-to-zod-validation-generator-for-your-api-schemas](./install-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [install-a-log-rotation-compaction-script-for-your-app-logs](./install-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [install-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./install-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [install-a-migration-verifier-that-compares-pre-post-data-snapshots](./install-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [install-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./install-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [install-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./install-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [install-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./install-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [install-a-pdf-changelog-generator-from-commit-messages](./install-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [install-a-pdf-merger-splitter-utility-for-contract-docs](./install-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [install-a-pdf-password-remover-re-encryptor](./install-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [install-a-performance-profiler-for-node-python-endpoints](./install-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [install-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./install-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [install-a-pr-description-generator-that-fills-descriptions-from-the-diff](./install-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [install-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./install-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [install-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./install-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [install-a-release-drafter-that-creates-release-notes-from-merged-prs](./install-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [install-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./install-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [install-a-robust-api-error-handler-that-retries-with-exponential-backoff](./install-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [install-a-search-indexer-that-makes-your-docs-searchable](./install-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [install-a-self-updating-docs-generator-that-syncs-readme-from-code](./install-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [install-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./install-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [install-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./install-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [install-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./install-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [install-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./install-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [install-a-test-generator-that-creates-unit-tests-from-an-existing-module](./install-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [install-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./install-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [install-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./install-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [install-a-typescript-utility-for-parsing-and-validating-complex-configs](./install-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [install-a-unit-test-coverage-dashboard-for-your-ci](./install-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [install-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./install-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [install-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./install-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [install-a-vercel-preview-url-health-checker-comment-poster](./install-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [install-a-vercel-speed-test-script-that-compares-deploy-urls](./install-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [install-a-website-uptime-status-page-with-page-specific-checks](./install-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [install-a-weekly-research-digest-script-using-a-search-api](./install-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [install-an-accessibility-checker-script-that-audits-pages-for-issues](./install-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [install-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./install-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [install-an-api-rate-limiter-and-circuit-breaker-wrapper](./install-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [install-an-mcp-server-that-exposes-your-docs-to-opencode](./install-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [install-an-openapi-spec-validator-docs-sanity-checker](./install-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [integrate-a-background-job-queue-redis-based-for-slow-tasks](./integrate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [integrate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./integrate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [integrate-a-broken-link-checker-that-scans-your-docs](./integrate-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [integrate-a-bug-triage-assistant-that-summarizes-issues-by-severity](./integrate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [integrate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./integrate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [integrate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./integrate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [integrate-a-ci-cache-warmer-for-your-monorepo](./integrate-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [integrate-a-cli-help-readme-generator-for-your-project](./integrate-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [integrate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./integrate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [integrate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./integrate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [integrate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./integrate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [integrate-a-data-model-migrator-with-rollback-verification-checks](./integrate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [integrate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./integrate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [integrate-a-data-quality-checker-for-your-raw-datasets](./integrate-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [integrate-a-desktop-app-wrapper-for-a-web-dashboard-electron](./integrate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [integrate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./integrate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [integrate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./integrate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [integrate-a-github-actions-monthly-spend-analyzer](./integrate-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [integrate-a-github-actions-runner-script-that-caches-npm-pip-installs](./integrate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [integrate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./integrate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [integrate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./integrate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [integrate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./integrate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [integrate-a-github-to-notion-sync-for-issues-and-prs](./integrate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [integrate-a-github-to-zod-validation-generator-for-your-api-schemas](./integrate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [integrate-a-log-rotation-compaction-script-for-your-app-logs](./integrate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [integrate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./integrate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [integrate-a-migration-verifier-that-compares-pre-post-data-snapshots](./integrate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [integrate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./integrate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [integrate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./integrate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [integrate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./integrate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [integrate-a-pdf-changelog-generator-from-commit-messages](./integrate-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [integrate-a-pdf-merger-splitter-utility-for-contract-docs](./integrate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [integrate-a-pdf-password-remover-re-encryptor](./integrate-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [integrate-a-performance-profiler-for-node-python-endpoints](./integrate-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [integrate-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./integrate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [integrate-a-pr-description-generator-that-fills-descriptions-from-the-diff](./integrate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [integrate-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./integrate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [integrate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./integrate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [integrate-a-release-drafter-that-creates-release-notes-from-merged-prs](./integrate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [integrate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./integrate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [integrate-a-robust-api-error-handler-that-retries-with-exponential-backoff](./integrate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [integrate-a-search-indexer-that-makes-your-docs-searchable](./integrate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [integrate-a-self-updating-docs-generator-that-syncs-readme-from-code](./integrate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [integrate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./integrate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [integrate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./integrate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [integrate-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./integrate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [integrate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./integrate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [integrate-a-test-generator-that-creates-unit-tests-from-an-existing-module](./integrate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [integrate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./integrate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [integrate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./integrate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [integrate-a-typescript-utility-for-parsing-and-validating-complex-configs](./integrate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [integrate-a-unit-test-coverage-dashboard-for-your-ci](./integrate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [integrate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./integrate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [integrate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./integrate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [integrate-a-vercel-preview-url-health-checker-comment-poster](./integrate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [integrate-a-vercel-speed-test-script-that-compares-deploy-urls](./integrate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [integrate-a-website-uptime-status-page-with-page-specific-checks](./integrate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [integrate-a-weekly-research-digest-script-using-a-search-api](./integrate-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [integrate-an-accessibility-checker-script-that-audits-pages-for-issues](./integrate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [integrate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./integrate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [integrate-an-api-rate-limiter-and-circuit-breaker-wrapper](./integrate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [integrate-an-mcp-server-that-exposes-your-docs-to-opencode](./integrate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [integrate-an-openapi-spec-validator-docs-sanity-checker](./integrate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [migrate-a-background-job-queue-redis-based-for-slow-tasks](./migrate-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [migrate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./migrate-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [migrate-a-broken-link-checker-that-scans-your-docs](./migrate-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [migrate-a-bug-triage-assistant-that-summarizes-issues-by-severity](./migrate-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [migrate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./migrate-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [migrate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./migrate-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [migrate-a-ci-cache-warmer-for-your-monorepo](./migrate-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [migrate-a-cli-help-readme-generator-for-your-project](./migrate-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [migrate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./migrate-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [migrate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./migrate-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [migrate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./migrate-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [migrate-a-data-model-migrator-with-rollback-verification-checks](./migrate-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [migrate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./migrate-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [migrate-a-data-quality-checker-for-your-raw-datasets](./migrate-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [migrate-a-desktop-app-wrapper-for-a-web-dashboard-electron](./migrate-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [migrate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./migrate-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [migrate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./migrate-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [migrate-a-github-actions-monthly-spend-analyzer](./migrate-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [migrate-a-github-actions-runner-script-that-caches-npm-pip-installs](./migrate-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [migrate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./migrate-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [migrate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./migrate-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [migrate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./migrate-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [migrate-a-github-to-notion-sync-for-issues-and-prs](./migrate-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [migrate-a-github-to-zod-validation-generator-for-your-api-schemas](./migrate-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [migrate-a-log-rotation-compaction-script-for-your-app-logs](./migrate-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [migrate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./migrate-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [migrate-a-migration-verifier-that-compares-pre-post-data-snapshots](./migrate-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [migrate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./migrate-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [migrate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./migrate-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [migrate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./migrate-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [migrate-a-pdf-changelog-generator-from-commit-messages](./migrate-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [migrate-a-pdf-merger-splitter-utility-for-contract-docs](./migrate-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [migrate-a-pdf-password-remover-re-encryptor](./migrate-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [migrate-a-performance-profiler-for-node-python-endpoints](./migrate-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [migrate-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./migrate-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [migrate-a-pr-description-generator-that-fills-descriptions-from-the-diff](./migrate-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [migrate-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./migrate-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [migrate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./migrate-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [migrate-a-release-drafter-that-creates-release-notes-from-merged-prs](./migrate-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [migrate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./migrate-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [migrate-a-robust-api-error-handler-that-retries-with-exponential-backoff](./migrate-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [migrate-a-search-indexer-that-makes-your-docs-searchable](./migrate-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [migrate-a-self-updating-docs-generator-that-syncs-readme-from-code](./migrate-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [migrate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./migrate-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [migrate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./migrate-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [migrate-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./migrate-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [migrate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./migrate-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [migrate-a-test-generator-that-creates-unit-tests-from-an-existing-module](./migrate-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [migrate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./migrate-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [migrate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./migrate-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [migrate-a-typescript-utility-for-parsing-and-validating-complex-configs](./migrate-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [migrate-a-unit-test-coverage-dashboard-for-your-ci](./migrate-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [migrate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./migrate-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [migrate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./migrate-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [migrate-a-vercel-preview-url-health-checker-comment-poster](./migrate-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [migrate-a-vercel-speed-test-script-that-compares-deploy-urls](./migrate-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [migrate-a-website-uptime-status-page-with-page-specific-checks](./migrate-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [migrate-a-weekly-research-digest-script-using-a-search-api](./migrate-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [migrate-an-accessibility-checker-script-that-audits-pages-for-issues](./migrate-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [migrate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./migrate-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [migrate-an-api-rate-limiter-and-circuit-breaker-wrapper](./migrate-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [migrate-an-mcp-server-that-exposes-your-docs-to-opencode](./migrate-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [migrate-an-openapi-spec-validator-docs-sanity-checker](./migrate-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [monitor-a-background-job-queue-redis-based-for-slow-tasks](./monitor-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [monitor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./monitor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [monitor-a-broken-link-checker-that-scans-your-docs](./monitor-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [monitor-a-bug-triage-assistant-that-summarizes-issues-by-severity](./monitor-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [monitor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./monitor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [monitor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./monitor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [monitor-a-ci-cache-warmer-for-your-monorepo](./monitor-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [monitor-a-cli-help-readme-generator-for-your-project](./monitor-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [monitor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./monitor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [monitor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./monitor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [monitor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./monitor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [monitor-a-data-model-migrator-with-rollback-verification-checks](./monitor-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [monitor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./monitor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [monitor-a-data-quality-checker-for-your-raw-datasets](./monitor-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [monitor-a-desktop-app-wrapper-for-a-web-dashboard-electron](./monitor-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [monitor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./monitor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [monitor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./monitor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [monitor-a-github-actions-monthly-spend-analyzer](./monitor-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [monitor-a-github-actions-runner-script-that-caches-npm-pip-installs](./monitor-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [monitor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./monitor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [monitor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./monitor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [monitor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./monitor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [monitor-a-github-to-notion-sync-for-issues-and-prs](./monitor-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [monitor-a-github-to-zod-validation-generator-for-your-api-schemas](./monitor-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [monitor-a-log-rotation-compaction-script-for-your-app-logs](./monitor-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [monitor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./monitor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [monitor-a-migration-verifier-that-compares-pre-post-data-snapshots](./monitor-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [monitor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./monitor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [monitor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./monitor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [monitor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./monitor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [monitor-a-pdf-changelog-generator-from-commit-messages](./monitor-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [monitor-a-pdf-merger-splitter-utility-for-contract-docs](./monitor-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [monitor-a-pdf-password-remover-re-encryptor](./monitor-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [monitor-a-performance-profiler-for-node-python-endpoints](./monitor-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [monitor-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./monitor-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [monitor-a-pr-description-generator-that-fills-descriptions-from-the-diff](./monitor-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [monitor-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./monitor-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [monitor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./monitor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [monitor-a-release-drafter-that-creates-release-notes-from-merged-prs](./monitor-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [monitor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./monitor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [monitor-a-robust-api-error-handler-that-retries-with-exponential-backoff](./monitor-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [monitor-a-search-indexer-that-makes-your-docs-searchable](./monitor-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [monitor-a-self-updating-docs-generator-that-syncs-readme-from-code](./monitor-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [monitor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./monitor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [monitor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./monitor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [monitor-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./monitor-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [monitor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./monitor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [monitor-a-test-generator-that-creates-unit-tests-from-an-existing-module](./monitor-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [monitor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./monitor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [monitor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./monitor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [monitor-a-typescript-utility-for-parsing-and-validating-complex-configs](./monitor-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [monitor-a-unit-test-coverage-dashboard-for-your-ci](./monitor-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [monitor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./monitor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [monitor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./monitor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [monitor-a-vercel-preview-url-health-checker-comment-poster](./monitor-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [monitor-a-vercel-speed-test-script-that-compares-deploy-urls](./monitor-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [monitor-a-website-uptime-status-page-with-page-specific-checks](./monitor-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [monitor-a-weekly-research-digest-script-using-a-search-api](./monitor-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [monitor-an-accessibility-checker-script-that-audits-pages-for-issues](./monitor-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [monitor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./monitor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [monitor-an-api-rate-limiter-and-circuit-breaker-wrapper](./monitor-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [monitor-an-mcp-server-that-exposes-your-docs-to-opencode](./monitor-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [monitor-an-openapi-spec-validator-docs-sanity-checker](./monitor-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [optimize-a-background-job-queue-redis-based-for-slow-tasks](./optimize-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [optimize-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./optimize-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [optimize-a-broken-link-checker-that-scans-your-docs](./optimize-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [optimize-a-bug-triage-assistant-that-summarizes-issues-by-severity](./optimize-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [optimize-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./optimize-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [optimize-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./optimize-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [optimize-a-ci-cache-warmer-for-your-monorepo](./optimize-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [optimize-a-cli-help-readme-generator-for-your-project](./optimize-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [optimize-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./optimize-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [optimize-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./optimize-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [optimize-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./optimize-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [optimize-a-data-model-migrator-with-rollback-verification-checks](./optimize-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [optimize-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./optimize-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [optimize-a-data-quality-checker-for-your-raw-datasets](./optimize-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [optimize-a-desktop-app-wrapper-for-a-web-dashboard-electron](./optimize-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [optimize-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./optimize-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [optimize-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./optimize-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [optimize-a-github-actions-monthly-spend-analyzer](./optimize-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [optimize-a-github-actions-runner-script-that-caches-npm-pip-installs](./optimize-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [optimize-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./optimize-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [optimize-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./optimize-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [optimize-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./optimize-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [optimize-a-github-to-notion-sync-for-issues-and-prs](./optimize-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [optimize-a-github-to-zod-validation-generator-for-your-api-schemas](./optimize-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [optimize-a-log-rotation-compaction-script-for-your-app-logs](./optimize-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [optimize-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./optimize-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [optimize-a-migration-verifier-that-compares-pre-post-data-snapshots](./optimize-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [optimize-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./optimize-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [optimize-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./optimize-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [optimize-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./optimize-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [optimize-a-pdf-changelog-generator-from-commit-messages](./optimize-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [optimize-a-pdf-merger-splitter-utility-for-contract-docs](./optimize-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [optimize-a-pdf-password-remover-re-encryptor](./optimize-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [optimize-a-performance-profiler-for-node-python-endpoints](./optimize-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [optimize-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./optimize-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [optimize-a-pr-description-generator-that-fills-descriptions-from-the-diff](./optimize-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [optimize-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./optimize-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [optimize-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./optimize-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [optimize-a-release-drafter-that-creates-release-notes-from-merged-prs](./optimize-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [optimize-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./optimize-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [optimize-a-robust-api-error-handler-that-retries-with-exponential-backoff](./optimize-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [optimize-a-search-indexer-that-makes-your-docs-searchable](./optimize-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [optimize-a-self-updating-docs-generator-that-syncs-readme-from-code](./optimize-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [optimize-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./optimize-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [optimize-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./optimize-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [optimize-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./optimize-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [optimize-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./optimize-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [optimize-a-test-generator-that-creates-unit-tests-from-an-existing-module](./optimize-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [optimize-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./optimize-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [optimize-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./optimize-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [optimize-a-typescript-utility-for-parsing-and-validating-complex-configs](./optimize-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [optimize-a-unit-test-coverage-dashboard-for-your-ci](./optimize-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [optimize-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./optimize-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [optimize-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./optimize-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [optimize-a-vercel-preview-url-health-checker-comment-poster](./optimize-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [optimize-a-vercel-speed-test-script-that-compares-deploy-urls](./optimize-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [optimize-a-website-uptime-status-page-with-page-specific-checks](./optimize-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [optimize-a-weekly-research-digest-script-using-a-search-api](./optimize-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [optimize-an-accessibility-checker-script-that-audits-pages-for-issues](./optimize-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [optimize-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./optimize-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [optimize-an-api-rate-limiter-and-circuit-breaker-wrapper](./optimize-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [optimize-an-mcp-server-that-exposes-your-docs-to-opencode](./optimize-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [optimize-an-openapi-spec-validator-docs-sanity-checker](./optimize-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [patch-a-background-job-queue-redis-based-for-slow-tasks](./patch-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [patch-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./patch-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [patch-a-broken-link-checker-that-scans-your-docs](./patch-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [patch-a-bug-triage-assistant-that-summarizes-issues-by-severity](./patch-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [patch-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./patch-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [patch-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./patch-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [patch-a-ci-cache-warmer-for-your-monorepo](./patch-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [patch-a-cli-help-readme-generator-for-your-project](./patch-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [patch-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./patch-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [patch-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./patch-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [patch-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./patch-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [patch-a-data-model-migrator-with-rollback-verification-checks](./patch-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [patch-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./patch-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [patch-a-data-quality-checker-for-your-raw-datasets](./patch-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [patch-a-desktop-app-wrapper-for-a-web-dashboard-electron](./patch-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [patch-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./patch-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [patch-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./patch-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [patch-a-github-actions-monthly-spend-analyzer](./patch-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [patch-a-github-actions-runner-script-that-caches-npm-pip-installs](./patch-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [patch-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./patch-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [patch-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./patch-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [patch-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./patch-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [patch-a-github-to-notion-sync-for-issues-and-prs](./patch-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [patch-a-github-to-zod-validation-generator-for-your-api-schemas](./patch-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [patch-a-log-rotation-compaction-script-for-your-app-logs](./patch-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [patch-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./patch-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [patch-a-migration-verifier-that-compares-pre-post-data-snapshots](./patch-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [patch-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./patch-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [patch-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./patch-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [patch-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./patch-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [patch-a-pdf-changelog-generator-from-commit-messages](./patch-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [patch-a-pdf-merger-splitter-utility-for-contract-docs](./patch-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [patch-a-pdf-password-remover-re-encryptor](./patch-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [patch-a-performance-profiler-for-node-python-endpoints](./patch-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [patch-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./patch-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [patch-a-pr-description-generator-that-fills-descriptions-from-the-diff](./patch-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [patch-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./patch-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [patch-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./patch-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [patch-a-release-drafter-that-creates-release-notes-from-merged-prs](./patch-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [patch-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./patch-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [patch-a-robust-api-error-handler-that-retries-with-exponential-backoff](./patch-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [patch-a-search-indexer-that-makes-your-docs-searchable](./patch-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [patch-a-self-updating-docs-generator-that-syncs-readme-from-code](./patch-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [patch-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./patch-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [patch-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./patch-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [patch-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./patch-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [patch-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./patch-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [patch-a-test-generator-that-creates-unit-tests-from-an-existing-module](./patch-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [patch-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./patch-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [patch-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./patch-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [patch-a-typescript-utility-for-parsing-and-validating-complex-configs](./patch-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [patch-a-unit-test-coverage-dashboard-for-your-ci](./patch-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [patch-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./patch-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [patch-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./patch-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [patch-a-vercel-preview-url-health-checker-comment-poster](./patch-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [patch-a-vercel-speed-test-script-that-compares-deploy-urls](./patch-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [patch-a-website-uptime-status-page-with-page-specific-checks](./patch-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [patch-a-weekly-research-digest-script-using-a-search-api](./patch-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [patch-an-accessibility-checker-script-that-audits-pages-for-issues](./patch-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [patch-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./patch-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [patch-an-api-rate-limiter-and-circuit-breaker-wrapper](./patch-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [patch-an-mcp-server-that-exposes-your-docs-to-opencode](./patch-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [patch-an-openapi-spec-validator-docs-sanity-checker](./patch-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [publish-a-background-job-queue-redis-based-for-slow-tasks](./publish-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [publish-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./publish-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [publish-a-broken-link-checker-that-scans-your-docs](./publish-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [publish-a-bug-triage-assistant-that-summarizes-issues-by-severity](./publish-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [publish-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./publish-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [publish-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./publish-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [publish-a-ci-cache-warmer-for-your-monorepo](./publish-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [publish-a-cli-help-readme-generator-for-your-project](./publish-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [publish-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./publish-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [publish-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./publish-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [publish-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./publish-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [publish-a-data-model-migrator-with-rollback-verification-checks](./publish-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [publish-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./publish-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [publish-a-data-quality-checker-for-your-raw-datasets](./publish-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [publish-a-desktop-app-wrapper-for-a-web-dashboard-electron](./publish-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [publish-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./publish-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [publish-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./publish-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [publish-a-github-actions-monthly-spend-analyzer](./publish-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [publish-a-github-actions-runner-script-that-caches-npm-pip-installs](./publish-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [publish-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./publish-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [publish-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./publish-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [publish-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./publish-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [publish-a-github-to-notion-sync-for-issues-and-prs](./publish-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [publish-a-github-to-zod-validation-generator-for-your-api-schemas](./publish-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [publish-a-log-rotation-compaction-script-for-your-app-logs](./publish-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [publish-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./publish-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [publish-a-migration-verifier-that-compares-pre-post-data-snapshots](./publish-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [publish-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./publish-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [publish-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./publish-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [publish-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./publish-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [publish-a-pdf-changelog-generator-from-commit-messages](./publish-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [publish-a-pdf-merger-splitter-utility-for-contract-docs](./publish-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [publish-a-pdf-password-remover-re-encryptor](./publish-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [publish-a-performance-profiler-for-node-python-endpoints](./publish-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [publish-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./publish-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [publish-a-pr-description-generator-that-fills-descriptions-from-the-diff](./publish-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [publish-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./publish-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [publish-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./publish-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [publish-a-release-drafter-that-creates-release-notes-from-merged-prs](./publish-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [publish-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./publish-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [publish-a-robust-api-error-handler-that-retries-with-exponential-backoff](./publish-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [publish-a-search-indexer-that-makes-your-docs-searchable](./publish-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [publish-a-self-updating-docs-generator-that-syncs-readme-from-code](./publish-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [publish-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./publish-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [publish-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./publish-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [publish-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./publish-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [publish-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./publish-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [publish-a-test-generator-that-creates-unit-tests-from-an-existing-module](./publish-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [publish-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./publish-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [publish-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./publish-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [publish-a-typescript-utility-for-parsing-and-validating-complex-configs](./publish-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [publish-a-unit-test-coverage-dashboard-for-your-ci](./publish-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [publish-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./publish-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [publish-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./publish-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [publish-a-vercel-preview-url-health-checker-comment-poster](./publish-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [publish-a-vercel-speed-test-script-that-compares-deploy-urls](./publish-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [publish-a-website-uptime-status-page-with-page-specific-checks](./publish-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [publish-a-weekly-research-digest-script-using-a-search-api](./publish-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [publish-an-accessibility-checker-script-that-audits-pages-for-issues](./publish-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [publish-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./publish-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [publish-an-api-rate-limiter-and-circuit-breaker-wrapper](./publish-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [publish-an-mcp-server-that-exposes-your-docs-to-opencode](./publish-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [publish-an-openapi-spec-validator-docs-sanity-checker](./publish-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [refactor-a-background-job-queue-redis-based-for-slow-tasks](./refactor-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [refactor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./refactor-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [refactor-a-broken-link-checker-that-scans-your-docs](./refactor-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [refactor-a-bug-triage-assistant-that-summarizes-issues-by-severity](./refactor-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [refactor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./refactor-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [refactor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./refactor-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [refactor-a-ci-cache-warmer-for-your-monorepo](./refactor-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [refactor-a-cli-help-readme-generator-for-your-project](./refactor-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [refactor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./refactor-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [refactor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./refactor-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [refactor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./refactor-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [refactor-a-data-model-migrator-with-rollback-verification-checks](./refactor-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [refactor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./refactor-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [refactor-a-data-quality-checker-for-your-raw-datasets](./refactor-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [refactor-a-desktop-app-wrapper-for-a-web-dashboard-electron](./refactor-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [refactor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./refactor-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [refactor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./refactor-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [refactor-a-github-actions-monthly-spend-analyzer](./refactor-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [refactor-a-github-actions-runner-script-that-caches-npm-pip-installs](./refactor-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [refactor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./refactor-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [refactor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./refactor-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [refactor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./refactor-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [refactor-a-github-to-notion-sync-for-issues-and-prs](./refactor-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [refactor-a-github-to-zod-validation-generator-for-your-api-schemas](./refactor-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [refactor-a-log-rotation-compaction-script-for-your-app-logs](./refactor-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [refactor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./refactor-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [refactor-a-migration-verifier-that-compares-pre-post-data-snapshots](./refactor-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [refactor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./refactor-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [refactor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./refactor-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [refactor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./refactor-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [refactor-a-pdf-changelog-generator-from-commit-messages](./refactor-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [refactor-a-pdf-merger-splitter-utility-for-contract-docs](./refactor-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [refactor-a-pdf-password-remover-re-encryptor](./refactor-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [refactor-a-performance-profiler-for-node-python-endpoints](./refactor-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [refactor-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./refactor-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [refactor-a-pr-description-generator-that-fills-descriptions-from-the-diff](./refactor-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [refactor-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./refactor-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [refactor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./refactor-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [refactor-a-release-drafter-that-creates-release-notes-from-merged-prs](./refactor-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [refactor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./refactor-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [refactor-a-robust-api-error-handler-that-retries-with-exponential-backoff](./refactor-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [refactor-a-search-indexer-that-makes-your-docs-searchable](./refactor-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [refactor-a-self-updating-docs-generator-that-syncs-readme-from-code](./refactor-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [refactor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./refactor-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [refactor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./refactor-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [refactor-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./refactor-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [refactor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./refactor-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [refactor-a-test-generator-that-creates-unit-tests-from-an-existing-module](./refactor-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [refactor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./refactor-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [refactor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./refactor-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [refactor-a-typescript-utility-for-parsing-and-validating-complex-configs](./refactor-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [refactor-a-unit-test-coverage-dashboard-for-your-ci](./refactor-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [refactor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./refactor-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [refactor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./refactor-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [refactor-a-vercel-preview-url-health-checker-comment-poster](./refactor-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [refactor-a-vercel-speed-test-script-that-compares-deploy-urls](./refactor-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [refactor-a-website-uptime-status-page-with-page-specific-checks](./refactor-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [refactor-a-weekly-research-digest-script-using-a-search-api](./refactor-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [refactor-an-accessibility-checker-script-that-audits-pages-for-issues](./refactor-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [refactor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./refactor-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [refactor-an-api-rate-limiter-and-circuit-breaker-wrapper](./refactor-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [refactor-an-mcp-server-that-exposes-your-docs-to-opencode](./refactor-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [refactor-an-openapi-spec-validator-docs-sanity-checker](./refactor-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [release-a-background-job-queue-redis-based-for-slow-tasks](./release-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [release-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./release-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [release-a-broken-link-checker-that-scans-your-docs](./release-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [release-a-bug-triage-assistant-that-summarizes-issues-by-severity](./release-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [release-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./release-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [release-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./release-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [release-a-ci-cache-warmer-for-your-monorepo](./release-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [release-a-cli-help-readme-generator-for-your-project](./release-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [release-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./release-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [release-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./release-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [release-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./release-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [release-a-data-model-migrator-with-rollback-verification-checks](./release-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [release-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./release-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [release-a-data-quality-checker-for-your-raw-datasets](./release-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [release-a-desktop-app-wrapper-for-a-web-dashboard-electron](./release-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [release-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./release-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [release-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./release-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [release-a-github-actions-monthly-spend-analyzer](./release-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [release-a-github-actions-runner-script-that-caches-npm-pip-installs](./release-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [release-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./release-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [release-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./release-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [release-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./release-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [release-a-github-to-notion-sync-for-issues-and-prs](./release-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [release-a-github-to-zod-validation-generator-for-your-api-schemas](./release-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [release-a-log-rotation-compaction-script-for-your-app-logs](./release-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [release-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./release-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [release-a-migration-verifier-that-compares-pre-post-data-snapshots](./release-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [release-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./release-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [release-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./release-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [release-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./release-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [release-a-pdf-changelog-generator-from-commit-messages](./release-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [release-a-pdf-merger-splitter-utility-for-contract-docs](./release-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [release-a-pdf-password-remover-re-encryptor](./release-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [release-a-performance-profiler-for-node-python-endpoints](./release-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [release-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./release-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [release-a-pr-description-generator-that-fills-descriptions-from-the-diff](./release-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [release-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./release-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [release-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./release-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [release-a-release-drafter-that-creates-release-notes-from-merged-prs](./release-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [release-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./release-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [release-a-robust-api-error-handler-that-retries-with-exponential-backoff](./release-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [release-a-search-indexer-that-makes-your-docs-searchable](./release-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [release-a-self-updating-docs-generator-that-syncs-readme-from-code](./release-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [release-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./release-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [release-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./release-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [release-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./release-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [release-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./release-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [release-a-test-generator-that-creates-unit-tests-from-an-existing-module](./release-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [release-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./release-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [release-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./release-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [release-a-typescript-utility-for-parsing-and-validating-complex-configs](./release-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [release-a-unit-test-coverage-dashboard-for-your-ci](./release-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [release-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./release-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [release-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./release-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [release-a-vercel-preview-url-health-checker-comment-poster](./release-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [release-a-vercel-speed-test-script-that-compares-deploy-urls](./release-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [release-a-website-uptime-status-page-with-page-specific-checks](./release-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [release-a-weekly-research-digest-script-using-a-search-api](./release-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [release-an-accessibility-checker-script-that-audits-pages-for-issues](./release-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [release-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./release-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [release-an-api-rate-limiter-and-circuit-breaker-wrapper](./release-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [release-an-mcp-server-that-exposes-your-docs-to-opencode](./release-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [release-an-openapi-spec-validator-docs-sanity-checker](./release-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [review-a-background-job-queue-redis-based-for-slow-tasks](./review-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [review-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./review-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [review-a-broken-link-checker-that-scans-your-docs](./review-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [review-a-bug-triage-assistant-that-summarizes-issues-by-severity](./review-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [review-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./review-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [review-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./review-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [review-a-ci-cache-warmer-for-your-monorepo](./review-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [review-a-cli-help-readme-generator-for-your-project](./review-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [review-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./review-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [review-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./review-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [review-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./review-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [review-a-data-model-migrator-with-rollback-verification-checks](./review-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [review-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./review-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [review-a-data-quality-checker-for-your-raw-datasets](./review-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [review-a-desktop-app-wrapper-for-a-web-dashboard-electron](./review-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [review-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./review-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [review-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./review-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [review-a-github-actions-monthly-spend-analyzer](./review-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [review-a-github-actions-runner-script-that-caches-npm-pip-installs](./review-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [review-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./review-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [review-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./review-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [review-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./review-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [review-a-github-to-notion-sync-for-issues-and-prs](./review-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [review-a-github-to-zod-validation-generator-for-your-api-schemas](./review-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [review-a-log-rotation-compaction-script-for-your-app-logs](./review-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [review-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./review-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [review-a-migration-verifier-that-compares-pre-post-data-snapshots](./review-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [review-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./review-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [review-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./review-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [review-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./review-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [review-a-pdf-changelog-generator-from-commit-messages](./review-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [review-a-pdf-merger-splitter-utility-for-contract-docs](./review-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [review-a-pdf-password-remover-re-encryptor](./review-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [review-a-performance-profiler-for-node-python-endpoints](./review-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [review-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./review-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [review-a-pr-description-generator-that-fills-descriptions-from-the-diff](./review-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [review-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./review-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [review-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./review-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [review-a-release-drafter-that-creates-release-notes-from-merged-prs](./review-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [review-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./review-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [review-a-robust-api-error-handler-that-retries-with-exponential-backoff](./review-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [review-a-search-indexer-that-makes-your-docs-searchable](./review-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [review-a-self-updating-docs-generator-that-syncs-readme-from-code](./review-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [review-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./review-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [review-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./review-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [review-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./review-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [review-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./review-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [review-a-test-generator-that-creates-unit-tests-from-an-existing-module](./review-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [review-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./review-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [review-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./review-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [review-a-typescript-utility-for-parsing-and-validating-complex-configs](./review-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [review-a-unit-test-coverage-dashboard-for-your-ci](./review-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [review-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./review-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [review-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./review-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [review-a-vercel-preview-url-health-checker-comment-poster](./review-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [review-a-vercel-speed-test-script-that-compares-deploy-urls](./review-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [review-a-website-uptime-status-page-with-page-specific-checks](./review-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [review-a-weekly-research-digest-script-using-a-search-api](./review-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [review-an-accessibility-checker-script-that-audits-pages-for-issues](./review-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [review-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./review-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [review-an-api-rate-limiter-and-circuit-breaker-wrapper](./review-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [review-an-mcp-server-that-exposes-your-docs-to-opencode](./review-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [review-an-openapi-spec-validator-docs-sanity-checker](./review-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [scrape-a-background-job-queue-redis-based-for-slow-tasks](./scrape-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [scrape-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./scrape-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [scrape-a-broken-link-checker-that-scans-your-docs](./scrape-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [scrape-a-bug-triage-assistant-that-summarizes-issues-by-severity](./scrape-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [scrape-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./scrape-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [scrape-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./scrape-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [scrape-a-ci-cache-warmer-for-your-monorepo](./scrape-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [scrape-a-cli-help-readme-generator-for-your-project](./scrape-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [scrape-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./scrape-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [scrape-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./scrape-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [scrape-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./scrape-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [scrape-a-data-model-migrator-with-rollback-verification-checks](./scrape-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [scrape-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./scrape-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [scrape-a-data-quality-checker-for-your-raw-datasets](./scrape-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [scrape-a-desktop-app-wrapper-for-a-web-dashboard-electron](./scrape-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [scrape-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./scrape-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [scrape-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./scrape-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [scrape-a-github-actions-monthly-spend-analyzer](./scrape-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [scrape-a-github-actions-runner-script-that-caches-npm-pip-installs](./scrape-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [scrape-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./scrape-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [scrape-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./scrape-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [scrape-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./scrape-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [scrape-a-github-to-notion-sync-for-issues-and-prs](./scrape-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [scrape-a-github-to-zod-validation-generator-for-your-api-schemas](./scrape-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [scrape-a-log-rotation-compaction-script-for-your-app-logs](./scrape-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [scrape-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./scrape-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [scrape-a-migration-verifier-that-compares-pre-post-data-snapshots](./scrape-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [scrape-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./scrape-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [scrape-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./scrape-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [scrape-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./scrape-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [scrape-a-pdf-changelog-generator-from-commit-messages](./scrape-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [scrape-a-pdf-merger-splitter-utility-for-contract-docs](./scrape-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [scrape-a-pdf-password-remover-re-encryptor](./scrape-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [scrape-a-performance-profiler-for-node-python-endpoints](./scrape-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [scrape-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./scrape-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [scrape-a-pr-description-generator-that-fills-descriptions-from-the-diff](./scrape-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [scrape-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./scrape-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [scrape-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./scrape-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [scrape-a-release-drafter-that-creates-release-notes-from-merged-prs](./scrape-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [scrape-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./scrape-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [scrape-a-robust-api-error-handler-that-retries-with-exponential-backoff](./scrape-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [scrape-a-search-indexer-that-makes-your-docs-searchable](./scrape-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [scrape-a-self-updating-docs-generator-that-syncs-readme-from-code](./scrape-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [scrape-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./scrape-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [scrape-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./scrape-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [scrape-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./scrape-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [scrape-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./scrape-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [scrape-a-test-generator-that-creates-unit-tests-from-an-existing-module](./scrape-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [scrape-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./scrape-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [scrape-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./scrape-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [scrape-a-typescript-utility-for-parsing-and-validating-complex-configs](./scrape-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [scrape-a-unit-test-coverage-dashboard-for-your-ci](./scrape-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [scrape-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./scrape-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [scrape-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./scrape-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [scrape-a-vercel-preview-url-health-checker-comment-poster](./scrape-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [scrape-a-vercel-speed-test-script-that-compares-deploy-urls](./scrape-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [scrape-a-website-uptime-status-page-with-page-specific-checks](./scrape-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [scrape-a-weekly-research-digest-script-using-a-search-api](./scrape-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [scrape-an-accessibility-checker-script-that-audits-pages-for-issues](./scrape-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [scrape-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./scrape-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [scrape-an-api-rate-limiter-and-circuit-breaker-wrapper](./scrape-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [scrape-an-mcp-server-that-exposes-your-docs-to-opencode](./scrape-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [scrape-an-openapi-spec-validator-docs-sanity-checker](./scrape-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [send-a-background-job-queue-redis-based-for-slow-tasks](./send-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [send-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./send-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [send-a-broken-link-checker-that-scans-your-docs](./send-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [send-a-bug-triage-assistant-that-summarizes-issues-by-severity](./send-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [send-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./send-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [send-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./send-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [send-a-ci-cache-warmer-for-your-monorepo](./send-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [send-a-cli-help-readme-generator-for-your-project](./send-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [send-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./send-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [send-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./send-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [send-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./send-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [send-a-data-model-migrator-with-rollback-verification-checks](./send-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [send-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./send-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [send-a-data-quality-checker-for-your-raw-datasets](./send-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [send-a-desktop-app-wrapper-for-a-web-dashboard-electron](./send-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [send-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./send-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [send-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./send-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [send-a-github-actions-monthly-spend-analyzer](./send-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [send-a-github-actions-runner-script-that-caches-npm-pip-installs](./send-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [send-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./send-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [send-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./send-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [send-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./send-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [send-a-github-to-notion-sync-for-issues-and-prs](./send-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [send-a-github-to-zod-validation-generator-for-your-api-schemas](./send-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [send-a-log-rotation-compaction-script-for-your-app-logs](./send-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [send-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./send-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [send-a-migration-verifier-that-compares-pre-post-data-snapshots](./send-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [send-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./send-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [send-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./send-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [send-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./send-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [send-a-pdf-changelog-generator-from-commit-messages](./send-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [send-a-pdf-merger-splitter-utility-for-contract-docs](./send-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [send-a-pdf-password-remover-re-encryptor](./send-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [send-a-performance-profiler-for-node-python-endpoints](./send-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [send-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./send-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [send-a-pr-description-generator-that-fills-descriptions-from-the-diff](./send-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [send-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./send-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [send-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./send-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [send-a-release-drafter-that-creates-release-notes-from-merged-prs](./send-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [send-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./send-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [send-a-robust-api-error-handler-that-retries-with-exponential-backoff](./send-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [send-a-search-indexer-that-makes-your-docs-searchable](./send-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [send-a-self-updating-docs-generator-that-syncs-readme-from-code](./send-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [send-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./send-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [send-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./send-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [send-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./send-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [send-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./send-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [send-a-test-generator-that-creates-unit-tests-from-an-existing-module](./send-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [send-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./send-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [send-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./send-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [send-a-typescript-utility-for-parsing-and-validating-complex-configs](./send-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [send-a-unit-test-coverage-dashboard-for-your-ci](./send-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [send-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./send-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [send-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./send-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [send-a-vercel-preview-url-health-checker-comment-poster](./send-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [send-a-vercel-speed-test-script-that-compares-deploy-urls](./send-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [send-a-website-uptime-status-page-with-page-specific-checks](./send-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [send-a-weekly-research-digest-script-using-a-search-api](./send-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [send-an-accessibility-checker-script-that-audits-pages-for-issues](./send-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [send-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./send-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [send-an-api-rate-limiter-and-circuit-breaker-wrapper](./send-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [send-an-mcp-server-that-exposes-your-docs-to-opencode](./send-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [send-an-openapi-spec-validator-docs-sanity-checker](./send-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [set-up-a-background-job-queue-redis-based-for-slow-tasks](./set-up-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [set-up-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./set-up-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [set-up-a-broken-link-checker-that-scans-your-docs](./set-up-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [set-up-a-bug-triage-assistant-that-summarizes-issues-by-severity](./set-up-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [set-up-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./set-up-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [set-up-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./set-up-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [set-up-a-ci-cache-warmer-for-your-monorepo](./set-up-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [set-up-a-cli-help-readme-generator-for-your-project](./set-up-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [set-up-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./set-up-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [set-up-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./set-up-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [set-up-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./set-up-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [set-up-a-data-model-migrator-with-rollback-verification-checks](./set-up-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [set-up-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./set-up-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [set-up-a-data-quality-checker-for-your-raw-datasets](./set-up-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [set-up-a-desktop-app-wrapper-for-a-web-dashboard-electron](./set-up-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [set-up-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./set-up-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [set-up-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./set-up-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [set-up-a-github-actions-monthly-spend-analyzer](./set-up-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [set-up-a-github-actions-runner-script-that-caches-npm-pip-installs](./set-up-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [set-up-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./set-up-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [set-up-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./set-up-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [set-up-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./set-up-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [set-up-a-github-to-notion-sync-for-issues-and-prs](./set-up-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [set-up-a-github-to-zod-validation-generator-for-your-api-schemas](./set-up-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [set-up-a-log-rotation-compaction-script-for-your-app-logs](./set-up-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [set-up-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./set-up-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [set-up-a-migration-verifier-that-compares-pre-post-data-snapshots](./set-up-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [set-up-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./set-up-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [set-up-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./set-up-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [set-up-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./set-up-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [set-up-a-pdf-changelog-generator-from-commit-messages](./set-up-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [set-up-a-pdf-merger-splitter-utility-for-contract-docs](./set-up-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [set-up-a-pdf-password-remover-re-encryptor](./set-up-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [set-up-a-performance-profiler-for-node-python-endpoints](./set-up-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [set-up-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./set-up-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [set-up-a-pr-description-generator-that-fills-descriptions-from-the-diff](./set-up-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [set-up-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./set-up-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [set-up-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./set-up-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [set-up-a-release-drafter-that-creates-release-notes-from-merged-prs](./set-up-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [set-up-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./set-up-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [set-up-a-robust-api-error-handler-that-retries-with-exponential-backoff](./set-up-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [set-up-a-search-indexer-that-makes-your-docs-searchable](./set-up-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [set-up-a-self-updating-docs-generator-that-syncs-readme-from-code](./set-up-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [set-up-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./set-up-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [set-up-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./set-up-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [set-up-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./set-up-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [set-up-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./set-up-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [set-up-a-test-generator-that-creates-unit-tests-from-an-existing-module](./set-up-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [set-up-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./set-up-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [set-up-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./set-up-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [set-up-a-typescript-utility-for-parsing-and-validating-complex-configs](./set-up-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [set-up-a-unit-test-coverage-dashboard-for-your-ci](./set-up-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [set-up-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./set-up-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [set-up-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./set-up-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [set-up-a-vercel-preview-url-health-checker-comment-poster](./set-up-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [set-up-a-vercel-speed-test-script-that-compares-deploy-urls](./set-up-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [set-up-a-website-uptime-status-page-with-page-specific-checks](./set-up-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [set-up-a-weekly-research-digest-script-using-a-search-api](./set-up-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [set-up-an-accessibility-checker-script-that-audits-pages-for-issues](./set-up-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [set-up-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./set-up-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [set-up-an-api-rate-limiter-and-circuit-breaker-wrapper](./set-up-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [set-up-an-mcp-server-that-exposes-your-docs-to-opencode](./set-up-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [set-up-an-openapi-spec-validator-docs-sanity-checker](./set-up-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [ship-a-background-job-queue-redis-based-for-slow-tasks](./ship-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [ship-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./ship-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [ship-a-broken-link-checker-that-scans-your-docs](./ship-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [ship-a-bug-triage-assistant-that-summarizes-issues-by-severity](./ship-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [ship-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./ship-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [ship-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./ship-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [ship-a-ci-cache-warmer-for-your-monorepo](./ship-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [ship-a-cli-help-readme-generator-for-your-project](./ship-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [ship-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./ship-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [ship-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./ship-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [ship-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./ship-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [ship-a-data-model-migrator-with-rollback-verification-checks](./ship-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [ship-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./ship-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [ship-a-data-quality-checker-for-your-raw-datasets](./ship-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [ship-a-desktop-app-wrapper-for-a-web-dashboard-electron](./ship-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [ship-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./ship-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [ship-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./ship-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [ship-a-github-actions-monthly-spend-analyzer](./ship-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [ship-a-github-actions-runner-script-that-caches-npm-pip-installs](./ship-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [ship-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./ship-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [ship-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./ship-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [ship-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./ship-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [ship-a-github-to-notion-sync-for-issues-and-prs](./ship-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [ship-a-github-to-zod-validation-generator-for-your-api-schemas](./ship-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [ship-a-log-rotation-compaction-script-for-your-app-logs](./ship-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [ship-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./ship-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [ship-a-migration-verifier-that-compares-pre-post-data-snapshots](./ship-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [ship-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./ship-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [ship-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./ship-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [ship-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./ship-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [ship-a-pdf-changelog-generator-from-commit-messages](./ship-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [ship-a-pdf-merger-splitter-utility-for-contract-docs](./ship-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [ship-a-pdf-password-remover-re-encryptor](./ship-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [ship-a-performance-profiler-for-node-python-endpoints](./ship-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [ship-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./ship-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [ship-a-pr-description-generator-that-fills-descriptions-from-the-diff](./ship-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [ship-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./ship-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [ship-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./ship-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [ship-a-release-drafter-that-creates-release-notes-from-merged-prs](./ship-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [ship-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./ship-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [ship-a-robust-api-error-handler-that-retries-with-exponential-backoff](./ship-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [ship-a-search-indexer-that-makes-your-docs-searchable](./ship-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [ship-a-self-updating-docs-generator-that-syncs-readme-from-code](./ship-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [ship-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./ship-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [ship-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./ship-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [ship-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./ship-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [ship-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./ship-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [ship-a-test-generator-that-creates-unit-tests-from-an-existing-module](./ship-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [ship-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./ship-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [ship-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./ship-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [ship-a-typescript-utility-for-parsing-and-validating-complex-configs](./ship-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [ship-a-unit-test-coverage-dashboard-for-your-ci](./ship-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [ship-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./ship-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [ship-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./ship-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [ship-a-vercel-preview-url-health-checker-comment-poster](./ship-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [ship-a-vercel-speed-test-script-that-compares-deploy-urls](./ship-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [ship-a-website-uptime-status-page-with-page-specific-checks](./ship-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [ship-a-weekly-research-digest-script-using-a-search-api](./ship-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [ship-an-accessibility-checker-script-that-audits-pages-for-issues](./ship-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [ship-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./ship-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [ship-an-api-rate-limiter-and-circuit-breaker-wrapper](./ship-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [ship-an-mcp-server-that-exposes-your-docs-to-opencode](./ship-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [ship-an-openapi-spec-validator-docs-sanity-checker](./ship-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [test-a-background-job-queue-redis-based-for-slow-tasks](./test-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [test-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./test-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [test-a-broken-link-checker-that-scans-your-docs](./test-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [test-a-bug-triage-assistant-that-summarizes-issues-by-severity](./test-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [test-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./test-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [test-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./test-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [test-a-ci-cache-warmer-for-your-monorepo](./test-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [test-a-cli-help-readme-generator-for-your-project](./test-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [test-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./test-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [test-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./test-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [test-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./test-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [test-a-data-model-migrator-with-rollback-verification-checks](./test-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [test-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./test-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [test-a-data-quality-checker-for-your-raw-datasets](./test-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [test-a-desktop-app-wrapper-for-a-web-dashboard-electron](./test-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [test-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./test-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [test-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./test-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [test-a-github-actions-monthly-spend-analyzer](./test-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [test-a-github-actions-runner-script-that-caches-npm-pip-installs](./test-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [test-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./test-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [test-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./test-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [test-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./test-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [test-a-github-to-notion-sync-for-issues-and-prs](./test-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [test-a-github-to-zod-validation-generator-for-your-api-schemas](./test-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [test-a-log-rotation-compaction-script-for-your-app-logs](./test-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [test-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./test-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [test-a-migration-verifier-that-compares-pre-post-data-snapshots](./test-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [test-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./test-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [test-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./test-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [test-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./test-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [test-a-pdf-changelog-generator-from-commit-messages](./test-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [test-a-pdf-merger-splitter-utility-for-contract-docs](./test-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [test-a-pdf-password-remover-re-encryptor](./test-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [test-a-performance-profiler-for-node-python-endpoints](./test-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [test-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./test-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [test-a-pr-description-generator-that-fills-descriptions-from-the-diff](./test-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [test-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./test-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [test-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./test-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [test-a-release-drafter-that-creates-release-notes-from-merged-prs](./test-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [test-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./test-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [test-a-robust-api-error-handler-that-retries-with-exponential-backoff](./test-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [test-a-search-indexer-that-makes-your-docs-searchable](./test-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [test-a-self-updating-docs-generator-that-syncs-readme-from-code](./test-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [test-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./test-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [test-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./test-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [test-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./test-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [test-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./test-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [test-a-test-generator-that-creates-unit-tests-from-an-existing-module](./test-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [test-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./test-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [test-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./test-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [test-a-typescript-utility-for-parsing-and-validating-complex-configs](./test-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [test-a-unit-test-coverage-dashboard-for-your-ci](./test-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [test-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./test-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [test-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./test-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [test-a-vercel-preview-url-health-checker-comment-poster](./test-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [test-a-vercel-speed-test-script-that-compares-deploy-urls](./test-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [test-a-website-uptime-status-page-with-page-specific-checks](./test-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [test-a-weekly-research-digest-script-using-a-search-api](./test-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [test-an-accessibility-checker-script-that-audits-pages-for-issues](./test-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [test-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./test-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [test-an-api-rate-limiter-and-circuit-breaker-wrapper](./test-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [test-an-mcp-server-that-exposes-your-docs-to-opencode](./test-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [test-an-openapi-spec-validator-docs-sanity-checker](./test-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [tune-a-background-job-queue-redis-based-for-slow-tasks](./tune-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [tune-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./tune-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [tune-a-broken-link-checker-that-scans-your-docs](./tune-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [tune-a-bug-triage-assistant-that-summarizes-issues-by-severity](./tune-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [tune-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./tune-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [tune-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./tune-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [tune-a-ci-cache-warmer-for-your-monorepo](./tune-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [tune-a-cli-help-readme-generator-for-your-project](./tune-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [tune-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./tune-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [tune-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./tune-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [tune-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./tune-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [tune-a-data-model-migrator-with-rollback-verification-checks](./tune-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [tune-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./tune-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [tune-a-data-quality-checker-for-your-raw-datasets](./tune-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [tune-a-desktop-app-wrapper-for-a-web-dashboard-electron](./tune-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [tune-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./tune-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [tune-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./tune-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [tune-a-github-actions-monthly-spend-analyzer](./tune-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [tune-a-github-actions-runner-script-that-caches-npm-pip-installs](./tune-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [tune-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./tune-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [tune-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./tune-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [tune-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./tune-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [tune-a-github-to-notion-sync-for-issues-and-prs](./tune-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [tune-a-github-to-zod-validation-generator-for-your-api-schemas](./tune-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [tune-a-log-rotation-compaction-script-for-your-app-logs](./tune-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [tune-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./tune-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [tune-a-migration-verifier-that-compares-pre-post-data-snapshots](./tune-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [tune-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./tune-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [tune-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./tune-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [tune-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./tune-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [tune-a-pdf-changelog-generator-from-commit-messages](./tune-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [tune-a-pdf-merger-splitter-utility-for-contract-docs](./tune-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [tune-a-pdf-password-remover-re-encryptor](./tune-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [tune-a-performance-profiler-for-node-python-endpoints](./tune-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [tune-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./tune-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [tune-a-pr-description-generator-that-fills-descriptions-from-the-diff](./tune-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [tune-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./tune-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [tune-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./tune-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [tune-a-release-drafter-that-creates-release-notes-from-merged-prs](./tune-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [tune-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./tune-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [tune-a-robust-api-error-handler-that-retries-with-exponential-backoff](./tune-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [tune-a-search-indexer-that-makes-your-docs-searchable](./tune-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [tune-a-self-updating-docs-generator-that-syncs-readme-from-code](./tune-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [tune-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./tune-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [tune-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./tune-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [tune-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./tune-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [tune-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./tune-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [tune-a-test-generator-that-creates-unit-tests-from-an-existing-module](./tune-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [tune-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./tune-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [tune-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./tune-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [tune-a-typescript-utility-for-parsing-and-validating-complex-configs](./tune-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [tune-a-unit-test-coverage-dashboard-for-your-ci](./tune-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [tune-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./tune-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [tune-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./tune-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [tune-a-vercel-preview-url-health-checker-comment-poster](./tune-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [tune-a-vercel-speed-test-script-that-compares-deploy-urls](./tune-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [tune-a-website-uptime-status-page-with-page-specific-checks](./tune-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [tune-a-weekly-research-digest-script-using-a-search-api](./tune-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [tune-an-accessibility-checker-script-that-audits-pages-for-issues](./tune-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [tune-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./tune-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [tune-an-api-rate-limiter-and-circuit-breaker-wrapper](./tune-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [tune-an-mcp-server-that-exposes-your-docs-to-opencode](./tune-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [tune-an-openapi-spec-validator-docs-sanity-checker](./tune-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [verify-a-background-job-queue-redis-based-for-slow-tasks](./verify-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [verify-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./verify-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [verify-a-broken-link-checker-that-scans-your-docs](./verify-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [verify-a-bug-triage-assistant-that-summarizes-issues-by-severity](./verify-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [verify-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./verify-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [verify-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./verify-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [verify-a-ci-cache-warmer-for-your-monorepo](./verify-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [verify-a-cli-help-readme-generator-for-your-project](./verify-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [verify-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./verify-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [verify-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./verify-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [verify-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./verify-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [verify-a-data-model-migrator-with-rollback-verification-checks](./verify-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [verify-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./verify-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [verify-a-data-quality-checker-for-your-raw-datasets](./verify-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [verify-a-desktop-app-wrapper-for-a-web-dashboard-electron](./verify-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [verify-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./verify-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [verify-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./verify-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [verify-a-github-actions-monthly-spend-analyzer](./verify-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [verify-a-github-actions-runner-script-that-caches-npm-pip-installs](./verify-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [verify-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./verify-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [verify-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./verify-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [verify-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./verify-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [verify-a-github-to-notion-sync-for-issues-and-prs](./verify-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [verify-a-github-to-zod-validation-generator-for-your-api-schemas](./verify-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [verify-a-log-rotation-compaction-script-for-your-app-logs](./verify-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [verify-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./verify-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [verify-a-migration-verifier-that-compares-pre-post-data-snapshots](./verify-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [verify-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./verify-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [verify-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./verify-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [verify-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./verify-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [verify-a-pdf-changelog-generator-from-commit-messages](./verify-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [verify-a-pdf-merger-splitter-utility-for-contract-docs](./verify-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [verify-a-pdf-password-remover-re-encryptor](./verify-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [verify-a-performance-profiler-for-node-python-endpoints](./verify-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [verify-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./verify-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [verify-a-pr-description-generator-that-fills-descriptions-from-the-diff](./verify-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [verify-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./verify-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [verify-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./verify-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [verify-a-release-drafter-that-creates-release-notes-from-merged-prs](./verify-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [verify-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./verify-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [verify-a-robust-api-error-handler-that-retries-with-exponential-backoff](./verify-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [verify-a-search-indexer-that-makes-your-docs-searchable](./verify-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [verify-a-self-updating-docs-generator-that-syncs-readme-from-code](./verify-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [verify-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./verify-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [verify-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./verify-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [verify-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./verify-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [verify-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./verify-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [verify-a-test-generator-that-creates-unit-tests-from-an-existing-module](./verify-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [verify-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./verify-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [verify-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./verify-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [verify-a-typescript-utility-for-parsing-and-validating-complex-configs](./verify-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [verify-a-unit-test-coverage-dashboard-for-your-ci](./verify-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [verify-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./verify-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [verify-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./verify-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [verify-a-vercel-preview-url-health-checker-comment-poster](./verify-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [verify-a-vercel-speed-test-script-that-compares-deploy-urls](./verify-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [verify-a-website-uptime-status-page-with-page-specific-checks](./verify-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [verify-a-weekly-research-digest-script-using-a-search-api](./verify-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [verify-an-accessibility-checker-script-that-audits-pages-for-issues](./verify-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [verify-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./verify-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [verify-an-api-rate-limiter-and-circuit-breaker-wrapper](./verify-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [verify-an-mcp-server-that-exposes-your-docs-to-opencode](./verify-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [verify-an-openapi-spec-validator-docs-sanity-checker](./verify-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
+- [write-a-background-job-queue-redis-based-for-slow-tasks](./write-a-background-job-queue-redis-based-for-slow-tasks/SKILL.md)
+- [write-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily](./write-a-backup-job-that-copies-your-repo-to-a-github-mirror-daily/SKILL.md)
+- [write-a-broken-link-checker-that-scans-your-docs](./write-a-broken-link-checker-that-scans-your-docs/SKILL.md)
+- [write-a-bug-triage-assistant-that-summarizes-issues-by-severity](./write-a-bug-triage-assistant-that-summarizes-issues-by-severity/SKILL.md)
+- [write-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes](./write-a-changelog-summarizer-that-turns-weekly-commits-into-release-notes/SKILL.md)
+- [write-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai](./write-a-chrome-extension-that-summarizes-the-current-article-via-a-free-tier-ai/SKILL.md)
+- [write-a-ci-cache-warmer-for-your-monorepo](./write-a-ci-cache-warmer-for-your-monorepo/SKILL.md)
+- [write-a-cli-help-readme-generator-for-your-project](./write-a-cli-help-readme-generator-for-your-project/SKILL.md)
+- [write-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec](./write-a-cli-that-generates-test-fixtures-for-your-api-from-an-openapi-spec/SKILL.md)
+- [write-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet](./write-a-cost-tracker-cli-that-logs-spend-per-service-to-a-spreadsheet/SKILL.md)
+- [write-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv](./write-a-cron-job-that-runs-a-python-script-every-hour-and-appends-results-to-a-csv/SKILL.md)
+- [write-a-data-model-migrator-with-rollback-verification-checks](./write-a-data-model-migrator-with-rollback-verification-checks/SKILL.md)
+- [write-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv](./write-a-data-pipeline-python-pandas-that-reads-a-raw-file-cleans-it-and-writes-the-final-csv/SKILL.md)
+- [write-a-data-quality-checker-for-your-raw-datasets](./write-a-data-quality-checker-for-your-raw-datasets/SKILL.md)
+- [write-a-desktop-app-wrapper-for-a-web-dashboard-electron](./write-a-desktop-app-wrapper-for-a-web-dashboard-electron/SKILL.md)
+- [write-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown](./write-a-dockerized-fastify-api-with-health-endpoints-and-graceful-shutdown/SKILL.md)
+- [write-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth](./write-a-fastapi-endpoint-that-exposes-a-sqlite-database-over-http-with-auth/SKILL.md)
+- [write-a-github-actions-monthly-spend-analyzer](./write-a-github-actions-monthly-spend-analyzer/SKILL.md)
+- [write-a-github-actions-runner-script-that-caches-npm-pip-installs](./write-a-github-actions-runner-script-that-caches-npm-pip-installs/SKILL.md)
+- [write-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure](./write-a-github-actions-workflow-that-lints-and-runs-unit-tests-on-every-pr-and-blocks-merge-on-failure/SKILL.md)
+- [write-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs](./write-a-github-issue-auto-labeler-skill-ai-based-that-works-on-prs/SKILL.md)
+- [write-a-github-pages-skill-that-renders-your-openapi-spec-into-docs](./write-a-github-pages-skill-that-renders-your-openapi-spec-into-docs/SKILL.md)
+- [write-a-github-to-notion-sync-for-issues-and-prs](./write-a-github-to-notion-sync-for-issues-and-prs/SKILL.md)
+- [write-a-github-to-zod-validation-generator-for-your-api-schemas](./write-a-github-to-zod-validation-generator-for-your-api-schemas/SKILL.md)
+- [write-a-log-rotation-compaction-script-for-your-app-logs](./write-a-log-rotation-compaction-script-for-your-app-logs/SKILL.md)
+- [write-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos](./write-a-long-tail-video-render-script-using-ffmpeg-for-your-project-videos/SKILL.md)
+- [write-a-migration-verifier-that-compares-pre-post-data-snapshots](./write-a-migration-verifier-that-compares-pre-post-data-snapshots/SKILL.md)
+- [write-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app](./write-a-monitoring-dashboard-with-alerts-for-a-vercel-production-app/SKILL.md)
+- [write-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv](./write-a-node-cli-tool-that-reads-a-json-file-and-outputs-formatted-tables-or-csv/SKILL.md)
+- [write-a-notion-database-that-tracks-your-tasks-ai-summarization-skill](./write-a-notion-database-that-tracks-your-tasks-ai-summarization-skill/SKILL.md)
+- [write-a-pdf-changelog-generator-from-commit-messages](./write-a-pdf-changelog-generator-from-commit-messages/SKILL.md)
+- [write-a-pdf-merger-splitter-utility-for-contract-docs](./write-a-pdf-merger-splitter-utility-for-contract-docs/SKILL.md)
+- [write-a-pdf-password-remover-re-encryptor](./write-a-pdf-password-remover-re-encryptor/SKILL.md)
+- [write-a-performance-profiler-for-node-python-endpoints](./write-a-performance-profiler-for-node-python-endpoints/SKILL.md)
+- [write-a-postgresql-migration-tool-that-validates-data-before-applying-changes](./write-a-postgresql-migration-tool-that-validates-data-before-applying-changes/SKILL.md)
+- [write-a-pr-description-generator-that-fills-descriptions-from-the-diff](./write-a-pr-description-generator-that-fills-descriptions-from-the-diff/SKILL.md)
+- [write-a-private-n8n-workflow-module-for-the-workflow-you-build-often](./write-a-private-n8n-workflow-module-for-the-workflow-you-build-often/SKILL.md)
+- [write-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page](./write-a-python-script-that-parses-a-folder-of-pdfs-and-writes-clean-summaries-to-a-notion-page/SKILL.md)
+- [write-a-release-drafter-that-creates-release-notes-from-merged-prs](./write-a-release-drafter-that-creates-release-notes-from-merged-prs/SKILL.md)
+- [write-a-retry-circuit-breaker-pattern-for-resilient-background-jobs](./write-a-retry-circuit-breaker-pattern-for-resilient-background-jobs/SKILL.md)
+- [write-a-robust-api-error-handler-that-retries-with-exponential-backoff](./write-a-robust-api-error-handler-that-retries-with-exponential-backoff/SKILL.md)
+- [write-a-search-indexer-that-makes-your-docs-searchable](./write-a-search-indexer-that-makes-your-docs-searchable/SKILL.md)
+- [write-a-self-updating-docs-generator-that-syncs-readme-from-code](./write-a-self-updating-docs-generator-that-syncs-readme-from-code/SKILL.md)
+- [write-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors](./write-a-sentry-style-error-logger-that-captures-and-emails-runtime-errors/SKILL.md)
+- [write-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries](./write-a-slack-telegram-webhook-bot-that-forwards-github-issues-and-prs-to-chat-with-ai-summaries/SKILL.md)
+- [write-a-spreadsheet-tsv-export-pipeline-for-data-analysis](./write-a-spreadsheet-tsv-export-pipeline-for-data-analysis/SKILL.md)
+- [write-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions](./write-a-static-site-on-github-pages-that-lists-all-your-projects-with-descriptions/SKILL.md)
+- [write-a-test-generator-that-creates-unit-tests-from-an-existing-module](./write-a-test-generator-that-creates-unit-tests-from-an-existing-module/SKILL.md)
+- [write-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl](./write-a-time-tracking-cli-that-logs-task-durations-in-a-local-jsonl/SKILL.md)
+- [write-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store](./write-a-typescript-cli-that-uploads-files-to-your-vercel-blob-store/SKILL.md)
+- [write-a-typescript-utility-for-parsing-and-validating-complex-configs](./write-a-typescript-utility-for-parsing-and-validating-complex-configs/SKILL.md)
+- [write-a-unit-test-coverage-dashboard-for-your-ci](./write-a-unit-test-coverage-dashboard-for-your-ci/SKILL.md)
+- [write-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls](./write-a-vercel-ci-cd-pipeline-that-auto-deploys-the-next-js-app-on-every-push-runs-build-tests-and-posts-preview-urls/SKILL.md)
+- [write-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs](./write-a-vercel-log-analyzer-that-finds-errors-in-deployment-logs/SKILL.md)
+- [write-a-vercel-preview-url-health-checker-comment-poster](./write-a-vercel-preview-url-health-checker-comment-poster/SKILL.md)
+- [write-a-vercel-speed-test-script-that-compares-deploy-urls](./write-a-vercel-speed-test-script-that-compares-deploy-urls/SKILL.md)
+- [write-a-website-uptime-status-page-with-page-specific-checks](./write-a-website-uptime-status-page-with-page-specific-checks/SKILL.md)
+- [write-a-weekly-research-digest-script-using-a-search-api](./write-a-weekly-research-digest-script-using-a-search-api/SKILL.md)
+- [write-an-accessibility-checker-script-that-audits-pages-for-issues](./write-an-accessibility-checker-script-that-audits-pages-for-issues/SKILL.md)
+- [write-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures](./write-an-alerting-pipeline-that-pings-you-on-slack-telegram-on-monitor-failures/SKILL.md)
+- [write-an-api-rate-limiter-and-circuit-breaker-wrapper](./write-an-api-rate-limiter-and-circuit-breaker-wrapper/SKILL.md)
+- [write-an-mcp-server-that-exposes-your-docs-to-opencode](./write-an-mcp-server-that-exposes-your-docs-to-opencode/SKILL.md)
+- [write-an-openapi-spec-validator-docs-sanity-checker](./write-an-openapi-spec-validator-docs-sanity-checker/SKILL.md)
