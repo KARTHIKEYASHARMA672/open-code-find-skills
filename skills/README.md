@@ -1,0 +1,1002 @@
+# Skills index (1000 skills)
+
+- [Automate a Vite SPA](./automate-a-vite-spa/SKILL.md) — automation
+- [Automate a React dashboard](./automate-a-react-dashboard/SKILL.md) — automation
+- [Automate a Python scraper](./automate-a-python-scraper/SKILL.md) — automation
+- [Automate a PDF generator](./automate-a-pdf-generator/SKILL.md) — automation
+- [Automate a webhook server](./automate-a-webhook-server/SKILL.md) — automation
+- [Automate a Python data pipeline](./automate-a-python-data-pipeline/SKILL.md) — automation
+- [Automate an OpenCode skill](./automate-an-opencode-skill/SKILL.md) — automation
+- [Automate an AI agent](./automate-an-ai-agent/SKILL.md) — automation
+- [Automate an MCP server](./automate-an-mcp-server/SKILL.md) — automation
+- [Automate a GitHub Actions CI pipeline](./automate-a-github-actions-ci-pipeline/SKILL.md) — automation
+- [Automate a Node CLI tool](./automate-a-node-cli-tool/SKILL.md) — automation
+- [Automate a FastAPI endpoint](./automate-a-fastapi-endpoint/SKILL.md) — automation
+- [Automate a Vercel deployment](./automate-a-vercel-deployment/SKILL.md) — automation
+- [Automate a Next.js app](./automate-a-next.js-app/SKILL.md) — automation
+- [Automate a CI/CD pipeline](./automate-a-ci-cd-pipeline/SKILL.md) — automation
+- [Automate a data-collection bot](./automate-a-data-collection-bot/SKILL.md) — automation
+- [Automate a report builder](./automate-a-report-builder/SKILL.md) — automation
+- [Automate a portfolio site](./automate-a-portfolio-site/SKILL.md) — automation
+- [Automate an error logger](./automate-an-error-logger/SKILL.md) — automation
+- [Automate a cron job](./automate-a-cron-job/SKILL.md) — automation
+- [Automate a Dockerized API](./automate-a-dockerized-api/SKILL.md) — automation
+- [Automate a static site](./automate-a-static-site/SKILL.md) — automation
+- [Automate a TypeScript utility](./automate-a-typescript-utility/SKILL.md) — automation
+- [Automate a chrome extension](./automate-a-chrome-extension/SKILL.md) — automation
+- [Automate a data-migration script](./automate-a-data-migration-script/SKILL.md) — automation
+- [Automate a chatbot](./automate-a-chatbot/SKILL.md) — automation
+- [Automate a Slack bot](./automate-a-slack-bot/SKILL.md) — automation
+- [Automate a Telegram bot](./automate-a-telegram-bot/SKILL.md) — automation
+- [Automate a Notion integration](./automate-a-notion-integration/SKILL.md) — automation
+- [Automate a SaaS auth flow](./automate-a-saas-auth-flow/SKILL.md) — automation
+- [Automate a Redis cache layer](./automate-a-redis-cache-layer/SKILL.md) — automation
+- [Automate a search indexer](./automate-a-search-indexer/SKILL.md) — automation
+- [Automate a test generator](./automate-a-test-generator/SKILL.md) — automation
+- [Automate an auto-tagger](./automate-an-auto-tagger/SKILL.md) — automation
+- [Automate a log parser](./automate-a-log-parser/SKILL.md) — automation
+- [Automate a monitoring dashboard](./automate-a-monitoring-dashboard/SKILL.md) — automation
+- [Automate a code review bot](./automate-a-code-review-bot/SKILL.md) — automation
+- [Automate an auto-deploy pipeline](./automate-an-auto-deploy-pipeline/SKILL.md) — automation
+- [Automate a daily report script](./automate-a-daily-report-script/SKILL.md) — automation
+- [Automate a resume generator](./automate-a-resume-generator/SKILL.md) — automation
+- [Automate a Readme generator](./automate-a-readme-generator/SKILL.md) — automation
+- [Automate a webhook-based alert bot](./automate-a-webhook-based-alert-bot/SKILL.md) — automation
+- [Automate a TypeScript microservice](./automate-a-typescript-microservice/SKILL.md) — automation
+- [Automate a Fastify server](./automate-a-fastify-server/SKILL.md) — automation
+- [Automate a Postgres migration tool](./automate-a-postgres-migration-tool/SKILL.md) — automation
+- [Build a Vite SPA](./build-a-vite-spa/SKILL.md) — coding
+- [Build a React dashboard](./build-a-react-dashboard/SKILL.md) — coding
+- [Build a Python scraper](./build-a-python-scraper/SKILL.md) — coding
+- [Build a PDF generator](./build-a-pdf-generator/SKILL.md) — coding
+- [Build a webhook server](./build-a-webhook-server/SKILL.md) — coding
+- [Build a Python data pipeline](./build-a-python-data-pipeline/SKILL.md) — coding
+- [Build an OpenCode skill](./build-an-opencode-skill/SKILL.md) — coding
+- [Build an AI agent](./build-an-ai-agent/SKILL.md) — coding
+- [Build an MCP server](./build-an-mcp-server/SKILL.md) — coding
+- [Build a GitHub Actions CI pipeline](./build-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Build a Node CLI tool](./build-a-node-cli-tool/SKILL.md) — coding
+- [Build a FastAPI endpoint](./build-a-fastapi-endpoint/SKILL.md) — coding
+- [Build a Vercel deployment](./build-a-vercel-deployment/SKILL.md) — coding
+- [Build a Next.js app](./build-a-next.js-app/SKILL.md) — coding
+- [Build a CI/CD pipeline](./build-a-ci-cd-pipeline/SKILL.md) — coding
+- [Build a data-collection bot](./build-a-data-collection-bot/SKILL.md) — coding
+- [Build a report builder](./build-a-report-builder/SKILL.md) — coding
+- [Build a portfolio site](./build-a-portfolio-site/SKILL.md) — coding
+- [Build an error logger](./build-an-error-logger/SKILL.md) — coding
+- [Build a cron job](./build-a-cron-job/SKILL.md) — coding
+- [Build a Dockerized API](./build-a-dockerized-api/SKILL.md) — coding
+- [Build a static site](./build-a-static-site/SKILL.md) — coding
+- [Build a TypeScript utility](./build-a-typescript-utility/SKILL.md) — coding
+- [Build a chrome extension](./build-a-chrome-extension/SKILL.md) — coding
+- [Build a data-migration script](./build-a-data-migration-script/SKILL.md) — coding
+- [Build a chatbot](./build-a-chatbot/SKILL.md) — coding
+- [Build a Slack bot](./build-a-slack-bot/SKILL.md) — coding
+- [Build a Telegram bot](./build-a-telegram-bot/SKILL.md) — coding
+- [Build a Notion integration](./build-a-notion-integration/SKILL.md) — coding
+- [Build a SaaS auth flow](./build-a-saas-auth-flow/SKILL.md) — coding
+- [Build a Redis cache layer](./build-a-redis-cache-layer/SKILL.md) — coding
+- [Build a search indexer](./build-a-search-indexer/SKILL.md) — coding
+- [Build a test generator](./build-a-test-generator/SKILL.md) — coding
+- [Build an auto-tagger](./build-an-auto-tagger/SKILL.md) — coding
+- [Build a log parser](./build-a-log-parser/SKILL.md) — coding
+- [Build a monitoring dashboard](./build-a-monitoring-dashboard/SKILL.md) — coding
+- [Build a code review bot](./build-a-code-review-bot/SKILL.md) — coding
+- [Build an auto-deploy pipeline](./build-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Build a daily report script](./build-a-daily-report-script/SKILL.md) — coding
+- [Build a resume generator](./build-a-resume-generator/SKILL.md) — coding
+- [Build a Readme generator](./build-a-readme-generator/SKILL.md) — coding
+- [Build a webhook-based alert bot](./build-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Build a TypeScript microservice](./build-a-typescript-microservice/SKILL.md) — coding
+- [Build a Fastify server](./build-a-fastify-server/SKILL.md) — coding
+- [Build a Postgres migration tool](./build-a-postgres-migration-tool/SKILL.md) — coding
+- [Create a Vite SPA](./create-a-vite-spa/SKILL.md) — coding
+- [Create a React dashboard](./create-a-react-dashboard/SKILL.md) — coding
+- [Create a Python scraper](./create-a-python-scraper/SKILL.md) — coding
+- [Create a PDF generator](./create-a-pdf-generator/SKILL.md) — coding
+- [Create a webhook server](./create-a-webhook-server/SKILL.md) — coding
+- [Create a Python data pipeline](./create-a-python-data-pipeline/SKILL.md) — coding
+- [Create an OpenCode skill](./create-an-opencode-skill/SKILL.md) — coding
+- [Create an AI agent](./create-an-ai-agent/SKILL.md) — coding
+- [Create an MCP server](./create-an-mcp-server/SKILL.md) — coding
+- [Create a GitHub Actions CI pipeline](./create-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Create a Node CLI tool](./create-a-node-cli-tool/SKILL.md) — coding
+- [Create a FastAPI endpoint](./create-a-fastapi-endpoint/SKILL.md) — coding
+- [Create a Vercel deployment](./create-a-vercel-deployment/SKILL.md) — coding
+- [Create a Next.js app](./create-a-next.js-app/SKILL.md) — coding
+- [Create a CI/CD pipeline](./create-a-ci-cd-pipeline/SKILL.md) — coding
+- [Create a data-collection bot](./create-a-data-collection-bot/SKILL.md) — coding
+- [Create a report builder](./create-a-report-builder/SKILL.md) — coding
+- [Create a portfolio site](./create-a-portfolio-site/SKILL.md) — coding
+- [Create an error logger](./create-an-error-logger/SKILL.md) — coding
+- [Create a cron job](./create-a-cron-job/SKILL.md) — coding
+- [Create a Dockerized API](./create-a-dockerized-api/SKILL.md) — coding
+- [Create a static site](./create-a-static-site/SKILL.md) — coding
+- [Create a TypeScript utility](./create-a-typescript-utility/SKILL.md) — coding
+- [Create a chrome extension](./create-a-chrome-extension/SKILL.md) — coding
+- [Create a data-migration script](./create-a-data-migration-script/SKILL.md) — coding
+- [Create a chatbot](./create-a-chatbot/SKILL.md) — coding
+- [Create a Slack bot](./create-a-slack-bot/SKILL.md) — coding
+- [Create a Telegram bot](./create-a-telegram-bot/SKILL.md) — coding
+- [Create a Notion integration](./create-a-notion-integration/SKILL.md) — coding
+- [Create a SaaS auth flow](./create-a-saas-auth-flow/SKILL.md) — coding
+- [Create a Redis cache layer](./create-a-redis-cache-layer/SKILL.md) — coding
+- [Create a search indexer](./create-a-search-indexer/SKILL.md) — coding
+- [Create a test generator](./create-a-test-generator/SKILL.md) — coding
+- [Create an auto-tagger](./create-an-auto-tagger/SKILL.md) — coding
+- [Create a log parser](./create-a-log-parser/SKILL.md) — coding
+- [Create a monitoring dashboard](./create-a-monitoring-dashboard/SKILL.md) — coding
+- [Create a code review bot](./create-a-code-review-bot/SKILL.md) — coding
+- [Create an auto-deploy pipeline](./create-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Create a daily report script](./create-a-daily-report-script/SKILL.md) — coding
+- [Create a resume generator](./create-a-resume-generator/SKILL.md) — coding
+- [Create a Readme generator](./create-a-readme-generator/SKILL.md) — coding
+- [Create a webhook-based alert bot](./create-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Create a TypeScript microservice](./create-a-typescript-microservice/SKILL.md) — coding
+- [Create a Fastify server](./create-a-fastify-server/SKILL.md) — coding
+- [Create a Postgres migration tool](./create-a-postgres-migration-tool/SKILL.md) — coding
+- [Deploy a Vite SPA](./deploy-a-vite-spa/SKILL.md) — ops
+- [Deploy a React dashboard](./deploy-a-react-dashboard/SKILL.md) — ops
+- [Deploy a Python scraper](./deploy-a-python-scraper/SKILL.md) — ops
+- [Deploy a PDF generator](./deploy-a-pdf-generator/SKILL.md) — ops
+- [Deploy a webhook server](./deploy-a-webhook-server/SKILL.md) — ops
+- [Deploy a Python data pipeline](./deploy-a-python-data-pipeline/SKILL.md) — ops
+- [Deploy an OpenCode skill](./deploy-an-opencode-skill/SKILL.md) — ops
+- [Deploy an AI agent](./deploy-an-ai-agent/SKILL.md) — ops
+- [Deploy an MCP server](./deploy-an-mcp-server/SKILL.md) — ops
+- [Deploy a GitHub Actions CI pipeline](./deploy-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Deploy a Node CLI tool](./deploy-a-node-cli-tool/SKILL.md) — ops
+- [Deploy a FastAPI endpoint](./deploy-a-fastapi-endpoint/SKILL.md) — ops
+- [Deploy a Vercel deployment](./deploy-a-vercel-deployment/SKILL.md) — ops
+- [Deploy a Next.js app](./deploy-a-next.js-app/SKILL.md) — ops
+- [Deploy a CI/CD pipeline](./deploy-a-ci-cd-pipeline/SKILL.md) — ops
+- [Deploy a data-collection bot](./deploy-a-data-collection-bot/SKILL.md) — ops
+- [Deploy a report builder](./deploy-a-report-builder/SKILL.md) — ops
+- [Deploy a portfolio site](./deploy-a-portfolio-site/SKILL.md) — ops
+- [Deploy an error logger](./deploy-an-error-logger/SKILL.md) — ops
+- [Deploy a cron job](./deploy-a-cron-job/SKILL.md) — ops
+- [Deploy a Dockerized API](./deploy-a-dockerized-api/SKILL.md) — ops
+- [Deploy a static site](./deploy-a-static-site/SKILL.md) — ops
+- [Deploy a TypeScript utility](./deploy-a-typescript-utility/SKILL.md) — ops
+- [Deploy a chrome extension](./deploy-a-chrome-extension/SKILL.md) — ops
+- [Deploy a data-migration script](./deploy-a-data-migration-script/SKILL.md) — ops
+- [Deploy a chatbot](./deploy-a-chatbot/SKILL.md) — ops
+- [Deploy a Slack bot](./deploy-a-slack-bot/SKILL.md) — ops
+- [Deploy a Telegram bot](./deploy-a-telegram-bot/SKILL.md) — ops
+- [Deploy a Notion integration](./deploy-a-notion-integration/SKILL.md) — ops
+- [Deploy a SaaS auth flow](./deploy-a-saas-auth-flow/SKILL.md) — ops
+- [Deploy a Redis cache layer](./deploy-a-redis-cache-layer/SKILL.md) — ops
+- [Deploy a search indexer](./deploy-a-search-indexer/SKILL.md) — ops
+- [Deploy a test generator](./deploy-a-test-generator/SKILL.md) — ops
+- [Deploy an auto-tagger](./deploy-an-auto-tagger/SKILL.md) — ops
+- [Deploy a log parser](./deploy-a-log-parser/SKILL.md) — ops
+- [Deploy a monitoring dashboard](./deploy-a-monitoring-dashboard/SKILL.md) — ops
+- [Deploy a code review bot](./deploy-a-code-review-bot/SKILL.md) — ops
+- [Deploy an auto-deploy pipeline](./deploy-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Deploy a daily report script](./deploy-a-daily-report-script/SKILL.md) — ops
+- [Deploy a resume generator](./deploy-a-resume-generator/SKILL.md) — ops
+- [Deploy a Readme generator](./deploy-a-readme-generator/SKILL.md) — ops
+- [Deploy a webhook-based alert bot](./deploy-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Deploy a TypeScript microservice](./deploy-a-typescript-microservice/SKILL.md) — ops
+- [Deploy a Fastify server](./deploy-a-fastify-server/SKILL.md) — ops
+- [Deploy a Postgres migration tool](./deploy-a-postgres-migration-tool/SKILL.md) — ops
+- [Set up a Vite SPA](./set-up-a-vite-spa/SKILL.md) — ops
+- [Set up a React dashboard](./set-up-a-react-dashboard/SKILL.md) — ops
+- [Set up a Python scraper](./set-up-a-python-scraper/SKILL.md) — ops
+- [Set up a PDF generator](./set-up-a-pdf-generator/SKILL.md) — ops
+- [Set up a webhook server](./set-up-a-webhook-server/SKILL.md) — ops
+- [Set up a Python data pipeline](./set-up-a-python-data-pipeline/SKILL.md) — ops
+- [Set up an OpenCode skill](./set-up-an-opencode-skill/SKILL.md) — ops
+- [Set up an AI agent](./set-up-an-ai-agent/SKILL.md) — ops
+- [Set up an MCP server](./set-up-an-mcp-server/SKILL.md) — ops
+- [Set up a GitHub Actions CI pipeline](./set-up-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Set up a Node CLI tool](./set-up-a-node-cli-tool/SKILL.md) — ops
+- [Set up a FastAPI endpoint](./set-up-a-fastapi-endpoint/SKILL.md) — ops
+- [Set up a Vercel deployment](./set-up-a-vercel-deployment/SKILL.md) — ops
+- [Set up a Next.js app](./set-up-a-next.js-app/SKILL.md) — ops
+- [Set up a CI/CD pipeline](./set-up-a-ci-cd-pipeline/SKILL.md) — ops
+- [Set up a data-collection bot](./set-up-a-data-collection-bot/SKILL.md) — ops
+- [Set up a report builder](./set-up-a-report-builder/SKILL.md) — ops
+- [Set up a portfolio site](./set-up-a-portfolio-site/SKILL.md) — ops
+- [Set up an error logger](./set-up-an-error-logger/SKILL.md) — ops
+- [Set up a cron job](./set-up-a-cron-job/SKILL.md) — ops
+- [Set up a Dockerized API](./set-up-a-dockerized-api/SKILL.md) — ops
+- [Set up a static site](./set-up-a-static-site/SKILL.md) — ops
+- [Set up a TypeScript utility](./set-up-a-typescript-utility/SKILL.md) — ops
+- [Set up a chrome extension](./set-up-a-chrome-extension/SKILL.md) — ops
+- [Set up a data-migration script](./set-up-a-data-migration-script/SKILL.md) — ops
+- [Set up a chatbot](./set-up-a-chatbot/SKILL.md) — ops
+- [Set up a Slack bot](./set-up-a-slack-bot/SKILL.md) — ops
+- [Set up a Telegram bot](./set-up-a-telegram-bot/SKILL.md) — ops
+- [Set up a Notion integration](./set-up-a-notion-integration/SKILL.md) — ops
+- [Set up a SaaS auth flow](./set-up-a-saas-auth-flow/SKILL.md) — ops
+- [Set up a Redis cache layer](./set-up-a-redis-cache-layer/SKILL.md) — ops
+- [Set up a search indexer](./set-up-a-search-indexer/SKILL.md) — ops
+- [Set up a test generator](./set-up-a-test-generator/SKILL.md) — ops
+- [Set up an auto-tagger](./set-up-an-auto-tagger/SKILL.md) — ops
+- [Set up a log parser](./set-up-a-log-parser/SKILL.md) — ops
+- [Set up a monitoring dashboard](./set-up-a-monitoring-dashboard/SKILL.md) — ops
+- [Set up a code review bot](./set-up-a-code-review-bot/SKILL.md) — ops
+- [Set up an auto-deploy pipeline](./set-up-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Set up a daily report script](./set-up-a-daily-report-script/SKILL.md) — ops
+- [Set up a resume generator](./set-up-a-resume-generator/SKILL.md) — ops
+- [Set up a Readme generator](./set-up-a-readme-generator/SKILL.md) — ops
+- [Set up a webhook-based alert bot](./set-up-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Set up a TypeScript microservice](./set-up-a-typescript-microservice/SKILL.md) — ops
+- [Set up a Fastify server](./set-up-a-fastify-server/SKILL.md) — ops
+- [Set up a Postgres migration tool](./set-up-a-postgres-migration-tool/SKILL.md) — ops
+- [Configure a Vite SPA](./configure-a-vite-spa/SKILL.md) — ops
+- [Configure a React dashboard](./configure-a-react-dashboard/SKILL.md) — ops
+- [Configure a Python scraper](./configure-a-python-scraper/SKILL.md) — ops
+- [Configure a PDF generator](./configure-a-pdf-generator/SKILL.md) — ops
+- [Configure a webhook server](./configure-a-webhook-server/SKILL.md) — ops
+- [Configure a Python data pipeline](./configure-a-python-data-pipeline/SKILL.md) — ops
+- [Configure an OpenCode skill](./configure-an-opencode-skill/SKILL.md) — ops
+- [Configure an AI agent](./configure-an-ai-agent/SKILL.md) — ops
+- [Configure an MCP server](./configure-an-mcp-server/SKILL.md) — ops
+- [Configure a GitHub Actions CI pipeline](./configure-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Configure a Node CLI tool](./configure-a-node-cli-tool/SKILL.md) — ops
+- [Configure a FastAPI endpoint](./configure-a-fastapi-endpoint/SKILL.md) — ops
+- [Configure a Vercel deployment](./configure-a-vercel-deployment/SKILL.md) — ops
+- [Configure a Next.js app](./configure-a-next.js-app/SKILL.md) — ops
+- [Configure a CI/CD pipeline](./configure-a-ci-cd-pipeline/SKILL.md) — ops
+- [Configure a data-collection bot](./configure-a-data-collection-bot/SKILL.md) — ops
+- [Configure a report builder](./configure-a-report-builder/SKILL.md) — ops
+- [Configure a portfolio site](./configure-a-portfolio-site/SKILL.md) — ops
+- [Configure an error logger](./configure-an-error-logger/SKILL.md) — ops
+- [Configure a cron job](./configure-a-cron-job/SKILL.md) — ops
+- [Configure a Dockerized API](./configure-a-dockerized-api/SKILL.md) — ops
+- [Configure a static site](./configure-a-static-site/SKILL.md) — ops
+- [Configure a TypeScript utility](./configure-a-typescript-utility/SKILL.md) — ops
+- [Configure a chrome extension](./configure-a-chrome-extension/SKILL.md) — ops
+- [Configure a data-migration script](./configure-a-data-migration-script/SKILL.md) — ops
+- [Configure a chatbot](./configure-a-chatbot/SKILL.md) — ops
+- [Configure a Slack bot](./configure-a-slack-bot/SKILL.md) — ops
+- [Configure a Telegram bot](./configure-a-telegram-bot/SKILL.md) — ops
+- [Configure a Notion integration](./configure-a-notion-integration/SKILL.md) — ops
+- [Configure a SaaS auth flow](./configure-a-saas-auth-flow/SKILL.md) — ops
+- [Configure a Redis cache layer](./configure-a-redis-cache-layer/SKILL.md) — ops
+- [Configure a search indexer](./configure-a-search-indexer/SKILL.md) — ops
+- [Configure a test generator](./configure-a-test-generator/SKILL.md) — ops
+- [Configure an auto-tagger](./configure-an-auto-tagger/SKILL.md) — ops
+- [Configure a log parser](./configure-a-log-parser/SKILL.md) — ops
+- [Configure a monitoring dashboard](./configure-a-monitoring-dashboard/SKILL.md) — ops
+- [Configure a code review bot](./configure-a-code-review-bot/SKILL.md) — ops
+- [Configure an auto-deploy pipeline](./configure-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Configure a daily report script](./configure-a-daily-report-script/SKILL.md) — ops
+- [Configure a resume generator](./configure-a-resume-generator/SKILL.md) — ops
+- [Configure a Readme generator](./configure-a-readme-generator/SKILL.md) — ops
+- [Configure a webhook-based alert bot](./configure-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Configure a TypeScript microservice](./configure-a-typescript-microservice/SKILL.md) — ops
+- [Configure a Fastify server](./configure-a-fastify-server/SKILL.md) — ops
+- [Configure a Postgres migration tool](./configure-a-postgres-migration-tool/SKILL.md) — ops
+- [Script a Vite SPA](./script-a-vite-spa/SKILL.md) — automation
+- [Script a React dashboard](./script-a-react-dashboard/SKILL.md) — automation
+- [Script a Python scraper](./script-a-python-scraper/SKILL.md) — automation
+- [Script a PDF generator](./script-a-pdf-generator/SKILL.md) — automation
+- [Script a webhook server](./script-a-webhook-server/SKILL.md) — automation
+- [Script a Python data pipeline](./script-a-python-data-pipeline/SKILL.md) — automation
+- [Script an OpenCode skill](./script-an-opencode-skill/SKILL.md) — automation
+- [Script an AI agent](./script-an-ai-agent/SKILL.md) — automation
+- [Script an MCP server](./script-an-mcp-server/SKILL.md) — automation
+- [Script a GitHub Actions CI pipeline](./script-a-github-actions-ci-pipeline/SKILL.md) — automation
+- [Script a Node CLI tool](./script-a-node-cli-tool/SKILL.md) — automation
+- [Script a FastAPI endpoint](./script-a-fastapi-endpoint/SKILL.md) — automation
+- [Script a Vercel deployment](./script-a-vercel-deployment/SKILL.md) — automation
+- [Script a Next.js app](./script-a-next.js-app/SKILL.md) — automation
+- [Script a CI/CD pipeline](./script-a-ci-cd-pipeline/SKILL.md) — automation
+- [Script a data-collection bot](./script-a-data-collection-bot/SKILL.md) — automation
+- [Script a report builder](./script-a-report-builder/SKILL.md) — automation
+- [Script a portfolio site](./script-a-portfolio-site/SKILL.md) — automation
+- [Script an error logger](./script-an-error-logger/SKILL.md) — automation
+- [Script a cron job](./script-a-cron-job/SKILL.md) — automation
+- [Script a Dockerized API](./script-a-dockerized-api/SKILL.md) — automation
+- [Script a static site](./script-a-static-site/SKILL.md) — automation
+- [Script a TypeScript utility](./script-a-typescript-utility/SKILL.md) — automation
+- [Script a chrome extension](./script-a-chrome-extension/SKILL.md) — automation
+- [Script a data-migration script](./script-a-data-migration-script/SKILL.md) — automation
+- [Script a chatbot](./script-a-chatbot/SKILL.md) — automation
+- [Script a Slack bot](./script-a-slack-bot/SKILL.md) — automation
+- [Script a Telegram bot](./script-a-telegram-bot/SKILL.md) — automation
+- [Script a Notion integration](./script-a-notion-integration/SKILL.md) — automation
+- [Script a SaaS auth flow](./script-a-saas-auth-flow/SKILL.md) — automation
+- [Script a Redis cache layer](./script-a-redis-cache-layer/SKILL.md) — automation
+- [Script a search indexer](./script-a-search-indexer/SKILL.md) — automation
+- [Script a test generator](./script-a-test-generator/SKILL.md) — automation
+- [Script an auto-tagger](./script-an-auto-tagger/SKILL.md) — automation
+- [Script a log parser](./script-a-log-parser/SKILL.md) — automation
+- [Script a monitoring dashboard](./script-a-monitoring-dashboard/SKILL.md) — automation
+- [Script a code review bot](./script-a-code-review-bot/SKILL.md) — automation
+- [Script an auto-deploy pipeline](./script-an-auto-deploy-pipeline/SKILL.md) — automation
+- [Script a daily report script](./script-a-daily-report-script/SKILL.md) — automation
+- [Script a resume generator](./script-a-resume-generator/SKILL.md) — automation
+- [Script a Readme generator](./script-a-readme-generator/SKILL.md) — automation
+- [Script a webhook-based alert bot](./script-a-webhook-based-alert-bot/SKILL.md) — automation
+- [Script a TypeScript microservice](./script-a-typescript-microservice/SKILL.md) — automation
+- [Script a Fastify server](./script-a-fastify-server/SKILL.md) — automation
+- [Script a Postgres migration tool](./script-a-postgres-migration-tool/SKILL.md) — automation
+- [Generate with AI a Vite SPA](./generate-with-ai-a-vite-spa/SKILL.md) — ai
+- [Generate with AI a React dashboard](./generate-with-ai-a-react-dashboard/SKILL.md) — ai
+- [Generate with AI a Python scraper](./generate-with-ai-a-python-scraper/SKILL.md) — ai
+- [Generate with AI a PDF generator](./generate-with-ai-a-pdf-generator/SKILL.md) — ai
+- [Generate with AI a webhook server](./generate-with-ai-a-webhook-server/SKILL.md) — ai
+- [Generate with AI a Python data pipeline](./generate-with-ai-a-python-data-pipeline/SKILL.md) — ai
+- [Generate with AI an OpenCode skill](./generate-with-ai-an-opencode-skill/SKILL.md) — ai
+- [Generate with AI an AI agent](./generate-with-ai-an-ai-agent/SKILL.md) — ai
+- [Generate with AI an MCP server](./generate-with-ai-an-mcp-server/SKILL.md) — ai
+- [Generate with AI a GitHub Actions CI pipeline](./generate-with-ai-a-github-actions-ci-pipeline/SKILL.md) — ai
+- [Generate with AI a Node CLI tool](./generate-with-ai-a-node-cli-tool/SKILL.md) — ai
+- [Generate with AI a FastAPI endpoint](./generate-with-ai-a-fastapi-endpoint/SKILL.md) — ai
+- [Generate with AI a Vercel deployment](./generate-with-ai-a-vercel-deployment/SKILL.md) — ai
+- [Generate with AI a Next.js app](./generate-with-ai-a-next.js-app/SKILL.md) — ai
+- [Generate with AI a CI/CD pipeline](./generate-with-ai-a-ci-cd-pipeline/SKILL.md) — ai
+- [Generate with AI a data-collection bot](./generate-with-ai-a-data-collection-bot/SKILL.md) — ai
+- [Generate with AI a report builder](./generate-with-ai-a-report-builder/SKILL.md) — ai
+- [Generate with AI a portfolio site](./generate-with-ai-a-portfolio-site/SKILL.md) — ai
+- [Generate with AI an error logger](./generate-with-ai-an-error-logger/SKILL.md) — ai
+- [Generate with AI a cron job](./generate-with-ai-a-cron-job/SKILL.md) — ai
+- [Generate with AI a Dockerized API](./generate-with-ai-a-dockerized-api/SKILL.md) — ai
+- [Generate with AI a static site](./generate-with-ai-a-static-site/SKILL.md) — ai
+- [Generate with AI a TypeScript utility](./generate-with-ai-a-typescript-utility/SKILL.md) — ai
+- [Generate with AI a chrome extension](./generate-with-ai-a-chrome-extension/SKILL.md) — ai
+- [Generate with AI a data-migration script](./generate-with-ai-a-data-migration-script/SKILL.md) — ai
+- [Generate with AI a chatbot](./generate-with-ai-a-chatbot/SKILL.md) — ai
+- [Generate with AI a Slack bot](./generate-with-ai-a-slack-bot/SKILL.md) — ai
+- [Generate with AI a Telegram bot](./generate-with-ai-a-telegram-bot/SKILL.md) — ai
+- [Generate with AI a Notion integration](./generate-with-ai-a-notion-integration/SKILL.md) — ai
+- [Generate with AI a SaaS auth flow](./generate-with-ai-a-saas-auth-flow/SKILL.md) — ai
+- [Generate with AI a Redis cache layer](./generate-with-ai-a-redis-cache-layer/SKILL.md) — ai
+- [Generate with AI a search indexer](./generate-with-ai-a-search-indexer/SKILL.md) — ai
+- [Generate with AI a test generator](./generate-with-ai-a-test-generator/SKILL.md) — ai
+- [Generate with AI an auto-tagger](./generate-with-ai-an-auto-tagger/SKILL.md) — ai
+- [Generate with AI a log parser](./generate-with-ai-a-log-parser/SKILL.md) — ai
+- [Generate with AI a monitoring dashboard](./generate-with-ai-a-monitoring-dashboard/SKILL.md) — ai
+- [Generate with AI a code review bot](./generate-with-ai-a-code-review-bot/SKILL.md) — ai
+- [Generate with AI an auto-deploy pipeline](./generate-with-ai-an-auto-deploy-pipeline/SKILL.md) — ai
+- [Generate with AI a daily report script](./generate-with-ai-a-daily-report-script/SKILL.md) — ai
+- [Generate with AI a resume generator](./generate-with-ai-a-resume-generator/SKILL.md) — ai
+- [Generate with AI a Readme generator](./generate-with-ai-a-readme-generator/SKILL.md) — ai
+- [Generate with AI a webhook-based alert bot](./generate-with-ai-a-webhook-based-alert-bot/SKILL.md) — ai
+- [Generate with AI a TypeScript microservice](./generate-with-ai-a-typescript-microservice/SKILL.md) — ai
+- [Generate with AI a Fastify server](./generate-with-ai-a-fastify-server/SKILL.md) — ai
+- [Generate with AI a Postgres migration tool](./generate-with-ai-a-postgres-migration-tool/SKILL.md) — ai
+- [Migrate a Vite SPA](./migrate-a-vite-spa/SKILL.md) — coding
+- [Migrate a React dashboard](./migrate-a-react-dashboard/SKILL.md) — coding
+- [Migrate a Python scraper](./migrate-a-python-scraper/SKILL.md) — coding
+- [Migrate a PDF generator](./migrate-a-pdf-generator/SKILL.md) — coding
+- [Migrate a webhook server](./migrate-a-webhook-server/SKILL.md) — coding
+- [Migrate a Python data pipeline](./migrate-a-python-data-pipeline/SKILL.md) — coding
+- [Migrate an OpenCode skill](./migrate-an-opencode-skill/SKILL.md) — coding
+- [Migrate an AI agent](./migrate-an-ai-agent/SKILL.md) — coding
+- [Migrate an MCP server](./migrate-an-mcp-server/SKILL.md) — coding
+- [Migrate a GitHub Actions CI pipeline](./migrate-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Migrate a Node CLI tool](./migrate-a-node-cli-tool/SKILL.md) — coding
+- [Migrate a FastAPI endpoint](./migrate-a-fastapi-endpoint/SKILL.md) — coding
+- [Migrate a Vercel deployment](./migrate-a-vercel-deployment/SKILL.md) — coding
+- [Migrate a Next.js app](./migrate-a-next.js-app/SKILL.md) — coding
+- [Migrate a CI/CD pipeline](./migrate-a-ci-cd-pipeline/SKILL.md) — coding
+- [Migrate a data-collection bot](./migrate-a-data-collection-bot/SKILL.md) — coding
+- [Migrate a report builder](./migrate-a-report-builder/SKILL.md) — coding
+- [Migrate a portfolio site](./migrate-a-portfolio-site/SKILL.md) — coding
+- [Migrate an error logger](./migrate-an-error-logger/SKILL.md) — coding
+- [Migrate a cron job](./migrate-a-cron-job/SKILL.md) — coding
+- [Migrate a Dockerized API](./migrate-a-dockerized-api/SKILL.md) — coding
+- [Migrate a static site](./migrate-a-static-site/SKILL.md) — coding
+- [Migrate a TypeScript utility](./migrate-a-typescript-utility/SKILL.md) — coding
+- [Migrate a chrome extension](./migrate-a-chrome-extension/SKILL.md) — coding
+- [Migrate a data-migration script](./migrate-a-data-migration-script/SKILL.md) — coding
+- [Migrate a chatbot](./migrate-a-chatbot/SKILL.md) — coding
+- [Migrate a Slack bot](./migrate-a-slack-bot/SKILL.md) — coding
+- [Migrate a Telegram bot](./migrate-a-telegram-bot/SKILL.md) — coding
+- [Migrate a Notion integration](./migrate-a-notion-integration/SKILL.md) — coding
+- [Migrate a SaaS auth flow](./migrate-a-saas-auth-flow/SKILL.md) — coding
+- [Migrate a Redis cache layer](./migrate-a-redis-cache-layer/SKILL.md) — coding
+- [Migrate a search indexer](./migrate-a-search-indexer/SKILL.md) — coding
+- [Migrate a test generator](./migrate-a-test-generator/SKILL.md) — coding
+- [Migrate an auto-tagger](./migrate-an-auto-tagger/SKILL.md) — coding
+- [Migrate a log parser](./migrate-a-log-parser/SKILL.md) — coding
+- [Migrate a monitoring dashboard](./migrate-a-monitoring-dashboard/SKILL.md) — coding
+- [Migrate a code review bot](./migrate-a-code-review-bot/SKILL.md) — coding
+- [Migrate an auto-deploy pipeline](./migrate-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Migrate a daily report script](./migrate-a-daily-report-script/SKILL.md) — coding
+- [Migrate a resume generator](./migrate-a-resume-generator/SKILL.md) — coding
+- [Migrate a Readme generator](./migrate-a-readme-generator/SKILL.md) — coding
+- [Migrate a webhook-based alert bot](./migrate-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Migrate a TypeScript microservice](./migrate-a-typescript-microservice/SKILL.md) — coding
+- [Migrate a Fastify server](./migrate-a-fastify-server/SKILL.md) — coding
+- [Migrate a Postgres migration tool](./migrate-a-postgres-migration-tool/SKILL.md) — coding
+- [Refactor a Vite SPA](./refactor-a-vite-spa/SKILL.md) — coding
+- [Refactor a React dashboard](./refactor-a-react-dashboard/SKILL.md) — coding
+- [Refactor a Python scraper](./refactor-a-python-scraper/SKILL.md) — coding
+- [Refactor a PDF generator](./refactor-a-pdf-generator/SKILL.md) — coding
+- [Refactor a webhook server](./refactor-a-webhook-server/SKILL.md) — coding
+- [Refactor a Python data pipeline](./refactor-a-python-data-pipeline/SKILL.md) — coding
+- [Refactor an OpenCode skill](./refactor-an-opencode-skill/SKILL.md) — coding
+- [Refactor an AI agent](./refactor-an-ai-agent/SKILL.md) — coding
+- [Refactor an MCP server](./refactor-an-mcp-server/SKILL.md) — coding
+- [Refactor a GitHub Actions CI pipeline](./refactor-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Refactor a Node CLI tool](./refactor-a-node-cli-tool/SKILL.md) — coding
+- [Refactor a FastAPI endpoint](./refactor-a-fastapi-endpoint/SKILL.md) — coding
+- [Refactor a Vercel deployment](./refactor-a-vercel-deployment/SKILL.md) — coding
+- [Refactor a Next.js app](./refactor-a-next.js-app/SKILL.md) — coding
+- [Refactor a CI/CD pipeline](./refactor-a-ci-cd-pipeline/SKILL.md) — coding
+- [Refactor a data-collection bot](./refactor-a-data-collection-bot/SKILL.md) — coding
+- [Refactor a report builder](./refactor-a-report-builder/SKILL.md) — coding
+- [Refactor a portfolio site](./refactor-a-portfolio-site/SKILL.md) — coding
+- [Refactor an error logger](./refactor-an-error-logger/SKILL.md) — coding
+- [Refactor a cron job](./refactor-a-cron-job/SKILL.md) — coding
+- [Refactor a Dockerized API](./refactor-a-dockerized-api/SKILL.md) — coding
+- [Refactor a static site](./refactor-a-static-site/SKILL.md) — coding
+- [Refactor a TypeScript utility](./refactor-a-typescript-utility/SKILL.md) — coding
+- [Refactor a chrome extension](./refactor-a-chrome-extension/SKILL.md) — coding
+- [Refactor a data-migration script](./refactor-a-data-migration-script/SKILL.md) — coding
+- [Refactor a chatbot](./refactor-a-chatbot/SKILL.md) — coding
+- [Refactor a Slack bot](./refactor-a-slack-bot/SKILL.md) — coding
+- [Refactor a Telegram bot](./refactor-a-telegram-bot/SKILL.md) — coding
+- [Refactor a Notion integration](./refactor-a-notion-integration/SKILL.md) — coding
+- [Refactor a SaaS auth flow](./refactor-a-saas-auth-flow/SKILL.md) — coding
+- [Refactor a Redis cache layer](./refactor-a-redis-cache-layer/SKILL.md) — coding
+- [Refactor a search indexer](./refactor-a-search-indexer/SKILL.md) — coding
+- [Refactor a test generator](./refactor-a-test-generator/SKILL.md) — coding
+- [Refactor an auto-tagger](./refactor-an-auto-tagger/SKILL.md) — coding
+- [Refactor a log parser](./refactor-a-log-parser/SKILL.md) — coding
+- [Refactor a monitoring dashboard](./refactor-a-monitoring-dashboard/SKILL.md) — coding
+- [Refactor a code review bot](./refactor-a-code-review-bot/SKILL.md) — coding
+- [Refactor an auto-deploy pipeline](./refactor-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Refactor a daily report script](./refactor-a-daily-report-script/SKILL.md) — coding
+- [Refactor a resume generator](./refactor-a-resume-generator/SKILL.md) — coding
+- [Refactor a Readme generator](./refactor-a-readme-generator/SKILL.md) — coding
+- [Refactor a webhook-based alert bot](./refactor-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Refactor a TypeScript microservice](./refactor-a-typescript-microservice/SKILL.md) — coding
+- [Refactor a Fastify server](./refactor-a-fastify-server/SKILL.md) — coding
+- [Refactor a Postgres migration tool](./refactor-a-postgres-migration-tool/SKILL.md) — coding
+- [Scaffold a Vite SPA](./scaffold-a-vite-spa/SKILL.md) — coding
+- [Scaffold a React dashboard](./scaffold-a-react-dashboard/SKILL.md) — coding
+- [Scaffold a Python scraper](./scaffold-a-python-scraper/SKILL.md) — coding
+- [Scaffold a PDF generator](./scaffold-a-pdf-generator/SKILL.md) — coding
+- [Scaffold a webhook server](./scaffold-a-webhook-server/SKILL.md) — coding
+- [Scaffold a Python data pipeline](./scaffold-a-python-data-pipeline/SKILL.md) — coding
+- [Scaffold an OpenCode skill](./scaffold-an-opencode-skill/SKILL.md) — coding
+- [Scaffold an AI agent](./scaffold-an-ai-agent/SKILL.md) — coding
+- [Scaffold an MCP server](./scaffold-an-mcp-server/SKILL.md) — coding
+- [Scaffold a GitHub Actions CI pipeline](./scaffold-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Scaffold a Node CLI tool](./scaffold-a-node-cli-tool/SKILL.md) — coding
+- [Scaffold a FastAPI endpoint](./scaffold-a-fastapi-endpoint/SKILL.md) — coding
+- [Scaffold a Vercel deployment](./scaffold-a-vercel-deployment/SKILL.md) — coding
+- [Scaffold a Next.js app](./scaffold-a-next.js-app/SKILL.md) — coding
+- [Scaffold a CI/CD pipeline](./scaffold-a-ci-cd-pipeline/SKILL.md) — coding
+- [Scaffold a data-collection bot](./scaffold-a-data-collection-bot/SKILL.md) — coding
+- [Scaffold a report builder](./scaffold-a-report-builder/SKILL.md) — coding
+- [Scaffold a portfolio site](./scaffold-a-portfolio-site/SKILL.md) — coding
+- [Scaffold an error logger](./scaffold-an-error-logger/SKILL.md) — coding
+- [Scaffold a cron job](./scaffold-a-cron-job/SKILL.md) — coding
+- [Scaffold a Dockerized API](./scaffold-a-dockerized-api/SKILL.md) — coding
+- [Scaffold a static site](./scaffold-a-static-site/SKILL.md) — coding
+- [Scaffold a TypeScript utility](./scaffold-a-typescript-utility/SKILL.md) — coding
+- [Scaffold a chrome extension](./scaffold-a-chrome-extension/SKILL.md) — coding
+- [Scaffold a data-migration script](./scaffold-a-data-migration-script/SKILL.md) — coding
+- [Scaffold a chatbot](./scaffold-a-chatbot/SKILL.md) — coding
+- [Scaffold a Slack bot](./scaffold-a-slack-bot/SKILL.md) — coding
+- [Scaffold a Telegram bot](./scaffold-a-telegram-bot/SKILL.md) — coding
+- [Scaffold a Notion integration](./scaffold-a-notion-integration/SKILL.md) — coding
+- [Scaffold a SaaS auth flow](./scaffold-a-saas-auth-flow/SKILL.md) — coding
+- [Scaffold a Redis cache layer](./scaffold-a-redis-cache-layer/SKILL.md) — coding
+- [Scaffold a search indexer](./scaffold-a-search-indexer/SKILL.md) — coding
+- [Scaffold a test generator](./scaffold-a-test-generator/SKILL.md) — coding
+- [Scaffold an auto-tagger](./scaffold-an-auto-tagger/SKILL.md) — coding
+- [Scaffold a log parser](./scaffold-a-log-parser/SKILL.md) — coding
+- [Scaffold a monitoring dashboard](./scaffold-a-monitoring-dashboard/SKILL.md) — coding
+- [Scaffold a code review bot](./scaffold-a-code-review-bot/SKILL.md) — coding
+- [Scaffold an auto-deploy pipeline](./scaffold-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Scaffold a daily report script](./scaffold-a-daily-report-script/SKILL.md) — coding
+- [Scaffold a resume generator](./scaffold-a-resume-generator/SKILL.md) — coding
+- [Scaffold a Readme generator](./scaffold-a-readme-generator/SKILL.md) — coding
+- [Scaffold a webhook-based alert bot](./scaffold-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Scaffold a TypeScript microservice](./scaffold-a-typescript-microservice/SKILL.md) — coding
+- [Scaffold a Fastify server](./scaffold-a-fastify-server/SKILL.md) — coding
+- [Scaffold a Postgres migration tool](./scaffold-a-postgres-migration-tool/SKILL.md) — coding
+- [Integrate a Vite SPA](./integrate-a-vite-spa/SKILL.md) — coding
+- [Integrate a React dashboard](./integrate-a-react-dashboard/SKILL.md) — coding
+- [Integrate a Python scraper](./integrate-a-python-scraper/SKILL.md) — coding
+- [Integrate a PDF generator](./integrate-a-pdf-generator/SKILL.md) — coding
+- [Integrate a webhook server](./integrate-a-webhook-server/SKILL.md) — coding
+- [Integrate a Python data pipeline](./integrate-a-python-data-pipeline/SKILL.md) — coding
+- [Integrate an OpenCode skill](./integrate-an-opencode-skill/SKILL.md) — coding
+- [Integrate an AI agent](./integrate-an-ai-agent/SKILL.md) — coding
+- [Integrate an MCP server](./integrate-an-mcp-server/SKILL.md) — coding
+- [Integrate a GitHub Actions CI pipeline](./integrate-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Integrate a Node CLI tool](./integrate-a-node-cli-tool/SKILL.md) — coding
+- [Integrate a FastAPI endpoint](./integrate-a-fastapi-endpoint/SKILL.md) — coding
+- [Integrate a Vercel deployment](./integrate-a-vercel-deployment/SKILL.md) — coding
+- [Integrate a Next.js app](./integrate-a-next.js-app/SKILL.md) — coding
+- [Integrate a CI/CD pipeline](./integrate-a-ci-cd-pipeline/SKILL.md) — coding
+- [Integrate a data-collection bot](./integrate-a-data-collection-bot/SKILL.md) — coding
+- [Integrate a report builder](./integrate-a-report-builder/SKILL.md) — coding
+- [Integrate a portfolio site](./integrate-a-portfolio-site/SKILL.md) — coding
+- [Integrate an error logger](./integrate-an-error-logger/SKILL.md) — coding
+- [Integrate a cron job](./integrate-a-cron-job/SKILL.md) — coding
+- [Integrate a Dockerized API](./integrate-a-dockerized-api/SKILL.md) — coding
+- [Integrate a static site](./integrate-a-static-site/SKILL.md) — coding
+- [Integrate a TypeScript utility](./integrate-a-typescript-utility/SKILL.md) — coding
+- [Integrate a chrome extension](./integrate-a-chrome-extension/SKILL.md) — coding
+- [Integrate a data-migration script](./integrate-a-data-migration-script/SKILL.md) — coding
+- [Integrate a chatbot](./integrate-a-chatbot/SKILL.md) — coding
+- [Integrate a Slack bot](./integrate-a-slack-bot/SKILL.md) — coding
+- [Integrate a Telegram bot](./integrate-a-telegram-bot/SKILL.md) — coding
+- [Integrate a Notion integration](./integrate-a-notion-integration/SKILL.md) — coding
+- [Integrate a SaaS auth flow](./integrate-a-saas-auth-flow/SKILL.md) — coding
+- [Integrate a Redis cache layer](./integrate-a-redis-cache-layer/SKILL.md) — coding
+- [Integrate a search indexer](./integrate-a-search-indexer/SKILL.md) — coding
+- [Integrate a test generator](./integrate-a-test-generator/SKILL.md) — coding
+- [Integrate an auto-tagger](./integrate-an-auto-tagger/SKILL.md) — coding
+- [Integrate a log parser](./integrate-a-log-parser/SKILL.md) — coding
+- [Integrate a monitoring dashboard](./integrate-a-monitoring-dashboard/SKILL.md) — coding
+- [Integrate a code review bot](./integrate-a-code-review-bot/SKILL.md) — coding
+- [Integrate an auto-deploy pipeline](./integrate-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Integrate a daily report script](./integrate-a-daily-report-script/SKILL.md) — coding
+- [Integrate a resume generator](./integrate-a-resume-generator/SKILL.md) — coding
+- [Integrate a Readme generator](./integrate-a-readme-generator/SKILL.md) — coding
+- [Integrate a webhook-based alert bot](./integrate-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Integrate a TypeScript microservice](./integrate-a-typescript-microservice/SKILL.md) — coding
+- [Integrate a Fastify server](./integrate-a-fastify-server/SKILL.md) — coding
+- [Integrate a Postgres migration tool](./integrate-a-postgres-migration-tool/SKILL.md) — coding
+- [Monitor a Vite SPA](./monitor-a-vite-spa/SKILL.md) — ops
+- [Monitor a React dashboard](./monitor-a-react-dashboard/SKILL.md) — ops
+- [Monitor a Python scraper](./monitor-a-python-scraper/SKILL.md) — ops
+- [Monitor a PDF generator](./monitor-a-pdf-generator/SKILL.md) — ops
+- [Monitor a webhook server](./monitor-a-webhook-server/SKILL.md) — ops
+- [Monitor a Python data pipeline](./monitor-a-python-data-pipeline/SKILL.md) — ops
+- [Monitor an OpenCode skill](./monitor-an-opencode-skill/SKILL.md) — ops
+- [Monitor an AI agent](./monitor-an-ai-agent/SKILL.md) — ops
+- [Monitor an MCP server](./monitor-an-mcp-server/SKILL.md) — ops
+- [Monitor a GitHub Actions CI pipeline](./monitor-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Monitor a Node CLI tool](./monitor-a-node-cli-tool/SKILL.md) — ops
+- [Monitor a FastAPI endpoint](./monitor-a-fastapi-endpoint/SKILL.md) — ops
+- [Monitor a Vercel deployment](./monitor-a-vercel-deployment/SKILL.md) — ops
+- [Monitor a Next.js app](./monitor-a-next.js-app/SKILL.md) — ops
+- [Monitor a CI/CD pipeline](./monitor-a-ci-cd-pipeline/SKILL.md) — ops
+- [Monitor a data-collection bot](./monitor-a-data-collection-bot/SKILL.md) — ops
+- [Monitor a report builder](./monitor-a-report-builder/SKILL.md) — ops
+- [Monitor a portfolio site](./monitor-a-portfolio-site/SKILL.md) — ops
+- [Monitor an error logger](./monitor-an-error-logger/SKILL.md) — ops
+- [Monitor a cron job](./monitor-a-cron-job/SKILL.md) — ops
+- [Monitor a Dockerized API](./monitor-a-dockerized-api/SKILL.md) — ops
+- [Monitor a static site](./monitor-a-static-site/SKILL.md) — ops
+- [Monitor a TypeScript utility](./monitor-a-typescript-utility/SKILL.md) — ops
+- [Monitor a chrome extension](./monitor-a-chrome-extension/SKILL.md) — ops
+- [Monitor a data-migration script](./monitor-a-data-migration-script/SKILL.md) — ops
+- [Monitor a chatbot](./monitor-a-chatbot/SKILL.md) — ops
+- [Monitor a Slack bot](./monitor-a-slack-bot/SKILL.md) — ops
+- [Monitor a Telegram bot](./monitor-a-telegram-bot/SKILL.md) — ops
+- [Monitor a Notion integration](./monitor-a-notion-integration/SKILL.md) — ops
+- [Monitor a SaaS auth flow](./monitor-a-saas-auth-flow/SKILL.md) — ops
+- [Monitor a Redis cache layer](./monitor-a-redis-cache-layer/SKILL.md) — ops
+- [Monitor a search indexer](./monitor-a-search-indexer/SKILL.md) — ops
+- [Monitor a test generator](./monitor-a-test-generator/SKILL.md) — ops
+- [Monitor an auto-tagger](./monitor-an-auto-tagger/SKILL.md) — ops
+- [Monitor a log parser](./monitor-a-log-parser/SKILL.md) — ops
+- [Monitor a monitoring dashboard](./monitor-a-monitoring-dashboard/SKILL.md) — ops
+- [Monitor a code review bot](./monitor-a-code-review-bot/SKILL.md) — ops
+- [Monitor an auto-deploy pipeline](./monitor-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Monitor a daily report script](./monitor-a-daily-report-script/SKILL.md) — ops
+- [Monitor a resume generator](./monitor-a-resume-generator/SKILL.md) — ops
+- [Monitor a Readme generator](./monitor-a-readme-generator/SKILL.md) — ops
+- [Monitor a webhook-based alert bot](./monitor-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Monitor a TypeScript microservice](./monitor-a-typescript-microservice/SKILL.md) — ops
+- [Monitor a Fastify server](./monitor-a-fastify-server/SKILL.md) — ops
+- [Monitor a Postgres migration tool](./monitor-a-postgres-migration-tool/SKILL.md) — ops
+- [Parse a Vite SPA](./parse-a-vite-spa/SKILL.md) — automation
+- [Parse a React dashboard](./parse-a-react-dashboard/SKILL.md) — automation
+- [Parse a Python scraper](./parse-a-python-scraper/SKILL.md) — automation
+- [Parse a PDF generator](./parse-a-pdf-generator/SKILL.md) — automation
+- [Parse a webhook server](./parse-a-webhook-server/SKILL.md) — automation
+- [Parse a Python data pipeline](./parse-a-python-data-pipeline/SKILL.md) — automation
+- [Parse an OpenCode skill](./parse-an-opencode-skill/SKILL.md) — automation
+- [Parse an AI agent](./parse-an-ai-agent/SKILL.md) — automation
+- [Parse an MCP server](./parse-an-mcp-server/SKILL.md) — automation
+- [Parse a GitHub Actions CI pipeline](./parse-a-github-actions-ci-pipeline/SKILL.md) — automation
+- [Parse a Node CLI tool](./parse-a-node-cli-tool/SKILL.md) — automation
+- [Parse a FastAPI endpoint](./parse-a-fastapi-endpoint/SKILL.md) — automation
+- [Parse a Vercel deployment](./parse-a-vercel-deployment/SKILL.md) — automation
+- [Parse a Next.js app](./parse-a-next.js-app/SKILL.md) — automation
+- [Parse a CI/CD pipeline](./parse-a-ci-cd-pipeline/SKILL.md) — automation
+- [Parse a data-collection bot](./parse-a-data-collection-bot/SKILL.md) — automation
+- [Parse a report builder](./parse-a-report-builder/SKILL.md) — automation
+- [Parse a portfolio site](./parse-a-portfolio-site/SKILL.md) — automation
+- [Parse an error logger](./parse-an-error-logger/SKILL.md) — automation
+- [Parse a cron job](./parse-a-cron-job/SKILL.md) — automation
+- [Parse a Dockerized API](./parse-a-dockerized-api/SKILL.md) — automation
+- [Parse a static site](./parse-a-static-site/SKILL.md) — automation
+- [Parse a TypeScript utility](./parse-a-typescript-utility/SKILL.md) — automation
+- [Parse a chrome extension](./parse-a-chrome-extension/SKILL.md) — automation
+- [Parse a data-migration script](./parse-a-data-migration-script/SKILL.md) — automation
+- [Parse a chatbot](./parse-a-chatbot/SKILL.md) — automation
+- [Parse a Slack bot](./parse-a-slack-bot/SKILL.md) — automation
+- [Parse a Telegram bot](./parse-a-telegram-bot/SKILL.md) — automation
+- [Parse a Notion integration](./parse-a-notion-integration/SKILL.md) — automation
+- [Parse a SaaS auth flow](./parse-a-saas-auth-flow/SKILL.md) — automation
+- [Parse a Redis cache layer](./parse-a-redis-cache-layer/SKILL.md) — automation
+- [Parse a search indexer](./parse-a-search-indexer/SKILL.md) — automation
+- [Parse a test generator](./parse-a-test-generator/SKILL.md) — automation
+- [Parse an auto-tagger](./parse-an-auto-tagger/SKILL.md) — automation
+- [Parse a log parser](./parse-a-log-parser/SKILL.md) — automation
+- [Parse a monitoring dashboard](./parse-a-monitoring-dashboard/SKILL.md) — automation
+- [Parse a code review bot](./parse-a-code-review-bot/SKILL.md) — automation
+- [Parse an auto-deploy pipeline](./parse-an-auto-deploy-pipeline/SKILL.md) — automation
+- [Parse a daily report script](./parse-a-daily-report-script/SKILL.md) — automation
+- [Parse a resume generator](./parse-a-resume-generator/SKILL.md) — automation
+- [Parse a Readme generator](./parse-a-readme-generator/SKILL.md) — automation
+- [Parse a webhook-based alert bot](./parse-a-webhook-based-alert-bot/SKILL.md) — automation
+- [Parse a TypeScript microservice](./parse-a-typescript-microservice/SKILL.md) — automation
+- [Parse a Fastify server](./parse-a-fastify-server/SKILL.md) — automation
+- [Parse a Postgres migration tool](./parse-a-postgres-migration-tool/SKILL.md) — automation
+- [Convert a Vite SPA](./convert-a-vite-spa/SKILL.md) — docs
+- [Convert a React dashboard](./convert-a-react-dashboard/SKILL.md) — docs
+- [Convert a Python scraper](./convert-a-python-scraper/SKILL.md) — docs
+- [Convert a PDF generator](./convert-a-pdf-generator/SKILL.md) — docs
+- [Convert a webhook server](./convert-a-webhook-server/SKILL.md) — docs
+- [Convert a Python data pipeline](./convert-a-python-data-pipeline/SKILL.md) — docs
+- [Convert an OpenCode skill](./convert-an-opencode-skill/SKILL.md) — docs
+- [Convert an AI agent](./convert-an-ai-agent/SKILL.md) — docs
+- [Convert an MCP server](./convert-an-mcp-server/SKILL.md) — docs
+- [Convert a GitHub Actions CI pipeline](./convert-a-github-actions-ci-pipeline/SKILL.md) — docs
+- [Convert a Node CLI tool](./convert-a-node-cli-tool/SKILL.md) — docs
+- [Convert a FastAPI endpoint](./convert-a-fastapi-endpoint/SKILL.md) — docs
+- [Convert a Vercel deployment](./convert-a-vercel-deployment/SKILL.md) — docs
+- [Convert a Next.js app](./convert-a-next.js-app/SKILL.md) — docs
+- [Convert a CI/CD pipeline](./convert-a-ci-cd-pipeline/SKILL.md) — docs
+- [Convert a data-collection bot](./convert-a-data-collection-bot/SKILL.md) — docs
+- [Convert a report builder](./convert-a-report-builder/SKILL.md) — docs
+- [Convert a portfolio site](./convert-a-portfolio-site/SKILL.md) — docs
+- [Convert an error logger](./convert-an-error-logger/SKILL.md) — docs
+- [Convert a cron job](./convert-a-cron-job/SKILL.md) — docs
+- [Convert a Dockerized API](./convert-a-dockerized-api/SKILL.md) — docs
+- [Convert a static site](./convert-a-static-site/SKILL.md) — docs
+- [Convert a TypeScript utility](./convert-a-typescript-utility/SKILL.md) — docs
+- [Convert a chrome extension](./convert-a-chrome-extension/SKILL.md) — docs
+- [Convert a data-migration script](./convert-a-data-migration-script/SKILL.md) — docs
+- [Convert a chatbot](./convert-a-chatbot/SKILL.md) — docs
+- [Convert a Slack bot](./convert-a-slack-bot/SKILL.md) — docs
+- [Convert a Telegram bot](./convert-a-telegram-bot/SKILL.md) — docs
+- [Convert a Notion integration](./convert-a-notion-integration/SKILL.md) — docs
+- [Convert a SaaS auth flow](./convert-a-saas-auth-flow/SKILL.md) — docs
+- [Convert a Redis cache layer](./convert-a-redis-cache-layer/SKILL.md) — docs
+- [Convert a search indexer](./convert-a-search-indexer/SKILL.md) — docs
+- [Convert a test generator](./convert-a-test-generator/SKILL.md) — docs
+- [Convert an auto-tagger](./convert-an-auto-tagger/SKILL.md) — docs
+- [Convert a log parser](./convert-a-log-parser/SKILL.md) — docs
+- [Convert a monitoring dashboard](./convert-a-monitoring-dashboard/SKILL.md) — docs
+- [Convert a code review bot](./convert-a-code-review-bot/SKILL.md) — docs
+- [Convert an auto-deploy pipeline](./convert-an-auto-deploy-pipeline/SKILL.md) — docs
+- [Convert a daily report script](./convert-a-daily-report-script/SKILL.md) — docs
+- [Convert a resume generator](./convert-a-resume-generator/SKILL.md) — docs
+- [Convert a Readme generator](./convert-a-readme-generator/SKILL.md) — docs
+- [Convert a webhook-based alert bot](./convert-a-webhook-based-alert-bot/SKILL.md) — docs
+- [Convert a TypeScript microservice](./convert-a-typescript-microservice/SKILL.md) — docs
+- [Convert a Fastify server](./convert-a-fastify-server/SKILL.md) — docs
+- [Convert a Postgres migration tool](./convert-a-postgres-migration-tool/SKILL.md) — docs
+- [Summarize a Vite SPA](./summarize-a-vite-spa/SKILL.md) — docs
+- [Summarize a React dashboard](./summarize-a-react-dashboard/SKILL.md) — docs
+- [Summarize a Python scraper](./summarize-a-python-scraper/SKILL.md) — docs
+- [Summarize a PDF generator](./summarize-a-pdf-generator/SKILL.md) — docs
+- [Summarize a webhook server](./summarize-a-webhook-server/SKILL.md) — docs
+- [Summarize a Python data pipeline](./summarize-a-python-data-pipeline/SKILL.md) — docs
+- [Summarize an OpenCode skill](./summarize-an-opencode-skill/SKILL.md) — docs
+- [Summarize an AI agent](./summarize-an-ai-agent/SKILL.md) — docs
+- [Summarize an MCP server](./summarize-an-mcp-server/SKILL.md) — docs
+- [Summarize a GitHub Actions CI pipeline](./summarize-a-github-actions-ci-pipeline/SKILL.md) — docs
+- [Summarize a Node CLI tool](./summarize-a-node-cli-tool/SKILL.md) — docs
+- [Summarize a FastAPI endpoint](./summarize-a-fastapi-endpoint/SKILL.md) — docs
+- [Summarize a Vercel deployment](./summarize-a-vercel-deployment/SKILL.md) — docs
+- [Summarize a Next.js app](./summarize-a-next.js-app/SKILL.md) — docs
+- [Summarize a CI/CD pipeline](./summarize-a-ci-cd-pipeline/SKILL.md) — docs
+- [Summarize a data-collection bot](./summarize-a-data-collection-bot/SKILL.md) — docs
+- [Summarize a report builder](./summarize-a-report-builder/SKILL.md) — docs
+- [Summarize a portfolio site](./summarize-a-portfolio-site/SKILL.md) — docs
+- [Summarize an error logger](./summarize-an-error-logger/SKILL.md) — docs
+- [Summarize a cron job](./summarize-a-cron-job/SKILL.md) — docs
+- [Summarize a Dockerized API](./summarize-a-dockerized-api/SKILL.md) — docs
+- [Summarize a static site](./summarize-a-static-site/SKILL.md) — docs
+- [Summarize a TypeScript utility](./summarize-a-typescript-utility/SKILL.md) — docs
+- [Summarize a chrome extension](./summarize-a-chrome-extension/SKILL.md) — docs
+- [Summarize a data-migration script](./summarize-a-data-migration-script/SKILL.md) — docs
+- [Summarize a chatbot](./summarize-a-chatbot/SKILL.md) — docs
+- [Summarize a Slack bot](./summarize-a-slack-bot/SKILL.md) — docs
+- [Summarize a Telegram bot](./summarize-a-telegram-bot/SKILL.md) — docs
+- [Summarize a Notion integration](./summarize-a-notion-integration/SKILL.md) — docs
+- [Summarize a SaaS auth flow](./summarize-a-saas-auth-flow/SKILL.md) — docs
+- [Summarize a Redis cache layer](./summarize-a-redis-cache-layer/SKILL.md) — docs
+- [Summarize a search indexer](./summarize-a-search-indexer/SKILL.md) — docs
+- [Summarize a test generator](./summarize-a-test-generator/SKILL.md) — docs
+- [Summarize an auto-tagger](./summarize-an-auto-tagger/SKILL.md) — docs
+- [Summarize a log parser](./summarize-a-log-parser/SKILL.md) — docs
+- [Summarize a monitoring dashboard](./summarize-a-monitoring-dashboard/SKILL.md) — docs
+- [Summarize a code review bot](./summarize-a-code-review-bot/SKILL.md) — docs
+- [Summarize an auto-deploy pipeline](./summarize-an-auto-deploy-pipeline/SKILL.md) — docs
+- [Summarize a daily report script](./summarize-a-daily-report-script/SKILL.md) — docs
+- [Summarize a resume generator](./summarize-a-resume-generator/SKILL.md) — docs
+- [Summarize a Readme generator](./summarize-a-readme-generator/SKILL.md) — docs
+- [Summarize a webhook-based alert bot](./summarize-a-webhook-based-alert-bot/SKILL.md) — docs
+- [Summarize a TypeScript microservice](./summarize-a-typescript-microservice/SKILL.md) — docs
+- [Summarize a Fastify server](./summarize-a-fastify-server/SKILL.md) — docs
+- [Summarize a Postgres migration tool](./summarize-a-postgres-migration-tool/SKILL.md) — docs
+- [Document a Vite SPA](./document-a-vite-spa/SKILL.md) — docs
+- [Document a React dashboard](./document-a-react-dashboard/SKILL.md) — docs
+- [Document a Python scraper](./document-a-python-scraper/SKILL.md) — docs
+- [Document a PDF generator](./document-a-pdf-generator/SKILL.md) — docs
+- [Document a webhook server](./document-a-webhook-server/SKILL.md) — docs
+- [Document a Python data pipeline](./document-a-python-data-pipeline/SKILL.md) — docs
+- [Document an OpenCode skill](./document-an-opencode-skill/SKILL.md) — docs
+- [Document an AI agent](./document-an-ai-agent/SKILL.md) — docs
+- [Document an MCP server](./document-an-mcp-server/SKILL.md) — docs
+- [Document a GitHub Actions CI pipeline](./document-a-github-actions-ci-pipeline/SKILL.md) — docs
+- [Document a Node CLI tool](./document-a-node-cli-tool/SKILL.md) — docs
+- [Document a FastAPI endpoint](./document-a-fastapi-endpoint/SKILL.md) — docs
+- [Document a Vercel deployment](./document-a-vercel-deployment/SKILL.md) — docs
+- [Document a Next.js app](./document-a-next.js-app/SKILL.md) — docs
+- [Document a CI/CD pipeline](./document-a-ci-cd-pipeline/SKILL.md) — docs
+- [Document a data-collection bot](./document-a-data-collection-bot/SKILL.md) — docs
+- [Document a report builder](./document-a-report-builder/SKILL.md) — docs
+- [Document a portfolio site](./document-a-portfolio-site/SKILL.md) — docs
+- [Document an error logger](./document-an-error-logger/SKILL.md) — docs
+- [Document a cron job](./document-a-cron-job/SKILL.md) — docs
+- [Document a Dockerized API](./document-a-dockerized-api/SKILL.md) — docs
+- [Document a static site](./document-a-static-site/SKILL.md) — docs
+- [Document a TypeScript utility](./document-a-typescript-utility/SKILL.md) — docs
+- [Document a chrome extension](./document-a-chrome-extension/SKILL.md) — docs
+- [Document a data-migration script](./document-a-data-migration-script/SKILL.md) — docs
+- [Document a chatbot](./document-a-chatbot/SKILL.md) — docs
+- [Document a Slack bot](./document-a-slack-bot/SKILL.md) — docs
+- [Document a Telegram bot](./document-a-telegram-bot/SKILL.md) — docs
+- [Document a Notion integration](./document-a-notion-integration/SKILL.md) — docs
+- [Document a SaaS auth flow](./document-a-saas-auth-flow/SKILL.md) — docs
+- [Document a Redis cache layer](./document-a-redis-cache-layer/SKILL.md) — docs
+- [Document a search indexer](./document-a-search-indexer/SKILL.md) — docs
+- [Document a test generator](./document-a-test-generator/SKILL.md) — docs
+- [Document an auto-tagger](./document-an-auto-tagger/SKILL.md) — docs
+- [Document a log parser](./document-a-log-parser/SKILL.md) — docs
+- [Document a monitoring dashboard](./document-a-monitoring-dashboard/SKILL.md) — docs
+- [Document a code review bot](./document-a-code-review-bot/SKILL.md) — docs
+- [Document an auto-deploy pipeline](./document-an-auto-deploy-pipeline/SKILL.md) — docs
+- [Document a daily report script](./document-a-daily-report-script/SKILL.md) — docs
+- [Document a resume generator](./document-a-resume-generator/SKILL.md) — docs
+- [Document a Readme generator](./document-a-readme-generator/SKILL.md) — docs
+- [Document a webhook-based alert bot](./document-a-webhook-based-alert-bot/SKILL.md) — docs
+- [Document a TypeScript microservice](./document-a-typescript-microservice/SKILL.md) — docs
+- [Document a Fastify server](./document-a-fastify-server/SKILL.md) — docs
+- [Document a Postgres migration tool](./document-a-postgres-migration-tool/SKILL.md) — docs
+- [Test a Vite SPA](./test-a-vite-spa/SKILL.md) — coding
+- [Test a React dashboard](./test-a-react-dashboard/SKILL.md) — coding
+- [Test a Python scraper](./test-a-python-scraper/SKILL.md) — coding
+- [Test a PDF generator](./test-a-pdf-generator/SKILL.md) — coding
+- [Test a webhook server](./test-a-webhook-server/SKILL.md) — coding
+- [Test a Python data pipeline](./test-a-python-data-pipeline/SKILL.md) — coding
+- [Test an OpenCode skill](./test-an-opencode-skill/SKILL.md) — coding
+- [Test an AI agent](./test-an-ai-agent/SKILL.md) — coding
+- [Test an MCP server](./test-an-mcp-server/SKILL.md) — coding
+- [Test a GitHub Actions CI pipeline](./test-a-github-actions-ci-pipeline/SKILL.md) — coding
+- [Test a Node CLI tool](./test-a-node-cli-tool/SKILL.md) — coding
+- [Test a FastAPI endpoint](./test-a-fastapi-endpoint/SKILL.md) — coding
+- [Test a Vercel deployment](./test-a-vercel-deployment/SKILL.md) — coding
+- [Test a Next.js app](./test-a-next.js-app/SKILL.md) — coding
+- [Test a CI/CD pipeline](./test-a-ci-cd-pipeline/SKILL.md) — coding
+- [Test a data-collection bot](./test-a-data-collection-bot/SKILL.md) — coding
+- [Test a report builder](./test-a-report-builder/SKILL.md) — coding
+- [Test a portfolio site](./test-a-portfolio-site/SKILL.md) — coding
+- [Test an error logger](./test-an-error-logger/SKILL.md) — coding
+- [Test a cron job](./test-a-cron-job/SKILL.md) — coding
+- [Test a Dockerized API](./test-a-dockerized-api/SKILL.md) — coding
+- [Test a static site](./test-a-static-site/SKILL.md) — coding
+- [Test a TypeScript utility](./test-a-typescript-utility/SKILL.md) — coding
+- [Test a chrome extension](./test-a-chrome-extension/SKILL.md) — coding
+- [Test a data-migration script](./test-a-data-migration-script/SKILL.md) — coding
+- [Test a chatbot](./test-a-chatbot/SKILL.md) — coding
+- [Test a Slack bot](./test-a-slack-bot/SKILL.md) — coding
+- [Test a Telegram bot](./test-a-telegram-bot/SKILL.md) — coding
+- [Test a Notion integration](./test-a-notion-integration/SKILL.md) — coding
+- [Test a SaaS auth flow](./test-a-saas-auth-flow/SKILL.md) — coding
+- [Test a Redis cache layer](./test-a-redis-cache-layer/SKILL.md) — coding
+- [Test a search indexer](./test-a-search-indexer/SKILL.md) — coding
+- [Test a test generator](./test-a-test-generator/SKILL.md) — coding
+- [Test an auto-tagger](./test-an-auto-tagger/SKILL.md) — coding
+- [Test a log parser](./test-a-log-parser/SKILL.md) — coding
+- [Test a monitoring dashboard](./test-a-monitoring-dashboard/SKILL.md) — coding
+- [Test a code review bot](./test-a-code-review-bot/SKILL.md) — coding
+- [Test an auto-deploy pipeline](./test-an-auto-deploy-pipeline/SKILL.md) — coding
+- [Test a daily report script](./test-a-daily-report-script/SKILL.md) — coding
+- [Test a resume generator](./test-a-resume-generator/SKILL.md) — coding
+- [Test a Readme generator](./test-a-readme-generator/SKILL.md) — coding
+- [Test a webhook-based alert bot](./test-a-webhook-based-alert-bot/SKILL.md) — coding
+- [Test a TypeScript microservice](./test-a-typescript-microservice/SKILL.md) — coding
+- [Test a Fastify server](./test-a-fastify-server/SKILL.md) — coding
+- [Test a Postgres migration tool](./test-a-postgres-migration-tool/SKILL.md) — coding
+- [Package a Vite SPA](./package-a-vite-spa/SKILL.md) — ops
+- [Package a React dashboard](./package-a-react-dashboard/SKILL.md) — ops
+- [Package a Python scraper](./package-a-python-scraper/SKILL.md) — ops
+- [Package a PDF generator](./package-a-pdf-generator/SKILL.md) — ops
+- [Package a webhook server](./package-a-webhook-server/SKILL.md) — ops
+- [Package a Python data pipeline](./package-a-python-data-pipeline/SKILL.md) — ops
+- [Package an OpenCode skill](./package-an-opencode-skill/SKILL.md) — ops
+- [Package an AI agent](./package-an-ai-agent/SKILL.md) — ops
+- [Package an MCP server](./package-an-mcp-server/SKILL.md) — ops
+- [Package a GitHub Actions CI pipeline](./package-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Package a Node CLI tool](./package-a-node-cli-tool/SKILL.md) — ops
+- [Package a FastAPI endpoint](./package-a-fastapi-endpoint/SKILL.md) — ops
+- [Package a Vercel deployment](./package-a-vercel-deployment/SKILL.md) — ops
+- [Package a Next.js app](./package-a-next.js-app/SKILL.md) — ops
+- [Package a CI/CD pipeline](./package-a-ci-cd-pipeline/SKILL.md) — ops
+- [Package a data-collection bot](./package-a-data-collection-bot/SKILL.md) — ops
+- [Package a report builder](./package-a-report-builder/SKILL.md) — ops
+- [Package a portfolio site](./package-a-portfolio-site/SKILL.md) — ops
+- [Package an error logger](./package-an-error-logger/SKILL.md) — ops
+- [Package a cron job](./package-a-cron-job/SKILL.md) — ops
+- [Package a Dockerized API](./package-a-dockerized-api/SKILL.md) — ops
+- [Package a static site](./package-a-static-site/SKILL.md) — ops
+- [Package a TypeScript utility](./package-a-typescript-utility/SKILL.md) — ops
+- [Package a chrome extension](./package-a-chrome-extension/SKILL.md) — ops
+- [Package a data-migration script](./package-a-data-migration-script/SKILL.md) — ops
+- [Package a chatbot](./package-a-chatbot/SKILL.md) — ops
+- [Package a Slack bot](./package-a-slack-bot/SKILL.md) — ops
+- [Package a Telegram bot](./package-a-telegram-bot/SKILL.md) — ops
+- [Package a Notion integration](./package-a-notion-integration/SKILL.md) — ops
+- [Package a SaaS auth flow](./package-a-saas-auth-flow/SKILL.md) — ops
+- [Package a Redis cache layer](./package-a-redis-cache-layer/SKILL.md) — ops
+- [Package a search indexer](./package-a-search-indexer/SKILL.md) — ops
+- [Package a test generator](./package-a-test-generator/SKILL.md) — ops
+- [Package an auto-tagger](./package-an-auto-tagger/SKILL.md) — ops
+- [Package a log parser](./package-a-log-parser/SKILL.md) — ops
+- [Package a monitoring dashboard](./package-a-monitoring-dashboard/SKILL.md) — ops
+- [Package a code review bot](./package-a-code-review-bot/SKILL.md) — ops
+- [Package an auto-deploy pipeline](./package-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Package a daily report script](./package-a-daily-report-script/SKILL.md) — ops
+- [Package a resume generator](./package-a-resume-generator/SKILL.md) — ops
+- [Package a Readme generator](./package-a-readme-generator/SKILL.md) — ops
+- [Package a webhook-based alert bot](./package-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Package a TypeScript microservice](./package-a-typescript-microservice/SKILL.md) — ops
+- [Package a Fastify server](./package-a-fastify-server/SKILL.md) — ops
+- [Package a Postgres migration tool](./package-a-postgres-migration-tool/SKILL.md) — ops
+- [Release a Vite SPA](./release-a-vite-spa/SKILL.md) — ops
+- [Release a React dashboard](./release-a-react-dashboard/SKILL.md) — ops
+- [Release a Python scraper](./release-a-python-scraper/SKILL.md) — ops
+- [Release a PDF generator](./release-a-pdf-generator/SKILL.md) — ops
+- [Release a webhook server](./release-a-webhook-server/SKILL.md) — ops
+- [Release a Python data pipeline](./release-a-python-data-pipeline/SKILL.md) — ops
+- [Release an OpenCode skill](./release-an-opencode-skill/SKILL.md) — ops
+- [Release an AI agent](./release-an-ai-agent/SKILL.md) — ops
+- [Release an MCP server](./release-an-mcp-server/SKILL.md) — ops
+- [Release a GitHub Actions CI pipeline](./release-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Release a Node CLI tool](./release-a-node-cli-tool/SKILL.md) — ops
+- [Release a FastAPI endpoint](./release-a-fastapi-endpoint/SKILL.md) — ops
+- [Release a Vercel deployment](./release-a-vercel-deployment/SKILL.md) — ops
+- [Release a Next.js app](./release-a-next.js-app/SKILL.md) — ops
+- [Release a CI/CD pipeline](./release-a-ci-cd-pipeline/SKILL.md) — ops
+- [Release a data-collection bot](./release-a-data-collection-bot/SKILL.md) — ops
+- [Release a report builder](./release-a-report-builder/SKILL.md) — ops
+- [Release a portfolio site](./release-a-portfolio-site/SKILL.md) — ops
+- [Release an error logger](./release-an-error-logger/SKILL.md) — ops
+- [Release a cron job](./release-a-cron-job/SKILL.md) — ops
+- [Release a Dockerized API](./release-a-dockerized-api/SKILL.md) — ops
+- [Release a static site](./release-a-static-site/SKILL.md) — ops
+- [Release a TypeScript utility](./release-a-typescript-utility/SKILL.md) — ops
+- [Release a chrome extension](./release-a-chrome-extension/SKILL.md) — ops
+- [Release a data-migration script](./release-a-data-migration-script/SKILL.md) — ops
+- [Release a chatbot](./release-a-chatbot/SKILL.md) — ops
+- [Release a Slack bot](./release-a-slack-bot/SKILL.md) — ops
+- [Release a Telegram bot](./release-a-telegram-bot/SKILL.md) — ops
+- [Release a Notion integration](./release-a-notion-integration/SKILL.md) — ops
+- [Release a SaaS auth flow](./release-a-saas-auth-flow/SKILL.md) — ops
+- [Release a Redis cache layer](./release-a-redis-cache-layer/SKILL.md) — ops
+- [Release a search indexer](./release-a-search-indexer/SKILL.md) — ops
+- [Release a test generator](./release-a-test-generator/SKILL.md) — ops
+- [Release an auto-tagger](./release-an-auto-tagger/SKILL.md) — ops
+- [Release a log parser](./release-a-log-parser/SKILL.md) — ops
+- [Release a monitoring dashboard](./release-a-monitoring-dashboard/SKILL.md) — ops
+- [Release a code review bot](./release-a-code-review-bot/SKILL.md) — ops
+- [Release an auto-deploy pipeline](./release-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Release a daily report script](./release-a-daily-report-script/SKILL.md) — ops
+- [Release a resume generator](./release-a-resume-generator/SKILL.md) — ops
+- [Release a Readme generator](./release-a-readme-generator/SKILL.md) — ops
+- [Release a webhook-based alert bot](./release-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Release a TypeScript microservice](./release-a-typescript-microservice/SKILL.md) — ops
+- [Release a Fastify server](./release-a-fastify-server/SKILL.md) — ops
+- [Release a Postgres migration tool](./release-a-postgres-migration-tool/SKILL.md) — ops
+- [Roll back a Vite SPA](./roll-back-a-vite-spa/SKILL.md) — ops
+- [Roll back a React dashboard](./roll-back-a-react-dashboard/SKILL.md) — ops
+- [Roll back a Python scraper](./roll-back-a-python-scraper/SKILL.md) — ops
+- [Roll back a PDF generator](./roll-back-a-pdf-generator/SKILL.md) — ops
+- [Roll back a webhook server](./roll-back-a-webhook-server/SKILL.md) — ops
+- [Roll back a Python data pipeline](./roll-back-a-python-data-pipeline/SKILL.md) — ops
+- [Roll back an OpenCode skill](./roll-back-an-opencode-skill/SKILL.md) — ops
+- [Roll back an AI agent](./roll-back-an-ai-agent/SKILL.md) — ops
+- [Roll back an MCP server](./roll-back-an-mcp-server/SKILL.md) — ops
+- [Roll back a GitHub Actions CI pipeline](./roll-back-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Roll back a Node CLI tool](./roll-back-a-node-cli-tool/SKILL.md) — ops
+- [Roll back a FastAPI endpoint](./roll-back-a-fastapi-endpoint/SKILL.md) — ops
+- [Roll back a Vercel deployment](./roll-back-a-vercel-deployment/SKILL.md) — ops
+- [Roll back a Next.js app](./roll-back-a-next.js-app/SKILL.md) — ops
+- [Roll back a CI/CD pipeline](./roll-back-a-ci-cd-pipeline/SKILL.md) — ops
+- [Roll back a data-collection bot](./roll-back-a-data-collection-bot/SKILL.md) — ops
+- [Roll back a report builder](./roll-back-a-report-builder/SKILL.md) — ops
+- [Roll back a portfolio site](./roll-back-a-portfolio-site/SKILL.md) — ops
+- [Roll back an error logger](./roll-back-an-error-logger/SKILL.md) — ops
+- [Roll back a cron job](./roll-back-a-cron-job/SKILL.md) — ops
+- [Roll back a Dockerized API](./roll-back-a-dockerized-api/SKILL.md) — ops
+- [Roll back a static site](./roll-back-a-static-site/SKILL.md) — ops
+- [Roll back a TypeScript utility](./roll-back-a-typescript-utility/SKILL.md) — ops
+- [Roll back a chrome extension](./roll-back-a-chrome-extension/SKILL.md) — ops
+- [Roll back a data-migration script](./roll-back-a-data-migration-script/SKILL.md) — ops
+- [Roll back a chatbot](./roll-back-a-chatbot/SKILL.md) — ops
+- [Roll back a Slack bot](./roll-back-a-slack-bot/SKILL.md) — ops
+- [Roll back a Telegram bot](./roll-back-a-telegram-bot/SKILL.md) — ops
+- [Roll back a Notion integration](./roll-back-a-notion-integration/SKILL.md) — ops
+- [Roll back a SaaS auth flow](./roll-back-a-saas-auth-flow/SKILL.md) — ops
+- [Roll back a Redis cache layer](./roll-back-a-redis-cache-layer/SKILL.md) — ops
+- [Roll back a search indexer](./roll-back-a-search-indexer/SKILL.md) — ops
+- [Roll back a test generator](./roll-back-a-test-generator/SKILL.md) — ops
+- [Roll back an auto-tagger](./roll-back-an-auto-tagger/SKILL.md) — ops
+- [Roll back a log parser](./roll-back-a-log-parser/SKILL.md) — ops
+- [Roll back a monitoring dashboard](./roll-back-a-monitoring-dashboard/SKILL.md) — ops
+- [Roll back a code review bot](./roll-back-a-code-review-bot/SKILL.md) — ops
+- [Roll back an auto-deploy pipeline](./roll-back-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Roll back a daily report script](./roll-back-a-daily-report-script/SKILL.md) — ops
+- [Roll back a resume generator](./roll-back-a-resume-generator/SKILL.md) — ops
+- [Roll back a Readme generator](./roll-back-a-readme-generator/SKILL.md) — ops
+- [Roll back a webhook-based alert bot](./roll-back-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Roll back a TypeScript microservice](./roll-back-a-typescript-microservice/SKILL.md) — ops
+- [Roll back a Fastify server](./roll-back-a-fastify-server/SKILL.md) — ops
+- [Roll back a Postgres migration tool](./roll-back-a-postgres-migration-tool/SKILL.md) — ops
+- [Upgrade a Vite SPA](./upgrade-a-vite-spa/SKILL.md) — ops
+- [Upgrade a React dashboard](./upgrade-a-react-dashboard/SKILL.md) — ops
+- [Upgrade a Python scraper](./upgrade-a-python-scraper/SKILL.md) — ops
+- [Upgrade a PDF generator](./upgrade-a-pdf-generator/SKILL.md) — ops
+- [Upgrade a webhook server](./upgrade-a-webhook-server/SKILL.md) — ops
+- [Upgrade a Python data pipeline](./upgrade-a-python-data-pipeline/SKILL.md) — ops
+- [Upgrade an OpenCode skill](./upgrade-an-opencode-skill/SKILL.md) — ops
+- [Upgrade an AI agent](./upgrade-an-ai-agent/SKILL.md) — ops
+- [Upgrade an MCP server](./upgrade-an-mcp-server/SKILL.md) — ops
+- [Upgrade a GitHub Actions CI pipeline](./upgrade-a-github-actions-ci-pipeline/SKILL.md) — ops
+- [Upgrade a Node CLI tool](./upgrade-a-node-cli-tool/SKILL.md) — ops
+- [Upgrade a FastAPI endpoint](./upgrade-a-fastapi-endpoint/SKILL.md) — ops
+- [Upgrade a Vercel deployment](./upgrade-a-vercel-deployment/SKILL.md) — ops
+- [Upgrade a Next.js app](./upgrade-a-next.js-app/SKILL.md) — ops
+- [Upgrade a CI/CD pipeline](./upgrade-a-ci-cd-pipeline/SKILL.md) — ops
+- [Upgrade a data-collection bot](./upgrade-a-data-collection-bot/SKILL.md) — ops
+- [Upgrade a report builder](./upgrade-a-report-builder/SKILL.md) — ops
+- [Upgrade a portfolio site](./upgrade-a-portfolio-site/SKILL.md) — ops
+- [Upgrade an error logger](./upgrade-an-error-logger/SKILL.md) — ops
+- [Upgrade a cron job](./upgrade-a-cron-job/SKILL.md) — ops
+- [Upgrade a Dockerized API](./upgrade-a-dockerized-api/SKILL.md) — ops
+- [Upgrade a static site](./upgrade-a-static-site/SKILL.md) — ops
+- [Upgrade a TypeScript utility](./upgrade-a-typescript-utility/SKILL.md) — ops
+- [Upgrade a chrome extension](./upgrade-a-chrome-extension/SKILL.md) — ops
+- [Upgrade a data-migration script](./upgrade-a-data-migration-script/SKILL.md) — ops
+- [Upgrade a chatbot](./upgrade-a-chatbot/SKILL.md) — ops
+- [Upgrade a Slack bot](./upgrade-a-slack-bot/SKILL.md) — ops
+- [Upgrade a Telegram bot](./upgrade-a-telegram-bot/SKILL.md) — ops
+- [Upgrade a Notion integration](./upgrade-a-notion-integration/SKILL.md) — ops
+- [Upgrade a SaaS auth flow](./upgrade-a-saas-auth-flow/SKILL.md) — ops
+- [Upgrade a Redis cache layer](./upgrade-a-redis-cache-layer/SKILL.md) — ops
+- [Upgrade a search indexer](./upgrade-a-search-indexer/SKILL.md) — ops
+- [Upgrade a test generator](./upgrade-a-test-generator/SKILL.md) — ops
+- [Upgrade an auto-tagger](./upgrade-an-auto-tagger/SKILL.md) — ops
+- [Upgrade a log parser](./upgrade-a-log-parser/SKILL.md) — ops
+- [Upgrade a monitoring dashboard](./upgrade-a-monitoring-dashboard/SKILL.md) — ops
+- [Upgrade a code review bot](./upgrade-a-code-review-bot/SKILL.md) — ops
+- [Upgrade an auto-deploy pipeline](./upgrade-an-auto-deploy-pipeline/SKILL.md) — ops
+- [Upgrade a daily report script](./upgrade-a-daily-report-script/SKILL.md) — ops
+- [Upgrade a resume generator](./upgrade-a-resume-generator/SKILL.md) — ops
+- [Upgrade a Readme generator](./upgrade-a-readme-generator/SKILL.md) — ops
+- [Upgrade a webhook-based alert bot](./upgrade-a-webhook-based-alert-bot/SKILL.md) — ops
+- [Upgrade a TypeScript microservice](./upgrade-a-typescript-microservice/SKILL.md) — ops
+- [Upgrade a Fastify server](./upgrade-a-fastify-server/SKILL.md) — ops
+- [Upgrade a Postgres migration tool](./upgrade-a-postgres-migration-tool/SKILL.md) — ops
+- [Cache a Vite SPA](./cache-a-vite-spa/SKILL.md) — ops
+- [Cache a React dashboard](./cache-a-react-dashboard/SKILL.md) — ops
+- [Cache a Python scraper](./cache-a-python-scraper/SKILL.md) — ops
+- [Cache a PDF generator](./cache-a-pdf-generator/SKILL.md) — ops
+- [Cache a webhook server](./cache-a-webhook-server/SKILL.md) — ops
+- [Cache a Python data pipeline](./cache-a-python-data-pipeline/SKILL.md) — ops
+- [Cache an OpenCode skill](./cache-an-opencode-skill/SKILL.md) — ops
+- [Cache an AI agent](./cache-an-ai-agent/SKILL.md) — ops
+- [Cache an MCP server](./cache-an-mcp-server/SKILL.md) — ops
+- [Cache a GitHub Actions CI pipeline](./cache-a-github-actions-ci-pipeline/SKILL.md) — ops

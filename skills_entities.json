@@ -1,0 +1,7005 @@
+{
+ "entities": [
+  {
+   "name": "Automate A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Chatbot."
+   ]
+  },
+  {
+   "name": "Automate A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Automate A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Automate A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Automate A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Cron Job."
+   ]
+  },
+  {
+   "name": "Automate A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Automate A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Automate A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Automate A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Automate A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Automate A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Fastify Server."
+   ]
+  },
+  {
+   "name": "Automate A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Automate A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Log Parser."
+   ]
+  },
+  {
+   "name": "Automate A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Automate A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Next.Js App."
+   ]
+  },
+  {
+   "name": "Automate A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Automate A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Notion Integration."
+   ]
+  },
+  {
+   "name": "Automate A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Automate A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Automate A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Automate A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Automate A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Python Scraper."
+   ]
+  },
+  {
+   "name": "Automate A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A React Dashboard."
+   ]
+  },
+  {
+   "name": "Automate A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Readme Generator."
+   ]
+  },
+  {
+   "name": "Automate A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Automate A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Report Builder."
+   ]
+  },
+  {
+   "name": "Automate A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Resume Generator."
+   ]
+  },
+  {
+   "name": "Automate A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Automate A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Search Indexer."
+   ]
+  },
+  {
+   "name": "Automate A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Slack Bot."
+   ]
+  },
+  {
+   "name": "Automate A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Static Site."
+   ]
+  },
+  {
+   "name": "Automate A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Automate A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Test Generator."
+   ]
+  },
+  {
+   "name": "Automate A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Automate A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Automate A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Automate A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Vite Spa."
+   ]
+  },
+  {
+   "name": "Automate A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Automate A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate A Webhook Server."
+   ]
+  },
+  {
+   "name": "Automate An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Ai Agent."
+   ]
+  },
+  {
+   "name": "Automate An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Automate An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Automate An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Error Logger."
+   ]
+  },
+  {
+   "name": "Automate An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Mcp Server."
+   ]
+  },
+  {
+   "name": "Automate An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Automate An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Build A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Chatbot."
+   ]
+  },
+  {
+   "name": "Build A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Build A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Build A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Build A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Cron Job."
+   ]
+  },
+  {
+   "name": "Build A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Build A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Build A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Build A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Build A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Build A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Fastify Server."
+   ]
+  },
+  {
+   "name": "Build A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Build A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Log Parser."
+   ]
+  },
+  {
+   "name": "Build A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Build A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Next.Js App."
+   ]
+  },
+  {
+   "name": "Build A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Build A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Notion Integration."
+   ]
+  },
+  {
+   "name": "Build A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Build A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Build A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Build A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Build A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Python Scraper."
+   ]
+  },
+  {
+   "name": "Build A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A React Dashboard."
+   ]
+  },
+  {
+   "name": "Build A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Readme Generator."
+   ]
+  },
+  {
+   "name": "Build A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Build A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Report Builder."
+   ]
+  },
+  {
+   "name": "Build A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Resume Generator."
+   ]
+  },
+  {
+   "name": "Build A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Build A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Search Indexer."
+   ]
+  },
+  {
+   "name": "Build A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Slack Bot."
+   ]
+  },
+  {
+   "name": "Build A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Static Site."
+   ]
+  },
+  {
+   "name": "Build A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Build A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Test Generator."
+   ]
+  },
+  {
+   "name": "Build A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Build A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Build A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Build A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Vite Spa."
+   ]
+  },
+  {
+   "name": "Build A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Build A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build A Webhook Server."
+   ]
+  },
+  {
+   "name": "Build An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Ai Agent."
+   ]
+  },
+  {
+   "name": "Build An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Build An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Build An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Error Logger."
+   ]
+  },
+  {
+   "name": "Build An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Mcp Server."
+   ]
+  },
+  {
+   "name": "Build An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Build An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Cache A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Cache A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Cache A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Cache A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Python Scraper."
+   ]
+  },
+  {
+   "name": "Cache A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A React Dashboard."
+   ]
+  },
+  {
+   "name": "Cache A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Vite Spa."
+   ]
+  },
+  {
+   "name": "Cache A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache A Webhook Server."
+   ]
+  },
+  {
+   "name": "Cache An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache An Ai Agent."
+   ]
+  },
+  {
+   "name": "Cache An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache An Mcp Server."
+   ]
+  },
+  {
+   "name": "Cache An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Cache An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Configure A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Chatbot."
+   ]
+  },
+  {
+   "name": "Configure A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Configure A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Configure A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Configure A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Cron Job."
+   ]
+  },
+  {
+   "name": "Configure A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Configure A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Configure A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Configure A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Configure A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Configure A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Fastify Server."
+   ]
+  },
+  {
+   "name": "Configure A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Configure A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Log Parser."
+   ]
+  },
+  {
+   "name": "Configure A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Configure A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Next.Js App."
+   ]
+  },
+  {
+   "name": "Configure A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Configure A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Notion Integration."
+   ]
+  },
+  {
+   "name": "Configure A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Configure A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Configure A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Configure A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Configure A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Python Scraper."
+   ]
+  },
+  {
+   "name": "Configure A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A React Dashboard."
+   ]
+  },
+  {
+   "name": "Configure A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Readme Generator."
+   ]
+  },
+  {
+   "name": "Configure A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Configure A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Report Builder."
+   ]
+  },
+  {
+   "name": "Configure A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Resume Generator."
+   ]
+  },
+  {
+   "name": "Configure A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Configure A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Search Indexer."
+   ]
+  },
+  {
+   "name": "Configure A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Slack Bot."
+   ]
+  },
+  {
+   "name": "Configure A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Static Site."
+   ]
+  },
+  {
+   "name": "Configure A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Configure A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Test Generator."
+   ]
+  },
+  {
+   "name": "Configure A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Configure A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Configure A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Configure A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Vite Spa."
+   ]
+  },
+  {
+   "name": "Configure A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Configure A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure A Webhook Server."
+   ]
+  },
+  {
+   "name": "Configure An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Ai Agent."
+   ]
+  },
+  {
+   "name": "Configure An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Configure An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Configure An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Error Logger."
+   ]
+  },
+  {
+   "name": "Configure An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Mcp Server."
+   ]
+  },
+  {
+   "name": "Configure An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Configure An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Convert A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Chatbot."
+   ]
+  },
+  {
+   "name": "Convert A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Convert A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Convert A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Convert A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Cron Job."
+   ]
+  },
+  {
+   "name": "Convert A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Convert A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Convert A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Convert A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Convert A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Convert A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Fastify Server."
+   ]
+  },
+  {
+   "name": "Convert A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Convert A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Log Parser."
+   ]
+  },
+  {
+   "name": "Convert A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Convert A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Next.Js App."
+   ]
+  },
+  {
+   "name": "Convert A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Convert A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Notion Integration."
+   ]
+  },
+  {
+   "name": "Convert A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Convert A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Convert A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Convert A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Convert A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Python Scraper."
+   ]
+  },
+  {
+   "name": "Convert A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A React Dashboard."
+   ]
+  },
+  {
+   "name": "Convert A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Readme Generator."
+   ]
+  },
+  {
+   "name": "Convert A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Convert A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Report Builder."
+   ]
+  },
+  {
+   "name": "Convert A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Resume Generator."
+   ]
+  },
+  {
+   "name": "Convert A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Convert A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Search Indexer."
+   ]
+  },
+  {
+   "name": "Convert A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Slack Bot."
+   ]
+  },
+  {
+   "name": "Convert A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Static Site."
+   ]
+  },
+  {
+   "name": "Convert A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Convert A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Test Generator."
+   ]
+  },
+  {
+   "name": "Convert A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Convert A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Convert A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Convert A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Vite Spa."
+   ]
+  },
+  {
+   "name": "Convert A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Convert A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert A Webhook Server."
+   ]
+  },
+  {
+   "name": "Convert An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Ai Agent."
+   ]
+  },
+  {
+   "name": "Convert An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Convert An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Convert An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Error Logger."
+   ]
+  },
+  {
+   "name": "Convert An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Mcp Server."
+   ]
+  },
+  {
+   "name": "Convert An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Convert An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Create A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Chatbot."
+   ]
+  },
+  {
+   "name": "Create A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Create A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Create A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Create A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Cron Job."
+   ]
+  },
+  {
+   "name": "Create A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Create A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Create A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Create A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Create A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Create A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Fastify Server."
+   ]
+  },
+  {
+   "name": "Create A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Create A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Log Parser."
+   ]
+  },
+  {
+   "name": "Create A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Create A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Next.Js App."
+   ]
+  },
+  {
+   "name": "Create A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Create A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Notion Integration."
+   ]
+  },
+  {
+   "name": "Create A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Create A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Create A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Create A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Create A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Python Scraper."
+   ]
+  },
+  {
+   "name": "Create A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A React Dashboard."
+   ]
+  },
+  {
+   "name": "Create A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Readme Generator."
+   ]
+  },
+  {
+   "name": "Create A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Create A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Report Builder."
+   ]
+  },
+  {
+   "name": "Create A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Resume Generator."
+   ]
+  },
+  {
+   "name": "Create A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Create A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Search Indexer."
+   ]
+  },
+  {
+   "name": "Create A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Slack Bot."
+   ]
+  },
+  {
+   "name": "Create A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Static Site."
+   ]
+  },
+  {
+   "name": "Create A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Create A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Test Generator."
+   ]
+  },
+  {
+   "name": "Create A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Create A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Create A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Create A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Vite Spa."
+   ]
+  },
+  {
+   "name": "Create A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Create A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create A Webhook Server."
+   ]
+  },
+  {
+   "name": "Create An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Ai Agent."
+   ]
+  },
+  {
+   "name": "Create An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Create An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Create An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Error Logger."
+   ]
+  },
+  {
+   "name": "Create An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Mcp Server."
+   ]
+  },
+  {
+   "name": "Create An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Create An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Deploy A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Chatbot."
+   ]
+  },
+  {
+   "name": "Deploy A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Deploy A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Deploy A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Deploy A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Cron Job."
+   ]
+  },
+  {
+   "name": "Deploy A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Deploy A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Deploy A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Deploy A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Deploy A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Deploy A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Fastify Server."
+   ]
+  },
+  {
+   "name": "Deploy A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Deploy A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Log Parser."
+   ]
+  },
+  {
+   "name": "Deploy A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Deploy A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Next.Js App."
+   ]
+  },
+  {
+   "name": "Deploy A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Deploy A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Notion Integration."
+   ]
+  },
+  {
+   "name": "Deploy A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Deploy A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Deploy A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Deploy A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Deploy A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Python Scraper."
+   ]
+  },
+  {
+   "name": "Deploy A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A React Dashboard."
+   ]
+  },
+  {
+   "name": "Deploy A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Readme Generator."
+   ]
+  },
+  {
+   "name": "Deploy A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Deploy A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Report Builder."
+   ]
+  },
+  {
+   "name": "Deploy A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Resume Generator."
+   ]
+  },
+  {
+   "name": "Deploy A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Deploy A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Search Indexer."
+   ]
+  },
+  {
+   "name": "Deploy A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Slack Bot."
+   ]
+  },
+  {
+   "name": "Deploy A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Static Site."
+   ]
+  },
+  {
+   "name": "Deploy A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Deploy A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Test Generator."
+   ]
+  },
+  {
+   "name": "Deploy A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Deploy A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Deploy A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Deploy A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Vite Spa."
+   ]
+  },
+  {
+   "name": "Deploy A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Deploy A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy A Webhook Server."
+   ]
+  },
+  {
+   "name": "Deploy An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Ai Agent."
+   ]
+  },
+  {
+   "name": "Deploy An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Deploy An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Deploy An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Error Logger."
+   ]
+  },
+  {
+   "name": "Deploy An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Mcp Server."
+   ]
+  },
+  {
+   "name": "Deploy An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Deploy An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Document A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Chatbot."
+   ]
+  },
+  {
+   "name": "Document A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Document A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Document A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Document A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Cron Job."
+   ]
+  },
+  {
+   "name": "Document A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Document A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Document A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Document A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Document A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Document A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Fastify Server."
+   ]
+  },
+  {
+   "name": "Document A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Document A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Log Parser."
+   ]
+  },
+  {
+   "name": "Document A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Document A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Next.Js App."
+   ]
+  },
+  {
+   "name": "Document A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Document A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Notion Integration."
+   ]
+  },
+  {
+   "name": "Document A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Document A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Document A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Document A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Document A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Python Scraper."
+   ]
+  },
+  {
+   "name": "Document A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A React Dashboard."
+   ]
+  },
+  {
+   "name": "Document A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Readme Generator."
+   ]
+  },
+  {
+   "name": "Document A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Document A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Report Builder."
+   ]
+  },
+  {
+   "name": "Document A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Resume Generator."
+   ]
+  },
+  {
+   "name": "Document A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Document A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Search Indexer."
+   ]
+  },
+  {
+   "name": "Document A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Slack Bot."
+   ]
+  },
+  {
+   "name": "Document A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Static Site."
+   ]
+  },
+  {
+   "name": "Document A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Document A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Test Generator."
+   ]
+  },
+  {
+   "name": "Document A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Document A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Document A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Document A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Vite Spa."
+   ]
+  },
+  {
+   "name": "Document A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Document A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document A Webhook Server."
+   ]
+  },
+  {
+   "name": "Document An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Ai Agent."
+   ]
+  },
+  {
+   "name": "Document An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Document An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Document An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Error Logger."
+   ]
+  },
+  {
+   "name": "Document An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Mcp Server."
+   ]
+  },
+  {
+   "name": "Document An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Document An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Chatbot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Cron Job."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Fastify Server."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Log Parser."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Next.Js App."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Notion Integration."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Python Scraper."
+   ]
+  },
+  {
+   "name": "Generate With Ai A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A React Dashboard."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Readme Generator."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Report Builder."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Resume Generator."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Search Indexer."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Slack Bot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Static Site."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Test Generator."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Vite Spa."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Generate With Ai A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai A Webhook Server."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Ai Agent."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Error Logger."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Mcp Server."
+   ]
+  },
+  {
+   "name": "Generate With Ai An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ai) for OpenCode: Generate With Ai An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Integrate A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Chatbot."
+   ]
+  },
+  {
+   "name": "Integrate A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Integrate A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Integrate A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Integrate A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Cron Job."
+   ]
+  },
+  {
+   "name": "Integrate A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Integrate A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Integrate A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Integrate A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Integrate A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Integrate A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Fastify Server."
+   ]
+  },
+  {
+   "name": "Integrate A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Integrate A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Log Parser."
+   ]
+  },
+  {
+   "name": "Integrate A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Integrate A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Next.Js App."
+   ]
+  },
+  {
+   "name": "Integrate A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Integrate A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Notion Integration."
+   ]
+  },
+  {
+   "name": "Integrate A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Integrate A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Integrate A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Integrate A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Integrate A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Python Scraper."
+   ]
+  },
+  {
+   "name": "Integrate A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A React Dashboard."
+   ]
+  },
+  {
+   "name": "Integrate A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Readme Generator."
+   ]
+  },
+  {
+   "name": "Integrate A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Integrate A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Report Builder."
+   ]
+  },
+  {
+   "name": "Integrate A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Resume Generator."
+   ]
+  },
+  {
+   "name": "Integrate A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Integrate A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Search Indexer."
+   ]
+  },
+  {
+   "name": "Integrate A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Slack Bot."
+   ]
+  },
+  {
+   "name": "Integrate A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Static Site."
+   ]
+  },
+  {
+   "name": "Integrate A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Integrate A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Test Generator."
+   ]
+  },
+  {
+   "name": "Integrate A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Integrate A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Integrate A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Integrate A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Vite Spa."
+   ]
+  },
+  {
+   "name": "Integrate A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Integrate A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate A Webhook Server."
+   ]
+  },
+  {
+   "name": "Integrate An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Ai Agent."
+   ]
+  },
+  {
+   "name": "Integrate An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Integrate An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Integrate An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Error Logger."
+   ]
+  },
+  {
+   "name": "Integrate An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Mcp Server."
+   ]
+  },
+  {
+   "name": "Integrate An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Integrate An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Migrate A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Chatbot."
+   ]
+  },
+  {
+   "name": "Migrate A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Migrate A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Migrate A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Migrate A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Cron Job."
+   ]
+  },
+  {
+   "name": "Migrate A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Migrate A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Migrate A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Migrate A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Migrate A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Migrate A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Fastify Server."
+   ]
+  },
+  {
+   "name": "Migrate A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Migrate A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Log Parser."
+   ]
+  },
+  {
+   "name": "Migrate A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Migrate A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Next.Js App."
+   ]
+  },
+  {
+   "name": "Migrate A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Migrate A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Notion Integration."
+   ]
+  },
+  {
+   "name": "Migrate A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Migrate A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Migrate A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Migrate A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Migrate A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Python Scraper."
+   ]
+  },
+  {
+   "name": "Migrate A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A React Dashboard."
+   ]
+  },
+  {
+   "name": "Migrate A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Readme Generator."
+   ]
+  },
+  {
+   "name": "Migrate A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Migrate A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Report Builder."
+   ]
+  },
+  {
+   "name": "Migrate A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Resume Generator."
+   ]
+  },
+  {
+   "name": "Migrate A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Migrate A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Search Indexer."
+   ]
+  },
+  {
+   "name": "Migrate A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Slack Bot."
+   ]
+  },
+  {
+   "name": "Migrate A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Static Site."
+   ]
+  },
+  {
+   "name": "Migrate A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Migrate A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Test Generator."
+   ]
+  },
+  {
+   "name": "Migrate A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Migrate A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Migrate A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Migrate A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Vite Spa."
+   ]
+  },
+  {
+   "name": "Migrate A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Migrate A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate A Webhook Server."
+   ]
+  },
+  {
+   "name": "Migrate An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Ai Agent."
+   ]
+  },
+  {
+   "name": "Migrate An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Migrate An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Migrate An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Error Logger."
+   ]
+  },
+  {
+   "name": "Migrate An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Mcp Server."
+   ]
+  },
+  {
+   "name": "Migrate An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Migrate An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Monitor A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Chatbot."
+   ]
+  },
+  {
+   "name": "Monitor A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Monitor A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Monitor A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Monitor A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Cron Job."
+   ]
+  },
+  {
+   "name": "Monitor A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Monitor A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Monitor A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Monitor A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Monitor A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Monitor A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Fastify Server."
+   ]
+  },
+  {
+   "name": "Monitor A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Monitor A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Log Parser."
+   ]
+  },
+  {
+   "name": "Monitor A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Monitor A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Next.Js App."
+   ]
+  },
+  {
+   "name": "Monitor A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Monitor A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Notion Integration."
+   ]
+  },
+  {
+   "name": "Monitor A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Monitor A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Monitor A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Monitor A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Monitor A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Python Scraper."
+   ]
+  },
+  {
+   "name": "Monitor A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A React Dashboard."
+   ]
+  },
+  {
+   "name": "Monitor A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Readme Generator."
+   ]
+  },
+  {
+   "name": "Monitor A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Monitor A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Report Builder."
+   ]
+  },
+  {
+   "name": "Monitor A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Resume Generator."
+   ]
+  },
+  {
+   "name": "Monitor A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Monitor A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Search Indexer."
+   ]
+  },
+  {
+   "name": "Monitor A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Slack Bot."
+   ]
+  },
+  {
+   "name": "Monitor A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Static Site."
+   ]
+  },
+  {
+   "name": "Monitor A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Monitor A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Test Generator."
+   ]
+  },
+  {
+   "name": "Monitor A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Monitor A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Monitor A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Monitor A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Vite Spa."
+   ]
+  },
+  {
+   "name": "Monitor A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Monitor A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor A Webhook Server."
+   ]
+  },
+  {
+   "name": "Monitor An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Ai Agent."
+   ]
+  },
+  {
+   "name": "Monitor An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Monitor An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Monitor An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Error Logger."
+   ]
+  },
+  {
+   "name": "Monitor An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Mcp Server."
+   ]
+  },
+  {
+   "name": "Monitor An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Monitor An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Package A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Chatbot."
+   ]
+  },
+  {
+   "name": "Package A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Package A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Package A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Package A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Cron Job."
+   ]
+  },
+  {
+   "name": "Package A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Package A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Package A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Package A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Package A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Package A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Fastify Server."
+   ]
+  },
+  {
+   "name": "Package A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Package A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Log Parser."
+   ]
+  },
+  {
+   "name": "Package A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Package A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Next.Js App."
+   ]
+  },
+  {
+   "name": "Package A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Package A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Notion Integration."
+   ]
+  },
+  {
+   "name": "Package A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Package A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Package A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Package A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Package A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Python Scraper."
+   ]
+  },
+  {
+   "name": "Package A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A React Dashboard."
+   ]
+  },
+  {
+   "name": "Package A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Readme Generator."
+   ]
+  },
+  {
+   "name": "Package A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Package A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Report Builder."
+   ]
+  },
+  {
+   "name": "Package A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Resume Generator."
+   ]
+  },
+  {
+   "name": "Package A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Package A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Search Indexer."
+   ]
+  },
+  {
+   "name": "Package A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Slack Bot."
+   ]
+  },
+  {
+   "name": "Package A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Static Site."
+   ]
+  },
+  {
+   "name": "Package A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Package A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Test Generator."
+   ]
+  },
+  {
+   "name": "Package A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Package A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Package A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Package A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Vite Spa."
+   ]
+  },
+  {
+   "name": "Package A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Package A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package A Webhook Server."
+   ]
+  },
+  {
+   "name": "Package An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Ai Agent."
+   ]
+  },
+  {
+   "name": "Package An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Package An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Package An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Error Logger."
+   ]
+  },
+  {
+   "name": "Package An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Mcp Server."
+   ]
+  },
+  {
+   "name": "Package An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Package An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Parse A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Chatbot."
+   ]
+  },
+  {
+   "name": "Parse A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Parse A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Parse A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Parse A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Cron Job."
+   ]
+  },
+  {
+   "name": "Parse A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Parse A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Parse A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Parse A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Parse A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Parse A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Fastify Server."
+   ]
+  },
+  {
+   "name": "Parse A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Parse A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Log Parser."
+   ]
+  },
+  {
+   "name": "Parse A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Parse A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Next.Js App."
+   ]
+  },
+  {
+   "name": "Parse A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Parse A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Notion Integration."
+   ]
+  },
+  {
+   "name": "Parse A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Parse A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Parse A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Parse A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Parse A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Python Scraper."
+   ]
+  },
+  {
+   "name": "Parse A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A React Dashboard."
+   ]
+  },
+  {
+   "name": "Parse A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Readme Generator."
+   ]
+  },
+  {
+   "name": "Parse A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Parse A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Report Builder."
+   ]
+  },
+  {
+   "name": "Parse A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Resume Generator."
+   ]
+  },
+  {
+   "name": "Parse A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Parse A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Search Indexer."
+   ]
+  },
+  {
+   "name": "Parse A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Slack Bot."
+   ]
+  },
+  {
+   "name": "Parse A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Static Site."
+   ]
+  },
+  {
+   "name": "Parse A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Parse A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Test Generator."
+   ]
+  },
+  {
+   "name": "Parse A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Parse A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Parse A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Parse A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Vite Spa."
+   ]
+  },
+  {
+   "name": "Parse A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Parse A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse A Webhook Server."
+   ]
+  },
+  {
+   "name": "Parse An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Ai Agent."
+   ]
+  },
+  {
+   "name": "Parse An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Parse An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Parse An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Error Logger."
+   ]
+  },
+  {
+   "name": "Parse An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Mcp Server."
+   ]
+  },
+  {
+   "name": "Parse An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Parse An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Refactor A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Chatbot."
+   ]
+  },
+  {
+   "name": "Refactor A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Refactor A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Refactor A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Refactor A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Cron Job."
+   ]
+  },
+  {
+   "name": "Refactor A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Refactor A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Refactor A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Refactor A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Refactor A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Refactor A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Fastify Server."
+   ]
+  },
+  {
+   "name": "Refactor A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Refactor A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Log Parser."
+   ]
+  },
+  {
+   "name": "Refactor A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Refactor A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Next.Js App."
+   ]
+  },
+  {
+   "name": "Refactor A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Refactor A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Notion Integration."
+   ]
+  },
+  {
+   "name": "Refactor A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Refactor A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Refactor A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Refactor A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Refactor A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Python Scraper."
+   ]
+  },
+  {
+   "name": "Refactor A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A React Dashboard."
+   ]
+  },
+  {
+   "name": "Refactor A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Readme Generator."
+   ]
+  },
+  {
+   "name": "Refactor A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Refactor A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Report Builder."
+   ]
+  },
+  {
+   "name": "Refactor A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Resume Generator."
+   ]
+  },
+  {
+   "name": "Refactor A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Refactor A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Search Indexer."
+   ]
+  },
+  {
+   "name": "Refactor A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Slack Bot."
+   ]
+  },
+  {
+   "name": "Refactor A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Static Site."
+   ]
+  },
+  {
+   "name": "Refactor A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Refactor A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Test Generator."
+   ]
+  },
+  {
+   "name": "Refactor A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Refactor A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Refactor A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Refactor A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Vite Spa."
+   ]
+  },
+  {
+   "name": "Refactor A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Refactor A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor A Webhook Server."
+   ]
+  },
+  {
+   "name": "Refactor An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Ai Agent."
+   ]
+  },
+  {
+   "name": "Refactor An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Refactor An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Refactor An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Error Logger."
+   ]
+  },
+  {
+   "name": "Refactor An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Mcp Server."
+   ]
+  },
+  {
+   "name": "Refactor An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Refactor An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Release A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Chatbot."
+   ]
+  },
+  {
+   "name": "Release A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Release A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Release A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Release A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Cron Job."
+   ]
+  },
+  {
+   "name": "Release A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Release A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Release A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Release A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Release A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Release A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Fastify Server."
+   ]
+  },
+  {
+   "name": "Release A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Release A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Log Parser."
+   ]
+  },
+  {
+   "name": "Release A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Release A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Next.Js App."
+   ]
+  },
+  {
+   "name": "Release A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Release A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Notion Integration."
+   ]
+  },
+  {
+   "name": "Release A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Release A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Release A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Release A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Release A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Python Scraper."
+   ]
+  },
+  {
+   "name": "Release A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A React Dashboard."
+   ]
+  },
+  {
+   "name": "Release A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Readme Generator."
+   ]
+  },
+  {
+   "name": "Release A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Release A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Report Builder."
+   ]
+  },
+  {
+   "name": "Release A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Resume Generator."
+   ]
+  },
+  {
+   "name": "Release A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Release A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Search Indexer."
+   ]
+  },
+  {
+   "name": "Release A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Slack Bot."
+   ]
+  },
+  {
+   "name": "Release A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Static Site."
+   ]
+  },
+  {
+   "name": "Release A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Release A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Test Generator."
+   ]
+  },
+  {
+   "name": "Release A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Release A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Release A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Release A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Vite Spa."
+   ]
+  },
+  {
+   "name": "Release A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Release A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release A Webhook Server."
+   ]
+  },
+  {
+   "name": "Release An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Ai Agent."
+   ]
+  },
+  {
+   "name": "Release An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Release An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Release An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Error Logger."
+   ]
+  },
+  {
+   "name": "Release An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Mcp Server."
+   ]
+  },
+  {
+   "name": "Release An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Release An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Roll Back A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Chatbot."
+   ]
+  },
+  {
+   "name": "Roll Back A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Roll Back A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Roll Back A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Roll Back A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Cron Job."
+   ]
+  },
+  {
+   "name": "Roll Back A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Roll Back A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Roll Back A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Roll Back A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Roll Back A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Roll Back A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Fastify Server."
+   ]
+  },
+  {
+   "name": "Roll Back A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Roll Back A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Log Parser."
+   ]
+  },
+  {
+   "name": "Roll Back A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Roll Back A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Next.Js App."
+   ]
+  },
+  {
+   "name": "Roll Back A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Roll Back A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Notion Integration."
+   ]
+  },
+  {
+   "name": "Roll Back A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Roll Back A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Roll Back A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Roll Back A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Roll Back A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Python Scraper."
+   ]
+  },
+  {
+   "name": "Roll Back A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A React Dashboard."
+   ]
+  },
+  {
+   "name": "Roll Back A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Readme Generator."
+   ]
+  },
+  {
+   "name": "Roll Back A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Roll Back A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Report Builder."
+   ]
+  },
+  {
+   "name": "Roll Back A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Resume Generator."
+   ]
+  },
+  {
+   "name": "Roll Back A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Roll Back A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Search Indexer."
+   ]
+  },
+  {
+   "name": "Roll Back A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Slack Bot."
+   ]
+  },
+  {
+   "name": "Roll Back A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Static Site."
+   ]
+  },
+  {
+   "name": "Roll Back A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Roll Back A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Test Generator."
+   ]
+  },
+  {
+   "name": "Roll Back A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Roll Back A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Roll Back A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Roll Back A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Vite Spa."
+   ]
+  },
+  {
+   "name": "Roll Back A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Roll Back A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back A Webhook Server."
+   ]
+  },
+  {
+   "name": "Roll Back An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Ai Agent."
+   ]
+  },
+  {
+   "name": "Roll Back An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Roll Back An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Roll Back An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Error Logger."
+   ]
+  },
+  {
+   "name": "Roll Back An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Mcp Server."
+   ]
+  },
+  {
+   "name": "Roll Back An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Roll Back An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Scaffold A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Chatbot."
+   ]
+  },
+  {
+   "name": "Scaffold A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Scaffold A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Scaffold A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Scaffold A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Cron Job."
+   ]
+  },
+  {
+   "name": "Scaffold A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Scaffold A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Scaffold A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Scaffold A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Scaffold A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Scaffold A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Fastify Server."
+   ]
+  },
+  {
+   "name": "Scaffold A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Scaffold A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Log Parser."
+   ]
+  },
+  {
+   "name": "Scaffold A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Scaffold A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Next.Js App."
+   ]
+  },
+  {
+   "name": "Scaffold A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Scaffold A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Notion Integration."
+   ]
+  },
+  {
+   "name": "Scaffold A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Scaffold A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Scaffold A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Scaffold A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Scaffold A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Python Scraper."
+   ]
+  },
+  {
+   "name": "Scaffold A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A React Dashboard."
+   ]
+  },
+  {
+   "name": "Scaffold A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Readme Generator."
+   ]
+  },
+  {
+   "name": "Scaffold A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Scaffold A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Report Builder."
+   ]
+  },
+  {
+   "name": "Scaffold A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Resume Generator."
+   ]
+  },
+  {
+   "name": "Scaffold A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Scaffold A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Search Indexer."
+   ]
+  },
+  {
+   "name": "Scaffold A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Slack Bot."
+   ]
+  },
+  {
+   "name": "Scaffold A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Static Site."
+   ]
+  },
+  {
+   "name": "Scaffold A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Scaffold A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Test Generator."
+   ]
+  },
+  {
+   "name": "Scaffold A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Scaffold A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Scaffold A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Scaffold A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Vite Spa."
+   ]
+  },
+  {
+   "name": "Scaffold A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Scaffold A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold A Webhook Server."
+   ]
+  },
+  {
+   "name": "Scaffold An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Ai Agent."
+   ]
+  },
+  {
+   "name": "Scaffold An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Scaffold An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Scaffold An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Error Logger."
+   ]
+  },
+  {
+   "name": "Scaffold An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Mcp Server."
+   ]
+  },
+  {
+   "name": "Scaffold An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Scaffold An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Script A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Chatbot."
+   ]
+  },
+  {
+   "name": "Script A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Script A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Script A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Script A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Cron Job."
+   ]
+  },
+  {
+   "name": "Script A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Script A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Script A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Script A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Script A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Script A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Fastify Server."
+   ]
+  },
+  {
+   "name": "Script A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Script A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Log Parser."
+   ]
+  },
+  {
+   "name": "Script A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Script A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Next.Js App."
+   ]
+  },
+  {
+   "name": "Script A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Script A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Notion Integration."
+   ]
+  },
+  {
+   "name": "Script A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Script A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Script A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Script A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Script A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Python Scraper."
+   ]
+  },
+  {
+   "name": "Script A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A React Dashboard."
+   ]
+  },
+  {
+   "name": "Script A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Readme Generator."
+   ]
+  },
+  {
+   "name": "Script A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Script A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Report Builder."
+   ]
+  },
+  {
+   "name": "Script A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Resume Generator."
+   ]
+  },
+  {
+   "name": "Script A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Script A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Search Indexer."
+   ]
+  },
+  {
+   "name": "Script A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Slack Bot."
+   ]
+  },
+  {
+   "name": "Script A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Static Site."
+   ]
+  },
+  {
+   "name": "Script A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Script A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Test Generator."
+   ]
+  },
+  {
+   "name": "Script A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Script A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Script A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Script A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Vite Spa."
+   ]
+  },
+  {
+   "name": "Script A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Script A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script A Webhook Server."
+   ]
+  },
+  {
+   "name": "Script An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Ai Agent."
+   ]
+  },
+  {
+   "name": "Script An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Script An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Script An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Error Logger."
+   ]
+  },
+  {
+   "name": "Script An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Mcp Server."
+   ]
+  },
+  {
+   "name": "Script An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (automation) for OpenCode: Script An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Set Up A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Chatbot."
+   ]
+  },
+  {
+   "name": "Set Up A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Set Up A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Set Up A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Set Up A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Cron Job."
+   ]
+  },
+  {
+   "name": "Set Up A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Set Up A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Set Up A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Set Up A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Set Up A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Set Up A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Fastify Server."
+   ]
+  },
+  {
+   "name": "Set Up A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Set Up A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Log Parser."
+   ]
+  },
+  {
+   "name": "Set Up A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Set Up A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Next.Js App."
+   ]
+  },
+  {
+   "name": "Set Up A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Set Up A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Notion Integration."
+   ]
+  },
+  {
+   "name": "Set Up A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Set Up A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Set Up A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Set Up A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Set Up A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Python Scraper."
+   ]
+  },
+  {
+   "name": "Set Up A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A React Dashboard."
+   ]
+  },
+  {
+   "name": "Set Up A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Readme Generator."
+   ]
+  },
+  {
+   "name": "Set Up A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Set Up A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Report Builder."
+   ]
+  },
+  {
+   "name": "Set Up A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Resume Generator."
+   ]
+  },
+  {
+   "name": "Set Up A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Set Up A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Search Indexer."
+   ]
+  },
+  {
+   "name": "Set Up A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Slack Bot."
+   ]
+  },
+  {
+   "name": "Set Up A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Static Site."
+   ]
+  },
+  {
+   "name": "Set Up A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Set Up A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Test Generator."
+   ]
+  },
+  {
+   "name": "Set Up A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Set Up A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Set Up A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Set Up A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Vite Spa."
+   ]
+  },
+  {
+   "name": "Set Up A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Set Up A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up A Webhook Server."
+   ]
+  },
+  {
+   "name": "Set Up An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Ai Agent."
+   ]
+  },
+  {
+   "name": "Set Up An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Set Up An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Set Up An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Error Logger."
+   ]
+  },
+  {
+   "name": "Set Up An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Mcp Server."
+   ]
+  },
+  {
+   "name": "Set Up An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Set Up An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Summarize A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Chatbot."
+   ]
+  },
+  {
+   "name": "Summarize A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Summarize A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Summarize A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Summarize A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Cron Job."
+   ]
+  },
+  {
+   "name": "Summarize A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Summarize A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Summarize A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Summarize A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Summarize A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Summarize A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Fastify Server."
+   ]
+  },
+  {
+   "name": "Summarize A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Summarize A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Log Parser."
+   ]
+  },
+  {
+   "name": "Summarize A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Summarize A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Next.Js App."
+   ]
+  },
+  {
+   "name": "Summarize A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Summarize A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Notion Integration."
+   ]
+  },
+  {
+   "name": "Summarize A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Summarize A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Summarize A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Summarize A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Summarize A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Python Scraper."
+   ]
+  },
+  {
+   "name": "Summarize A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A React Dashboard."
+   ]
+  },
+  {
+   "name": "Summarize A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Readme Generator."
+   ]
+  },
+  {
+   "name": "Summarize A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Summarize A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Report Builder."
+   ]
+  },
+  {
+   "name": "Summarize A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Resume Generator."
+   ]
+  },
+  {
+   "name": "Summarize A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Summarize A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Search Indexer."
+   ]
+  },
+  {
+   "name": "Summarize A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Slack Bot."
+   ]
+  },
+  {
+   "name": "Summarize A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Static Site."
+   ]
+  },
+  {
+   "name": "Summarize A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Summarize A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Test Generator."
+   ]
+  },
+  {
+   "name": "Summarize A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Summarize A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Summarize A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Summarize A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Vite Spa."
+   ]
+  },
+  {
+   "name": "Summarize A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Summarize A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize A Webhook Server."
+   ]
+  },
+  {
+   "name": "Summarize An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Ai Agent."
+   ]
+  },
+  {
+   "name": "Summarize An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Summarize An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Summarize An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Error Logger."
+   ]
+  },
+  {
+   "name": "Summarize An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Mcp Server."
+   ]
+  },
+  {
+   "name": "Summarize An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (docs) for OpenCode: Summarize An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Test A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Chatbot."
+   ]
+  },
+  {
+   "name": "Test A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Test A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Test A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Test A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Cron Job."
+   ]
+  },
+  {
+   "name": "Test A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Test A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Test A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Test A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Test A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Test A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Fastify Server."
+   ]
+  },
+  {
+   "name": "Test A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Test A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Log Parser."
+   ]
+  },
+  {
+   "name": "Test A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Test A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Next.Js App."
+   ]
+  },
+  {
+   "name": "Test A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Test A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Notion Integration."
+   ]
+  },
+  {
+   "name": "Test A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Test A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Test A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Test A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Test A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Python Scraper."
+   ]
+  },
+  {
+   "name": "Test A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A React Dashboard."
+   ]
+  },
+  {
+   "name": "Test A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Readme Generator."
+   ]
+  },
+  {
+   "name": "Test A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Test A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Report Builder."
+   ]
+  },
+  {
+   "name": "Test A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Resume Generator."
+   ]
+  },
+  {
+   "name": "Test A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Test A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Search Indexer."
+   ]
+  },
+  {
+   "name": "Test A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Slack Bot."
+   ]
+  },
+  {
+   "name": "Test A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Static Site."
+   ]
+  },
+  {
+   "name": "Test A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Test A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Test Generator."
+   ]
+  },
+  {
+   "name": "Test A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Test A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Test A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Test A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Vite Spa."
+   ]
+  },
+  {
+   "name": "Test A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Test A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test A Webhook Server."
+   ]
+  },
+  {
+   "name": "Test An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Ai Agent."
+   ]
+  },
+  {
+   "name": "Test An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Test An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Test An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Error Logger."
+   ]
+  },
+  {
+   "name": "Test An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Mcp Server."
+   ]
+  },
+  {
+   "name": "Test An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (coding) for OpenCode: Test An Opencode Skill."
+   ]
+  },
+  {
+   "name": "Upgrade A Chatbot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Chatbot."
+   ]
+  },
+  {
+   "name": "Upgrade A Chrome Extension",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Chrome Extension."
+   ]
+  },
+  {
+   "name": "Upgrade A Ci Cd Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Ci Cd Pipeline."
+   ]
+  },
+  {
+   "name": "Upgrade A Code Review Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Code Review Bot."
+   ]
+  },
+  {
+   "name": "Upgrade A Cron Job",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Cron Job."
+   ]
+  },
+  {
+   "name": "Upgrade A Daily Report Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Daily Report Script."
+   ]
+  },
+  {
+   "name": "Upgrade A Data Collection Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Data Collection Bot."
+   ]
+  },
+  {
+   "name": "Upgrade A Data Migration Script",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Data Migration Script."
+   ]
+  },
+  {
+   "name": "Upgrade A Dockerized Api",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Dockerized Api."
+   ]
+  },
+  {
+   "name": "Upgrade A Fastapi Endpoint",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Fastapi Endpoint."
+   ]
+  },
+  {
+   "name": "Upgrade A Fastify Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Fastify Server."
+   ]
+  },
+  {
+   "name": "Upgrade A Github Actions Ci Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Github Actions Ci Pipeline."
+   ]
+  },
+  {
+   "name": "Upgrade A Log Parser",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Log Parser."
+   ]
+  },
+  {
+   "name": "Upgrade A Monitoring Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Monitoring Dashboard."
+   ]
+  },
+  {
+   "name": "Upgrade A Next.Js App",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Next.Js App."
+   ]
+  },
+  {
+   "name": "Upgrade A Node Cli Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Node Cli Tool."
+   ]
+  },
+  {
+   "name": "Upgrade A Notion Integration",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Notion Integration."
+   ]
+  },
+  {
+   "name": "Upgrade A Pdf Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Pdf Generator."
+   ]
+  },
+  {
+   "name": "Upgrade A Portfolio Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Portfolio Site."
+   ]
+  },
+  {
+   "name": "Upgrade A Postgres Migration Tool",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Postgres Migration Tool."
+   ]
+  },
+  {
+   "name": "Upgrade A Python Data Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Python Data Pipeline."
+   ]
+  },
+  {
+   "name": "Upgrade A Python Scraper",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Python Scraper."
+   ]
+  },
+  {
+   "name": "Upgrade A React Dashboard",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A React Dashboard."
+   ]
+  },
+  {
+   "name": "Upgrade A Readme Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Readme Generator."
+   ]
+  },
+  {
+   "name": "Upgrade A Redis Cache Layer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Redis Cache Layer."
+   ]
+  },
+  {
+   "name": "Upgrade A Report Builder",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Report Builder."
+   ]
+  },
+  {
+   "name": "Upgrade A Resume Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Resume Generator."
+   ]
+  },
+  {
+   "name": "Upgrade A Saas Auth Flow",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Saas Auth Flow."
+   ]
+  },
+  {
+   "name": "Upgrade A Search Indexer",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Search Indexer."
+   ]
+  },
+  {
+   "name": "Upgrade A Slack Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Slack Bot."
+   ]
+  },
+  {
+   "name": "Upgrade A Static Site",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Static Site."
+   ]
+  },
+  {
+   "name": "Upgrade A Telegram Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Telegram Bot."
+   ]
+  },
+  {
+   "name": "Upgrade A Test Generator",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Test Generator."
+   ]
+  },
+  {
+   "name": "Upgrade A Typescript Microservice",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Typescript Microservice."
+   ]
+  },
+  {
+   "name": "Upgrade A Typescript Utility",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Typescript Utility."
+   ]
+  },
+  {
+   "name": "Upgrade A Vercel Deployment",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Vercel Deployment."
+   ]
+  },
+  {
+   "name": "Upgrade A Vite Spa",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Vite Spa."
+   ]
+  },
+  {
+   "name": "Upgrade A Webhook Based Alert Bot",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Webhook Based Alert Bot."
+   ]
+  },
+  {
+   "name": "Upgrade A Webhook Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade A Webhook Server."
+   ]
+  },
+  {
+   "name": "Upgrade An Ai Agent",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Ai Agent."
+   ]
+  },
+  {
+   "name": "Upgrade An Auto Deploy Pipeline",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Auto Deploy Pipeline."
+   ]
+  },
+  {
+   "name": "Upgrade An Auto Tagger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Auto Tagger."
+   ]
+  },
+  {
+   "name": "Upgrade An Error Logger",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Error Logger."
+   ]
+  },
+  {
+   "name": "Upgrade An Mcp Server",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Mcp Server."
+   ]
+  },
+  {
+   "name": "Upgrade An Opencode Skill",
+   "entityType": "skill",
+   "observations": [
+    "AI/coding skill (ops) for OpenCode: Upgrade An Opencode Skill."
+   ]
+  }
+ ],
+ "total": 1000
+}
